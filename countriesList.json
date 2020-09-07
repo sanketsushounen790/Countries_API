@@ -1,0 +1,2005 @@
+{
+    "countriesList":
+    [
+        {
+          "name": "Afghanistan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/National_emblem_of_Afghanistan.svg/995px-National_emblem_of_Afghanistan.svg.png",
+          "nationalAnthem": {
+            "title": "Millī Surūd",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav"
+          }
+        },
+        {
+          "name": "Åland Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Coat_of_arms_of_%C3%85land.svg/740px-Coat_of_arms_of_%C3%85land.svg.png",
+          "nationalAnthem": {
+            "title": "Ålänningens sång",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Albania",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/669px-Coat_of_arms_of_Albania.svg.png",
+          "nationalAnthem": {
+            "title": "Betimi mbi Flamur",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Algeria",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Emblem_of_Algeria.svg/1024px-Emblem_of_Algeria.svg.png",
+          "nationalAnthem": {
+            "title": "Kassaman",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/79/National_anthem_of_Algeria%2C_by_the_U.S._Navy_Band.oga"
+          }
+        },
+        {
+          "name": "American Samoa",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Seal_of_American_Samoa.svg/1024px-Seal_of_American_Samoa.svg.png",
+          "nationalAnthem": {
+            "title": "Amerika Samoa",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Andorra",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_Andorra.svg/949px-Coat_of_arms_of_Andorra.svg.png",
+          "nationalAnthem": {
+            "title": "El Gran Carlemany",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/5b/El_Gran_Carlemany.ogg"
+          }
+        },
+        {
+          "name": "Angola",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Emblem_of_Angola.svg/836px-Emblem_of_Angola.svg.png",
+          "nationalAnthem": {
+            "title": "Angola Avante",
+            "audio": "https://upload.wikimedia.org/wikipedia/en/d/d0/Angola%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg"
+          }
+        },
+        {
+          "name": "Anguilla",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Coat_of_arms_of_Anguilla.svg/819px-Coat_of_arms_of_Anguilla.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Antarctica",
+          "armorial": "",
+          "nationalAnthem": {
+            "title": "",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Antigua and Barbuda",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Antigua_and_Barbuda.svg/885px-Coat_of_arms_of_Antigua_and_Barbuda.svg.png",
+          "nationalAnthem": {
+            "title": "Fair Antigua, We Salute Thee",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/27/Antigua_and_Barbuda_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Argentina",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Coat_of_arms_of_Argentina.svg/744px-Coat_of_arms_of_Argentina.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional Argentino",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg"
+          }
+        },
+        {
+          "name": "Armenia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Coat_of_arms_of_Armenia.svg/1065px-Coat_of_arms_of_Armenia.svg.png",
+          "nationalAnthem": {
+            "title": "Mer Hayrenik",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mer_Hayrenik_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Aruba",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Aruba.svg/844px-Coat_of_arms_of_Aruba.svg.png",
+          "nationalAnthem": {
+            "title": "Aruba Dushi Tera",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/92/Aruba_Dushi_Tera_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Australia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coat_of_Arms_of_Australia.svg/1280px-Coat_of_Arms_of_Australia.svg.png",
+          "nationalAnthem": {
+            "title": "Advance Australia Fair",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Austria",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Austria_Bundesadler.svg/968px-Austria_Bundesadler.svg.png",
+          "nationalAnthem": {
+            "title": "Bundeshymne der Republik Österreich",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Azerbaijan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Emblem_of_Azerbaijan.svg/939px-Emblem_of_Azerbaijan.svg.png",
+          "nationalAnthem": {
+            "title": "Azərbaycan marşı",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/91/National_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Bahamas",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/1323px-Coat_of_arms_of_the_Bahamas.svg.png",
+          "nationalAnthem": {
+            "title": "March On, Bahamaland",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/62/National_anthem_of_the_Bahamas.oga"
+          }
+        },
+        {
+          "name": "Bahrain",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Emblem_of_Bahrain.svg/1013px-Emblem_of_Bahrain.svg.png",
+          "nationalAnthem": {
+            "title": "Bahrainona",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bahraini_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Bangladesh",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/National_emblem_of_Bangladesh.svg/1024px-National_emblem_of_Bangladesh.svg.png",
+          "nationalAnthem": {
+            "title": "Amar Shonar Bangla",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Amar_Shonar_Bangla_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Barbados",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Coat_of_arms_of_Barbados_%282%29.svg/952px-Coat_of_arms_of_Barbados_%282%29.svg.png",
+          "nationalAnthem": {
+            "title": "In Plenty and In Time of Need",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/73/In_Plenty_and_In_Time_of_Need_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Belarus",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Coat_of_arms_of_Belarus_%282020%29.svg/1028px-Coat_of_arms_of_Belarus_%282020%29.svg.png",
+          "nationalAnthem": {
+            "title": "My Belarusy",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/35/My_Belarusy_vocal.ogg"
+          }
+        },
+        {
+          "name": "Belgium",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Great_coat_of_arms_of_Belgium.svg/972px-Great_coat_of_arms_of_Belgium.svg.png",
+          "nationalAnthem": {
+            "title": "The Brabançonne",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Braban%C3%A7onne.oga"
+          }
+        },
+        {
+          "name": "Belize",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coat_of_arms_of_Belize.svg/1024px-Coat_of_arms_of_Belize.svg.png",
+          "nationalAnthem": {
+            "title": "Land of the Free",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/00/Land_of_the_Free_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Benin",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coat_of_arms_of_Benin.svg/1161px-Coat_of_arms_of_Benin.svg.png",
+          "nationalAnthem": {
+            "title": "L'Aube Nouvelle",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/74/L%27Aube_Nouvelle.ogg"
+          }
+        },
+        {
+          "name": "Bermuda",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coat_of_arms_of_Bermuda.svg/691px-Coat_of_arms_of_Bermuda.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Bhutan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Emblem_of_Bhutan.svg/1024px-Emblem_of_Bhutan.svg.png",
+          "nationalAnthem": {
+            "title": "Druk tsendhen",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Bolivia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Coat_of_arms_of_Bolivia.svg/1907px-Coat_of_arms_of_Bolivia.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional de Bolivia",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Caribbean Netherlands",
+          "armorial": "",
+          "nationalAnthem": {
+            "title": "",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg/896px-Coat_of_arms_of_Bosnia_and_Herzegovina.svg.png",
+          "nationalAnthem": {
+            "title": "Državna himna Bosne i Hercegovine",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Botswana",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Botswana.svg/1280px-Coat_of_arms_of_Botswana.svg.png",
+          "nationalAnthem": {
+            "title": "Fatshe leno la rona",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/cb/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg"
+          }
+        },
+        {
+          "name": "Bouvet Island",
+          "armorial": "",
+          "nationalAnthem": {
+            "title": "",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Brazil",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/1021px-Coat_of_arms_of_Brazil.svg.png",
+          "nationalAnthem": {
+            "title": "Hino Nacional Brasileiro",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg"
+          }
+        },
+        {
+          "name": "British Indian Ocean Territory",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coat_of_arms_of_the_British_Indian_Ocean_Territory.svg/1030px-Coat_of_arms_of_the_British_Indian_Ocean_Territory.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "United States Minor Outlying Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1024px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+          "nationalAnthem": {
+            "title": "The Star-Spangled Banner",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/25/%22The_Star-Spangled_Banner%22_performed_by_the_United_States_Navy_Band.mp3"
+          }
+        },
+        {
+          "name": "Virgin Islands (British)",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Coat_of_arms_of_the_British_Virgin_Islands.svg/938px-Coat_of_arms_of_the_British_Virgin_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Virgin Islands (U.S.)",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Seal_of_the_United_States_Virgin_Islands.svg/1024px-Seal_of_the_United_States_Virgin_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "Virgin Islands March",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/74/Regional_anthem_of_the_United_States_Virgin_Islands.wav"
+          }
+        },
+        {
+          "name": "Brunei",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Emblem_of_Brunei.svg/1167px-Emblem_of_Brunei.svg.png",
+          "nationalAnthem": {
+            "title": "Allah Peliharakan Sultan",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Navy_Band_-_Allah_Peliharakan_Sultan.oga"
+          }
+        },
+        {
+          "name": "Bulgaria",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_arms_of_Bulgaria.svg/1222px-Coat_of_arms_of_Bulgaria.svg.png",
+          "nationalAnthem": {
+            "title": "Mila Rodino",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mila_Rodino_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Burkina Faso",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_Burkina_Faso.svg/845px-Coat_of_arms_of_Burkina_Faso.svg.png",
+          "nationalAnthem": {
+            "title": "Une Seule Nuit",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hymne_National_du_Burkina_Faso.ogg"
+          }
+        },
+        {
+          "name": "Burundi",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Burundi.svg/1017px-Coat_of_arms_of_Burundi.svg.png",
+          "nationalAnthem": {
+            "title": "Burundi Bwacu",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Burundi_Bwacu_%28Instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Cambodia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Royal_arms_of_Cambodia.svg/895px-Royal_arms_of_Cambodia.svg.png",
+          "nationalAnthem": {
+            "title": "Nokor Reach",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/af/United_States_Navy_Band_-_Nokoreach.ogg"
+          }
+        },
+        {
+          "name": "Cameroon",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Coat_of_arms_of_Cameroon.svg/903px-Coat_of_arms_of_Cameroon.svg.png",
+          "nationalAnthem": {
+            "title": "O Cameroun, Berceau de nos Ancêtres",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Chant_de_Ralliement.ogg"
+          }
+        },
+        {
+          "name": "Canada",
+          "armorial": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Coat_of_arms_of_Canada.svg/763px-Coat_of_arms_of_Canada.svg.png",
+          "nationalAnthem": {
+            "title": "Ô Canada",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga"
+          }
+        },
+        {
+          "name": "Cabo Verde",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coat_of_arms_of_Cape_Verde.svg/1021px-Coat_of_arms_of_Cape_Verde.svg.png",
+          "nationalAnthem": {
+            "title": "Cântico da Liberdade",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b6/C%C3%A2ntico_da_Liberdade_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Cayman Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Coat_of_arms_of_the_Cayman_Islands.svg/839px-Coat_of_arms_of_the_Cayman_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Central African Republic",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Coat_of_arms_of_the_Central_African_Republic.svg/1076px-Coat_of_arms_of_the_Central_African_Republic.svg.png",
+          "nationalAnthem": {
+            "title": "La Renaissance",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/85/La_Renaissance.ogg"
+          }
+        },
+        {
+          "name": "Chad",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Coat_of_arms_of_Chad.svg/1173px-Coat_of_arms_of_Chad.svg.png",
+          "nationalAnthem": {
+            "title": "La Tchadienne",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/8d/La_Tchadienne_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Chile",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coat_of_arms_of_Chile.svg/1280px-Coat_of_arms_of_Chile.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional de Chile",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg"
+          }
+        },
+        {
+          "name": "China",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/National_Emblem_of_the_People%27s_Republic_of_China.svg/943px-National_Emblem_of_the_People%27s_Republic_of_China.svg.png",
+          "nationalAnthem": {
+            "title": "Yìyǒngjūn Jìnxíngqǔ",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/fb/China_-_CCTV_Sign-on_Rendition.ogg"
+          }
+        },
+        {
+          "name": "Christmas Island",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Unofficial_Coat_of_Arms_of_Christmas_Island.svg/849px-Unofficial_Coat_of_Arms_of_Christmas_Island.svg.png",
+          "nationalAnthem": {
+            "title": "Advance Australia Fair",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Cocos (Keeling) Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Clunies-Ross_family_arms.svg/1191px-Clunies-Ross_family_arms.svg.png",
+          "nationalAnthem": {
+            "title": "Advance Australia Fair",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Colombia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Coat_of_arms_of_Colombia.svg/1063px-Coat_of_arms_of_Colombia.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional de la República de Colombia",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg"
+          }
+        },
+        {
+          "name": "Comoros",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Seal_of_the_Comoros.svg/1025px-Seal_of_the_Comoros.svg.png",
+          "nationalAnthem": {
+            "title": "Udzima wa ya Masiwa",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/ad/National_anthem_of_the_Comoros%2C_performed_by_the_U.S._Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Republic of the Congo",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Coat_of_arms_of_the_Republic_of_the_Congo.svg/1006px-Coat_of_arms_of_the_Republic_of_the_Congo.svg.png",
+          "nationalAnthem": {
+            "title": "La Congolaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/dc/National_anthem_of_the_Republic_of_the_Congo.oga"
+          }
+        },
+        {
+          "name": "Democratic Republic of the Congo",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg/1062px-Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg.png",
+          "nationalAnthem": {
+            "title": "Debout Congolais",
+            "audio": "https://upload.wikimedia.org/wikipedia/en/3/3f/Democratic_Republic_of_the_Congo%27s_national_anthem.ogg"
+          }
+        },
+        {
+          "name": "Cook Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_the_Cook_Islands.svg/958px-Coat_of_arms_of_the_Cook_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Costa Rica",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_Costa_Rica.svg/936px-Coat_of_arms_of_Costa_Rica.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional de Costa Rica",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/79/Costa_Rica_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Croatia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Croatia.svg/773px-Coat_of_arms_of_Croatia.svg.png",
+          "nationalAnthem": {
+            "title": "Lijepa naša domovino",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lijepa_nasa_domovino_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Cuba",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Coat_of_arms_of_Cuba.svg/910px-Coat_of_arms_of_Cuba.svg.png",
+          "nationalAnthem": {
+            "title": "El Himno de Bayamo",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cuban_national_anthem_%28abridged_version%29%2C_performed_by_the_U.S._Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Curaçao",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Coat_of_arms_of_Cura%C3%A7ao.svg/714px-Coat_of_arms_of_Cura%C3%A7ao.svg.png",
+          "nationalAnthem": {
+            "title": "Himno di Kòrsou",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Anthem_Cura%C3%A7ao_-_Himno_di_K%C3%B2rsou_%28Instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Cyprus",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cyprus_coat_of_arms_2006.svg/1014px-Cyprus_coat_of_arms_2006.svg.png",
+          "nationalAnthem": {
+            "title": "Ýmnos eis tīn Eleutherían",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
+          }
+        },
+        {
+          "name": "Czech Republic",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_the_Czech_Republic.svg/1171px-Coat_of_arms_of_the_Czech_Republic.svg.png",
+          "nationalAnthem": {
+            "title": "Kde domov můj",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Czech_anthem.ogg"
+          }
+        },
+        {
+          "name": "Denmark",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/National_Coat_of_arms_of_Denmark.svg/584px-National_Coat_of_arms_of_Denmark.svg.png",
+          "nationalAnthem": {
+            "title": "Kong Christian stod ved højen mast",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b9/United_States_Navy_Band_-_Kong_Kristian_stod_ved_h%C3%B8jen_mast.ogg"
+          }
+        },
+        {
+          "name": "Djibouti",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Emblem_of_Djibouti.svg/938px-Emblem_of_Djibouti.svg.png",
+          "nationalAnthem": {
+            "title": "Djibouti",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Djiboutian_anthem.ogg"
+          }
+        },
+        {
+          "name": "Dominica",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coat-of-arms-of-Dominica.svg/1280px-Coat-of-arms-of-Dominica.svg.png",
+          "nationalAnthem": {
+            "title": "Isle of Beauty, Isle of Splendour",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National_Anthem_of_Dominica_by_US_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Dominican Republic",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coat_of_arms_of_the_Dominican_Republic.svg/1024px-Coat_of_arms_of_the_Dominican_Republic.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dominican_Republic_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Ecuador",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ecuador.svg/853px-Coat_of_arms_of_Ecuador.svg.png",
+          "nationalAnthem": {
+            "title": "Salve, Oh Patria",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg"
+          }
+        },
+        {
+          "name": "Egypt",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg/754px-Coat_of_arms_of_Egypt_%28Official%29.svg.png",
+          "nationalAnthem": {
+            "title": "Bilady, Bilady, Bilady",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg"
+          }
+        },
+        {
+          "name": "El Salvador",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_arms_of_El_Salvador.svg/1076px-Coat_of_arms_of_El_Salvador.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional de El Salvador",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/4e/El_Salvador_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Equatorial Guinea",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Coat_of_arms_of_Equatorial_Guinea.svg/1277px-Coat_of_arms_of_Equatorial_Guinea.svg.png",
+          "nationalAnthem": {
+            "title": "Caminemos pisando las sendas de nuestra inmensa felicidad",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Equatorial_Guinea%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Eritrea",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Emblem_of_Eritrea_%28or_argent_azur%29.svg/1043px-Emblem_of_Eritrea_%28or_argent_azur%29.svg.png",
+          "nationalAnthem": {
+            "title": "Ertra, Ertra, Ertra",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/4f/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Estonia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Coat_of_arms_of_Estonia.svg/1100px-Coat_of_arms_of_Estonia.svg.png",
+          "nationalAnthem": {
+            "title": "Mu isamaa, mu õnn ja rõõm",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/52/US_Navy_band_-_National_anthem_of_Estonia.ogg"
+          }
+        },
+        {
+          "name": "Ethiopia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Emblem_of_Ethiopia.svg/1024px-Emblem_of_Ethiopia.svg.png",
+          "nationalAnthem": {
+            "title": "Wodefit Gesgeshi, Widd Innat Ityopp'ya",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg"
+          }
+        },
+        {
+          "name": "Falkland Islands (Malvinas)",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Coat_of_arms_of_the_Falkland_Islands.svg/781px-Coat_of_arms_of_the_Falkland_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Faroe Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Coat_of_arms_of_the_Faroe_Islands.svg/875px-Coat_of_arms_of_the_Faroe_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "Tú alfagra land mítt",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Fiji",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Coat_of_arms_of_Fiji.svg/1040px-Coat_of_arms_of_Fiji.svg.png",
+          "nationalAnthem": {
+            "title": "Meda Dau Doka",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fiji_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Finland",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coat_of_arms_of_Finland.svg/819px-Coat_of_arms_of_Finland.svg.png",
+          "nationalAnthem": {
+            "title": "Maamme",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/61/United_States_Navy_Band_-_Maamme.ogg"
+          }
+        },
+        {
+          "name": "France",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Coat_of_arms_of_the_French_Republic.svg/628px-Coat_of_arms_of_the_French_Republic.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "French Guiana",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Coat_of_arms_of_French_Guyana.svg/799px-Coat_of_arms_of_French_Guyana.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "French Polynesia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Coat_of_arms_of_French_Polynesia.svg/1780px-Coat_of_arms_of_French_Polynesia.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "French Southern Territories",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Armoiries_des_Terres_australes_et_antarctiques_fran%C3%A7aises.svg/1083px-Armoiries_des_Terres_australes_et_antarctiques_fran%C3%A7aises.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "Gabon",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Coat_of_arms_of_Gabon.svg/1789px-Coat_of_arms_of_Gabon.svg.png",
+          "nationalAnthem": {
+            "title": "La Concorde",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/fc/La_Concorde.ogg"
+          }
+        },
+        {
+          "name": "Gambia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Coat_of_arms_of_The_Gambia.svg/1054px-Coat_of_arms_of_The_Gambia.svg.png",
+          "nationalAnthem": {
+            "title": "For The Gambia Our Homeland",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/05/For_The_Gambia_Our_Homeland_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Georgia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Greater_coat_of_arms_of_Georgia.svg/1174px-Greater_coat_of_arms_of_Georgia.svg.png",
+          "nationalAnthem": {
+            "title": "Tavisupleba",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Georgian_national_anthem.wav"
+          }
+        },
+        {
+          "name": "Germany",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/788px-Coat_of_arms_of_Germany.svg.png",
+          "nationalAnthem": {
+            "title": "Lied der Deutschen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg"
+          }
+        },
+        {
+          "name": "Ghana",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Coat_of_arms_of_Ghana.svg/1229px-Coat_of_arms_of_Ghana.svg.png",
+          "nationalAnthem": {
+            "title": "God Bless Our Homeland Ghana",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/43/National_Anthem_of_Ghana.ogg"
+          }
+        },
+        {
+          "name": "Gibraltar",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Coat_of_arms_of_Gibraltar1.svg/901px-Coat_of_arms_of_Gibraltar1.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Greece",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_arms_of_Greece.svg/1006px-Coat_of_arms_of_Greece.svg.png",
+          "nationalAnthem": {
+            "title": "Ýmnos eis tīn Eleutherían",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
+          }
+        },
+        {
+          "name": "Greenland",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coat_of_arms_of_Greenland.svg/713px-Coat_of_arms_of_Greenland.svg.png",
+          "nationalAnthem": {
+            "title": "Nunarput utoqqarsuanngoravit",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Grenada",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coat_of_arms_of_Grenada.svg/1071px-Coat_of_arms_of_Grenada.svg.png",
+          "nationalAnthem": {
+            "title": "Hail Grenada",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/76/HailGrenada.ogg"
+          }
+        },
+        {
+          "name": "Guadeloupe",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Coat_of_arms_of_Guadeloupe.svg/931px-Coat_of_arms_of_Guadeloupe.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "Guam",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seal_of_Guam.svg/783px-Seal_of_Guam.svg.png",
+          "nationalAnthem": {
+            "title": "Stand Ye Guamanians",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Guatemala",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Coat_of_arms_of_Guatemala_with_background.svg/1024px-Coat_of_arms_of_Guatemala_with_background.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional de Guatemala",
+            "audio": "https://upload.wikimedia.org/wikipedia/en/a/a9/Guatemala%27s_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Guernsey",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Coat_of_arms_of_Guernsey.svg/698px-Coat_of_arms_of_Guernsey.svg.png",
+          "nationalAnthem": {
+            "title": "Sarnia Cherie",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Guinea",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Guinea.svg/1275px-Coat_of_arms_of_Guinea.svg.png",
+          "nationalAnthem": {
+            "title": "Liberté",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/65/National_Anthem_of_Guinea_by_US_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Guinea-Bissau",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Emblem_of_Guinea-Bissau.svg/1005px-Emblem_of_Guinea-Bissau.svg.png",
+          "nationalAnthem": {
+            "title": "Esta É a Nossa Pátria Bem Amada",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/54/Esta_%C3%A9_a_Nossa_P%C3%A1tria_Bem_Amada_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Guyana",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Coat_of_arms_of_Guyana.svg/1067px-Coat_of_arms_of_Guyana.svg.png",
+          "nationalAnthem": {
+            "title": "Dear Land of Guyana, of Rivers and Plains",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/85/National_Anthem_of_Guyana.ogg"
+          }
+        },
+        {
+          "name": "Haiti",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Coat_of_arms_of_Haiti.svg/1253px-Coat_of_arms_of_Haiti.svg.png",
+          "nationalAnthem": {
+            "title": "La Dessalinienne",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Haiti_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Heard Island and McDonald Islands",
+          "armorial": "",
+          "nationalAnthem": {
+            "title": "",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Vatican City",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coat_of_arms_of_the_Vatican_City.svg/1165px-Coat_of_arms_of_the_Vatican_City.svg.png",
+          "nationalAnthem": {
+            "title": "Inno e Marcia Pontificale",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg"
+          }
+        },
+        {
+          "name": "Honduras",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coat_of_arms_of_Honduras.svg/865px-Coat_of_arms_of_Honduras.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional de Honduras",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Honduras_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Hong Kong",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Regional_Emblem_of_Hong_Kong.svg/1024px-Regional_Emblem_of_Hong_Kong.svg.png",
+          "nationalAnthem": {
+            "title": "Glory to Hong Kong",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Hungary",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Hungary.svg/1000px-Coat_of_arms_of_Hungary.svg.png",
+          "nationalAnthem": {
+            "title": "Himnusz",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hungarian_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28May_1997_arrangement%29.oga"
+          }
+        },
+        {
+          "name": "Iceland",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coat_of_arms_of_Iceland.svg/1128px-Coat_of_arms_of_Iceland.svg.png",
+          "nationalAnthem": {
+            "title": "Lofsöngur",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg"
+          }
+        },
+        {
+          "name": "India",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/603px-Emblem_of_India.svg.png",
+          "nationalAnthem": {
+            "title": "Jana Gana Mana",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jana_Gana_Mana_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Indonesia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/National_emblem_of_Indonesia_Garuda_Pancasila.svg/941px-National_emblem_of_Indonesia_Garuda_Pancasila.svg.png",
+          "nationalAnthem": {
+            "title": "Indonesia Raya",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/32/Indonesiaraya.ogg"
+          }
+        },
+        {
+          "name": "Ivory Coast",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Ivory_Coast_%282%29.svg/1167px-Coat_of_arms_of_Ivory_Coast_%282%29.svg.png",
+          "nationalAnthem": {
+            "title": "L'Abidjanaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg"
+          }
+        },
+        {
+          "name": "Iran",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Iran.svg/1041px-Emblem_of_Iran.svg.png",
+          "nationalAnthem": {
+            "title": "Soroud-e Melli-e Jomhouri-e Eslami-e Iran",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga"
+          }
+        },
+        {
+          "name": "Iraq",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coat_of_arms_of_Iraq_%282008%E2%80%93present%29.svg/742px-Coat_of_arms_of_Iraq_%282008%E2%80%93present%29.svg.png",
+          "nationalAnthem": {
+            "title": "Mawtini" ,
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_Navy_Band_-_Mawtini.ogg"
+          }
+        },
+        {
+          "name": "Ireland",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Coat_of_arms_of_Ireland.svg/789px-Coat_of_arms_of_Ireland.svg.png",
+          "nationalAnthem": {
+            "title": "Amhrán na bhFiann",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/7c/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg"
+          }
+        },
+        {
+          "name": "Isle of Man",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Isle_of_Man.svg/1245px-Coat_of_arms_of_the_Isle_of_Man.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Israel",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Israel.svg/863px-Emblem_of_Israel.svg.png",
+          "nationalAnthem": {
+            "title": "HaTikvah",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hatikvah_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Italy",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Emblem_of_Italy.svg/898px-Emblem_of_Italy.svg.png",
+          "nationalAnthem": {
+            "title": "Il Canto degli Italiani",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/c0/National_anthem_of_Italy_-_U.S._Navy_Band_%28long_version%29.ogg"
+          }
+        },
+        {
+          "name": "Jamaica",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Coat_of_arms_of_Jamaica.svg/993px-Coat_of_arms_of_Jamaica.svg.png",
+          "nationalAnthem": {
+            "title": "Jamaica, Land We Love",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%22Jamaica%2C_Land_We_Love%22%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Japan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Imperial_Seal_of_Japan.svg/1024px-Imperial_Seal_of_Japan.svg.png",
+          "nationalAnthem": {
+            "title": "Kimigayo",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kimi_ga_Yo_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Jersey",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coat_of_Arms_of_Jersey.svg/827px-Coat_of_Arms_of_Jersey.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Jordan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Coat_of_arms_of_Jordan.svg/775px-Coat_of_arms_of_Jordan.svg.png",
+          "nationalAnthem": {
+            "title": "Al-salam Al-malaki Al-urdoni",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_anthem_of_Jordan_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Kazakhstan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Emblem_of_Kazakhstan_latin.svg/1024px-Emblem_of_Kazakhstan_latin.svg.png",
+          "nationalAnthem": {
+            "title": "Meniñ Qazaqstanım",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kazakhstan_2006.ogg"
+          }
+        },
+        {
+          "name": "Kenya",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/1087px-Coat_of_arms_of_Kenya_%28Official%29.svg.png",
+          "nationalAnthem": {
+            "title": "Ee Mungu Nguvu Yetu",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/29/National_anthem_of_Kenya%2C_performed_by_the_United_States_Navy_Band.wav"
+          }
+        },
+        {
+          "name": "Kiribati",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Coat_of_arms_of_Kiribati.svg/933px-Coat_of_arms_of_Kiribati.svg.png",
+          "nationalAnthem": {
+            "title": "Teirake Kaini Kiribati",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kiribati_Anthem_Performed_by_US_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Kuwait",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Kuwait.svg/905px-Emblem_of_Kuwait.svg.png",
+          "nationalAnthem": {
+            "title": "Al-Nasheed Al-Watani",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/d4/National_anthem_of_Kuwait_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Kyrgyzstan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Emblem_of_Kyrgyzstan.svg/1024px-Emblem_of_Kyrgyzstan.svg.png",
+          "nationalAnthem": {
+            "title": "Kyrgyz Respublikasynyn Mamlekettik Gimni",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b5/National_Anthem_of_Kyrgyzstan.ogg"
+          }
+        },
+        {
+          "name": "Laos",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emblem_of_Laos.svg/1165px-Emblem_of_Laos.svg.png",
+          "nationalAnthem": {
+            "title": "Pheng Xat Lao",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_Anthem_of_Laos.ogg"
+          }
+        },
+        {
+          "name": "Latvia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coat_of_arms_of_Latvia.svg/1664px-Coat_of_arms_of_Latvia.svg.png",
+          "nationalAnthem": {
+            "title": "Dievs, svētī Latviju!",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/55/Latvian_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Lebanon",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Coat_of_arms_of_Lebanon.svg/847px-Coat_of_arms_of_Lebanon.svg.png",
+          "nationalAnthem": {
+            "title": "Lebanese National Anthem",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lebanese_national_anthem.ogg"
+          }
+        },
+        {
+          "name": "Lesotho",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Coat_of_arms_of_Lesotho.svg/1162px-Coat_of_arms_of_Lesotho.svg.png",
+          "nationalAnthem": {
+            "title": "Lesotho Fatše La Bontata Rona",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/aa/National_anthem_of_Lesotho%2C_performed_by_the_U.S._Navy_Band.wav"
+          }
+        },
+        {
+          "name": "Liberia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Coat_of_arms_of_Liberia.svg/970px-Coat_of_arms_of_Liberia.svg.png",
+          "nationalAnthem": {
+            "title": "All Hail, Liberia, Hail!",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/65/Liberia_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Libya",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_emblem_on_the_passport_of_Libya.svg/1024px-The_emblem_on_the_passport_of_Libya.svg.png",
+          "nationalAnthem": {
+            "title": "Libya, Libya, Libya",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Libya%2C_Libya%2C_Libya_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Liechtenstein",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/National_Coat_of_arms_of_Liechtenstein.svg/1016px-National_Coat_of_arms_of_Liechtenstein.svg.png",
+          "nationalAnthem": {
+            "title": "Oben am jungen Rhein",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Lithuania",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coat_of_arms_of_Lithuania.svg/901px-Coat_of_arms_of_Lithuania.svg.png",
+          "nationalAnthem": {
+            "title": "Tautiška giesmė",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tauti%C5%A1ka_giesme_instumental.ogg"
+          }
+        },
+        {
+          "name": "Luxembourg",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Greater_coat_of_arms_of_the_grand-duchy_of_Luxembourg.svg/1297px-Greater_coat_of_arms_of_the_grand-duchy_of_Luxembourg.svg.png",
+          "nationalAnthem": {
+            "title": "Ons Heemecht",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ons_Heemecht.ogg"
+          }
+        },
+        {
+          "name": "Macau",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Regional_Emblem_of_Macau.svg/1024px-Regional_Emblem_of_Macau.svg.png",
+          "nationalAnthem": {
+            "title": "Yìyǒngjūn Jìnxíngqǔ",
+            "audio": ""
+          }
+        },
+        {
+          "name": "North Macedonia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Coat_of_arms_of_North_Macedonia.svg/953px-Coat_of_arms_of_North_Macedonia.svg.png",
+          "nationalAnthem": {
+            "title": "Denes nad Makedonija",
+            "audio": "https://upload.wikimedia.org/wikipedia/en/b/b6/North_Macedonia%27s_national_anthem_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Madagascar",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Seal_of_Madagascar.svg/1024px-Seal_of_Madagascar.svg.png",
+          "nationalAnthem": {
+            "title": "Ry Tanindrazanay malala ô!",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ry_Tanindrazanay_malala_%C3%B4%21_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Malawi",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Coat_of_arms_of_Malawi.svg/994px-Coat_of_arms_of_Malawi.svg.png",
+          "nationalAnthem": {
+            "title": "Mulungu dalitsa Malaŵi",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Malawian_national_anthem.oga"
+          }
+        },
+        {
+          "name": "Malaysia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Coat_of_arms_of_Malaysia.svg/1280px-Coat_of_arms_of_Malaysia.svg.png",
+          "nationalAnthem": {
+            "title": "Negaraku",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Negaraku_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Maldives",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Emblem_of_Maldives.svg/906px-Emblem_of_Maldives.svg.png",
+          "nationalAnthem": {
+            "title": "Gaumii salaam",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gaumii_salaam.ogg"
+          }
+        },
+        {
+          "name": "Mali",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Coat_of_arms_of_Mali.svg/1024px-Coat_of_arms_of_Mali.svg.png",
+          "nationalAnthem": {
+            "title": "Le Mali",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Malian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Malta",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Malta.svg/800px-Coat_of_arms_of_Malta.svg.png",
+          "nationalAnthem": {
+            "title": "L-Innu Malti",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malta_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Marshall Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Seal_of_the_Marshall_Islands.svg/982px-Seal_of_the_Marshall_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "Forever Marshall Islands",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a3/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Martinique",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BlasonMartinique.svg/862px-BlasonMartinique.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "Mauritania",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Seal_of_Mauritania_%28December_2018%29.svg/1024px-Seal_of_Mauritania_%28December_2018%29.svg.png",
+          "nationalAnthem": {
+            "title": "Bilada-l ubati-l hudati-l kiram",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/08/National_anthem_of_Mauritania_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Mauritius",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coat_of_arms_of_Mauritius.svg/1280px-Coat_of_arms_of_Mauritius.svg.png",
+          "nationalAnthem": {
+            "title": "Motherland",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/75/Motherland_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Mayotte",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_Arms_of_Mayotte.svg/1280px-Coat_of_Arms_of_Mayotte.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "Mexico",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/1129px-Coat_of_arms_of_Mexico.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional Mexicano",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Federated States of Micronesia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_the_Federated_States_of_Micronesia.svg/1024px-Seal_of_the_Federated_States_of_Micronesia.svg.png",
+          "nationalAnthem": {
+            "title": "Patriots of Micronesia",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Micronesia_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Moldova",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Coat_of_arms_of_Moldova.svg/814px-Coat_of_arms_of_Moldova.svg.png",
+          "nationalAnthem": {
+            "title": "Limba noastră",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Monaco",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coat_of_arms_of_Monaco.svg/1228px-Coat_of_arms_of_Monaco.svg.png",
+          "nationalAnthem": {
+            "title": "Hymne Monégasque",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Monaco_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Mongolia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/State_emblem_of_Mongolia.svg/1220px-State_emblem_of_Mongolia.svg.png",
+          "nationalAnthem": {
+            "title": "Mongol ulsiin töriin duulal",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mongolian_national_anthem%2C_performed_by_the_United_States_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Montenegro",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Coat_of_arms_of_Montenegro.svg/888px-Coat_of_arms_of_Montenegro.svg.png",
+          "nationalAnthem": {
+            "title": "Oj, svijetla majska zoro",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg"
+          }
+        },
+        {
+          "name": "Montserrat",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_Montserrat.svg/798px-Coat_of_arms_of_Montserrat.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Morocco",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Morocco.svg/945px-Coat_of_arms_of_Morocco.svg.png",
+          "nationalAnthem": {
+            "title": "Hymne Chérifien",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/3f/National_Anthem_of_Morocco.ogg"
+          }
+        },
+        {
+          "name": "Mozambique",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Emblem_of_Mozambique.svg/948px-Emblem_of_Mozambique.svg.png",
+          "nationalAnthem": {
+            "title": "Pátria Amada",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mozambican_national_anthem%2C_performed_by_the_United_States_Navy_Band.wav"
+          }
+        },
+        {
+          "name": "Myanmar",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/State_seal_of_Myanmar.svg/1252px-State_seal_of_Myanmar.svg.png",
+          "nationalAnthem": {
+            "title": "Kaba Ma Kyei",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga"
+          }
+        },
+        {
+          "name": "Namibia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Coat_of_arms_of_Namibia.svg/962px-Coat_of_arms_of_Namibia.svg.png",
+          "nationalAnthem": {
+            "title": "Namibia, Land of the Brave",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Namibian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Nauru",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Coat_of_arms_of_Nauru.svg/1024px-Coat_of_arms_of_Nauru.svg.png",
+          "nationalAnthem": {
+            "title": "Nauru Bwiema",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Nepal",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/1222px-New_Emblem_of_Nepal.svg.png",
+          "nationalAnthem": {
+            "title": "Sayaun Thunga Phulka",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sayaun_Thunga_Phool_Ka_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Netherlands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_coat_of_arms_of_the_Netherlands.svg/933px-Royal_coat_of_arms_of_the_Netherlands.svg.png",
+          "nationalAnthem": {
+            "title": "Wilhelmus",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_Navy_Band_-_Het_Wilhelmus.ogg"
+          }
+        },
+        {
+          "name": "New Caledonia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Emblem_of_New_Caledonia.svg/580px-Emblem_of_New_Caledonia.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "New Zealand",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_arms_of_New_Zealand.svg/1062px-Coat_of_arms_of_New_Zealand.svg.png",
+          "nationalAnthem": {
+            "title": "God Defend New Zealand",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Nicaragua",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Coat_of_arms_of_Nicaragua.svg/1024px-Coat_of_arms_of_Nicaragua.svg.png",
+          "nationalAnthem": {
+            "title": "Salve a ti, Nicaragua",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Anthem_of_Nicaragua_by_US_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Niger",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coat_of_arms_of_Niger.svg/1280px-Coat_of_arms_of_Niger.svg.png",
+          "nationalAnthem": {
+            "title": "La Nigérienne",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/47/La_Nig%C3%A9rienne.ogg"
+          }
+        },
+        {
+          "name": "Nigeria",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Coat_of_arms_of_Nigeria.svg/1208px-Coat_of_arms_of_Nigeria.svg.png",
+          "nationalAnthem": {
+            "title": "Arise, O Compatriots",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_Navy_Band_-_%22Arise_O%2C_Compatriots%22.oga"
+          }
+        },
+        {
+          "name": "Niue",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Public_Seal_of_Niue.svg/1024px-Public_Seal_of_Niue.svg.png",
+          "nationalAnthem": {
+            "title": "Ko e Iki he Lagi",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Niue_anthem.ogg"
+          }
+        },
+        {
+          "name": "Norfolk Island",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Coat_of_Arms_of_Norfolk_Island.svg/908px-Coat_of_Arms_of_Norfolk_Island.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "North Korea",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Emblem_of_North_Korea.svg/875px-Emblem_of_North_Korea.svg.png",
+          "nationalAnthem": {
+            "title": "Aegukka",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f7/National_Anthem_of_the_Democratic_People%27s_Republic_of_Korea.ogg"
+          }
+        },
+        {
+          "name": "Northern Mariana Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Seal_of_the_Northern_Mariana_Islands.svg/1024px-Seal_of_the_Northern_Mariana_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "Gi Talo Gi Halom Tasi",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/34/Regional_anthem_of_the_Northern_Mariana_Islands%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Norway",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Norway.svg/574px-Coat_of_arms_of_Norway.svg.png",
+          "nationalAnthem": {
+            "title": "Ja, vi elsker dette landet",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg"
+          }
+        },
+        {
+          "name": "Oman",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/National_emblem_of_Oman.svg/1020px-National_emblem_of_Oman.svg.png",
+          "nationalAnthem": {
+            "title": "Nashid as-Salaam as-Sultani",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Peace_to_the_Sultan_%28%D9%86%D8%B4%D9%8A%D8%AF_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%D9%8A%29.ogg"
+          }
+        },
+        {
+          "name": "Pakistan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/State_emblem_of_Pakistan.svg/893px-State_emblem_of_Pakistan.svg.png",
+          "nationalAnthem": {
+            "title": "Qaumī Tarāna",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pakistan_anthem_-_United_States_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Palau",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seal_of_Palau.svg/1024px-Seal_of_Palau.svg.png",
+          "nationalAnthem": {
+            "title": "Belau rekid",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Belau_rekid_%28instrumental%29.oga"
+          }
+        },
+        {
+          "name": "State of Palestine",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg/753px-Coat_of_arms_of_Palestine_%28alternative%29.svg.png",
+          "nationalAnthem": {
+            "title": "Fida'i",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/97/National_Anthem_of_Palestine_%28Vocal%29.ogg"
+          }
+        },
+        {
+          "name": "Panama",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Panama.svg/927px-Coat_of_arms_of_Panama.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Istmeño",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_National_Anthem.ogg"
+          }
+        },
+        {
+          "name": "Papua New Guinea",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/National_Emblem_of_Papua_New_Guinea.svg/1024px-National_Emblem_of_Papua_New_Guinea.svg.png",
+          "nationalAnthem": {
+            "title": "O Arise, All You Sons",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/29/O_Arise%2C_All_You_Sons_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Paraguay",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coat_of_arms_of_Paraguay.svg/1024px-Coat_of_arms_of_Paraguay.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional Paraguayo",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.oga"
+          }
+        },
+        {
+          "name": "Peru",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Escudo_nacional_del_Per%C3%BA.svg/896px-Escudo_nacional_del_Per%C3%BA.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional del Perú",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg"
+          }
+        },
+        {
+          "name": "Philippines",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_the_Philippines.svg/923px-Coat_of_arms_of_the_Philippines.svg.png",
+          "nationalAnthem": {
+            "title": "Lupang Hinirang",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lupang_Hinirang_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Pitcairn Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_the_Pitcairn_Islands.svg/875px-Coat_of_arms_of_the_Pitcairn_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Poland",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Herb_Polski.svg/870px-Herb_Polski.svg.png",
+          "nationalAnthem": {
+            "title": "Mazurek Dąbrowskiego",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mazurek_Dabrowskiego.ogg"
+          }
+        },
+        {
+          "name": "Portugal",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Coat_of_arms_of_Portugal.svg/1280px-Coat_of_arms_of_Portugal.svg.png",
+          "nationalAnthem": {
+            "title": "A Portuguesa",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg"
+          }
+        },
+        {
+          "name": "Puerto Rico",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Coat_of_arms_of_the_Commonwealth_of_Puerto_Rico.svg/821px-Coat_of_arms_of_the_Commonwealth_of_Puerto_Rico.svg.png",
+          "nationalAnthem": {
+            "title": "La Borinqueña",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/8d/United_States_Navy_Band_-_La_Borinque%C3%B1a.ogg"
+          }
+        },
+        {
+          "name": "Qatar",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Emblem_of_Qatar.svg/1024px-Emblem_of_Qatar.svg.png",
+          "nationalAnthem": {
+            "title": "As Salam al Amiri",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/8a/As_Salam_Al_Amiri_instrumental.ogg"
+          }
+        },
+        {
+          "name": "Kosovo",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coat_of_arms_of_Kosovo.svg/924px-Coat_of_arms_of_Kosovo.svg.png",
+          "nationalAnthem": {
+            "title": "Europe",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg"
+          }
+        },
+        {
+          "name": "Réunion",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Blason_R%C3%A9union_DOM.svg/931px-Blason_R%C3%A9union_DOM.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "Romania",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coat_of_arms_of_Romania.svg/707px-Coat_of_arms_of_Romania.svg.png",
+          "nationalAnthem": {
+            "title": "Deșteaptă-te, române!",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/77/Desteapta-te%2C_romane%21.ogg"
+          }
+        },
+        {
+          "name": "Russia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Coat_of_Arms_of_the_Russian_Federation.svg/863px-Coat_of_Arms_of_the_Russian_Federation.svg.png",
+          "nationalAnthem": {
+            "title": "Gosudarstvenny Gimn Rossiyskoy Federatsii",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/41/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg"
+          }
+        },
+        {
+          "name": "Rwanda",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_Rwanda.svg/937px-Coat_of_arms_of_Rwanda.svg.png",
+          "nationalAnthem": {
+            "title": "Rwanda Nziza",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hymne_National_du_Rwanda.ogg"
+          }
+        },
+        {
+          "name": "Saint Barthélemy",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg/1321px-Blason_St_Barth%C3%A9l%C3%A9my_TOM_entire.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "armorial": "",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Saint Kitts and Nevis",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St_Kitts_and_Nevis_Coat_of_Arms.svg/914px-St_Kitts_and_Nevis_Coat_of_Arms.svg.png",
+          "nationalAnthem": {
+            "title": "O Land of Beauty!",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/3f/United_States_Navy_Band_-_O_Land_of_Beauty.ogg"
+          }
+        },
+        {
+          "name": "Saint Lucia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Coat_of_arms_of_Saint_Lucia.svg/1129px-Coat_of_arms_of_Saint_Lucia.svg.png",
+          "nationalAnthem": {
+            "title": "Sons and Daughters of Saint Lucia",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_Anthem_of_Saint_Lucia.ogg"
+          }
+        },
+        {
+          "name": "Collectivity of Saint Martin",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/5/56/St_Martin_Coat.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "Saint Pierre and Miquelon",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Armoiries_SaintPierreetMiquelon.svg/1278px-Armoiries_SaintPierreetMiquelon.svg.png",
+          "nationalAnthem": {
+            "title": "",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Saint Vincent and the Grenadines",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg/725px-Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg.png",
+          "nationalAnthem": {
+            "title": "Saint Vincent, Land so beautiful",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b3/National_anthem_of_Saint_Vincent_and_the_Grenadines%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Samoa",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coat_of_arms_of_Samoa.svg/1017px-Coat_of_arms_of_Samoa.svg.png",
+          "nationalAnthem": {
+            "title": "The Banner of Freedom",
+            "audio": ""
+          }
+        },
+        {
+          "name": "San Marino",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coat_of_arms_of_San_Marino.svg/863px-Coat_of_arms_of_San_Marino.svg.png",
+          "nationalAnthem": {
+            "title": "Inno Nazionale della Repubblica",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Inno_Nazionale_della_Repubblica.ogg"
+          }
+        },
+        {
+          "name": "Sao Tome and Principe",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/1015px-Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+          "nationalAnthem": {
+            "title": "Independência total",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Independ%C3%AAncia_total_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Saudi Arabia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Emblem_of_Saudi_Arabia.svg/950px-Emblem_of_Saudi_Arabia.svg.png",
+          "nationalAnthem": {
+            "title": "As-Salam Al Malaki",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Saudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Senegal",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Coat_of_arms_of_Senegal.svg/863px-Coat_of_arms_of_Senegal.svg.png",
+          "nationalAnthem": {
+            "title": "Pincez Tous vos Koras, Frappez les Balafons",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/8c/National_Anthem_of_Senegal.ogg"
+          }
+        },
+        {
+          "name": "Serbia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_Serbia.svg/822px-Coat_of_arms_of_Serbia.svg.png",
+          "nationalAnthem": {
+            "title": "Bože pravde",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Serbian_national_anthem%2C_instrumental.oga"
+          }
+        },
+        {
+          "name": "Seychelles",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Coat_of_arms_of_Seychelles.svg/1009px-Coat_of_arms_of_Seychelles.svg.png",
+          "nationalAnthem": {
+            "title": "Koste Seselwa",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/81/Koste_Seselwa_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Sierra Leone",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coat_of_arms_of_Sierra_Leone.svg/1084px-Coat_of_arms_of_Sierra_Leone.svg.png",
+          "nationalAnthem": {
+            "title": "High We Exalt Thee, Realm of the Free"	,
+            "audio": "https://upload.wikimedia.org/wikipedia/en/6/69/Sierra_Leone%27s_national_anthem.ogg"
+          }
+        },
+        {
+          "name": "Singapore",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Coat_of_arms_of_Singapore.svg/1235px-Coat_of_arms_of_Singapore.svg.png",
+          "nationalAnthem": {
+            "title": "Majulah Singapura",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/74/Majulah_Singapura.ogg"
+          }
+        },
+        {
+          "name": "Sint Maarten",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Coat_of_arms_of_Sint_Maarten.svg/1052px-Coat_of_arms_of_Sint_Maarten.svg.png",
+          "nationalAnthem": {
+            "title": "O Sweet Saint Martin's Land",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Sint_Maarten_National_Anthem_%28Instrumental%29_Oh_Sweet_Sint_Maarten_Land.ogg"
+          }
+        },
+        {
+          "name": "Slovakia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat_of_arms_of_Slovakia.svg/819px-Coat_of_arms_of_Slovakia.svg.png",
+          "nationalAnthem": {
+            "title": "Nad Tatrou sa blýska",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Nad_Tatrou_sa_bl%C3%BDska.ogg"
+          }
+        },
+        {
+          "name": "Slovenia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Coat_of_arms_of_Slovenia.svg/792px-Coat_of_arms_of_Slovenia.svg.png",
+          "nationalAnthem": {
+            "title": "Zdravljica",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/Slovenia%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Solomon Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coat_of_arms_of_the_Solomon_Islands.svg/851px-Coat_of_arms_of_the_Solomon_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "God Save Our Solomon Islands",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Somalia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coat_of_arms_of_Somalia.svg/1270px-Coat_of_arms_of_Somalia.svg.png",
+          "nationalAnthem": {
+            "title": "Qolobaa Calankeed",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Somali_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "South Africa",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Coat_of_arms_of_South_Africa_%28heraldic%29.svg/1117px-Coat_of_arms_of_South_Africa_%28heraldic%29.svg.png",
+          "nationalAnthem": {
+            "title": "National anthem of South Africa",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga"
+          }
+        },
+        {
+          "name": "South Georgia and the South Sandwich Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Coat_of_arms_of_South_Georgia_and_the_South_Sandwich_Islands.svg/626px-Coat_of_arms_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "South Korea",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Emblem_of_South_Korea.svg/1021px-Emblem_of_South_Korea.svg.png",
+          "nationalAnthem": {
+            "title": "Aegukka",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/0d/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav"
+          }
+        },
+        {
+          "name": "South Sudan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coat_of_arms_of_South_Sudan.svg/1036px-Coat_of_arms_of_South_Sudan.svg.png",
+          "nationalAnthem": {
+            "title": "South Sudan Oyee!",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/1/16/South_Sudan_Oyee%21_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Spain",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Escudo_de_Espa%C3%B1a_%28colores_THV%29.svg/1023px-Escudo_de_Espa%C3%B1a_%28colores_THV%29.svg.png",
+          "nationalAnthem": {
+            "title": "La Marcha Real",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Sri Lanka",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emblem_of_Sri_Lanka.svg/722px-Emblem_of_Sri_Lanka.svg.png",
+          "nationalAnthem": {
+            "title": "Sri Lanka Matha",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sri_Lankan_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Sudan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Emblem_of_Sudan.svg/1000px-Emblem_of_Sudan.svg.png",
+          "nationalAnthem": {
+            "title": "Nahnu Jund Allah Jund Al-watan",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sudanese_national_anthem%2C_performed_by_the_U.S._Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Suriname",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Coat_of_arms_of_Suriname.svg/1216px-Coat_of_arms_of_Suriname.svg.png",
+          "nationalAnthem": {
+            "title": "God zij met ons Suriname",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Surinamese_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "Svalbard and Jan Mayen",
+          "armorial": "",
+          "nationalAnthem": {
+            "title": "",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Swaziland",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coat_of_arms_of_Eswatini.svg/1280px-Coat_of_arms_of_Eswatini.svg.png",
+          "nationalAnthem": {
+            "title": "Nkulunkulu Mnikati wetibusiso temaSwati",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nkulunkulu_Mnikati_wetibusiso_temaSwati_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Sweden",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coat_of_arms_of_Sweden_%28shield_and_chain%29.svg/591px-Coat_of_arms_of_Sweden_%28shield_and_chain%29.svg.png",
+          "nationalAnthem": {
+            "title": "Du gamla, du fria",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/02/United_States_Navy_Band_-_Sweden.ogg"
+          }
+        },
+        {
+          "name": "Switzerland",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Switzerland.svg/924px-Coat_of_arms_of_Switzerland.svg.png",
+          "nationalAnthem": {
+            "title": "Schweizerpsalm",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/0/00/Swiss_Psalm.ogg"
+          }
+        },
+        {
+          "name": "Syria",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Coat_of_arms_of_Syria.svg/1067px-Coat_of_arms_of_Syria.svg.png",
+          "nationalAnthem": {
+            "title": "Humāt ad-Diyār",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/fc/National_Anthem_of_Syria.ogg"
+          }
+        },
+        {
+          "name": "Taiwan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/National_Emblem_of_the_Republic_of_China.svg/1024px-National_Emblem_of_the_Republic_of_China.svg.png",
+          "nationalAnthem": {
+            "title": "Zhōnghuá Mínguó guógē",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg"
+          }
+        },
+        {
+          "name": "Tajikistan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblem_of_Tajikistan.svg/1026px-Emblem_of_Tajikistan.svg.png",
+          "nationalAnthem": {
+            "title": "Surudi Milli",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tajikistan_anthem.ogg"
+          }
+        },
+        {
+          "name": "Tanzania",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Tanzania.svg/883px-Coat_of_arms_of_Tanzania.svg.png",
+          "nationalAnthem": {
+            "title": "Mungu ibariki Afrika",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Thailand",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Thailand.svg/964px-Emblem_of_Thailand.svg.png",
+          "nationalAnthem": {
+            "title": "Phleng Chat",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Thai_National_Anthem_-_US_Navy_Band.ogg"
+          }
+        },
+        {
+          "name": "East Timor",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_East_Timor.svg/1030px-Coat_of_arms_of_East_Timor.svg.png",
+          "nationalAnthem": {
+            "title": "Pátria",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/20/East_Timorese_national_anthem.wav"
+          }
+        },
+        {
+          "name": "Togo",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emblem_of_Togo.svg/822px-Emblem_of_Togo.svg.png",
+          "nationalAnthem": {
+            "title": "Salut à toi, pays de nos aïeux",
+            "audio": "https://upload.wikimedia.org/wikipedia/en/0/03/Togo%27s_national_anthem_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Tokelau",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Badge_of_Tokelau.svg/1079px-Badge_of_Tokelau.svg.png",
+          "nationalAnthem": {
+            "title": "Te Atua o Tokelau",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Tonga",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Coat_of_arms_of_Tonga.svg/920px-Coat_of_arms_of_Tonga.svg.png",
+          "nationalAnthem": {
+            "title": "Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ko_e_fasi_%CA%BBo_e_tu%CA%BBi_%CA%BBo_e_%CA%BBOtu_Tonga.ogg"
+          }
+        },
+        {
+          "name": "Trinidad and Tobago",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Coat_of_arms_of_Trinidad_and_Tobago.svg/1106px-Coat_of_arms_of_Trinidad_and_Tobago.svg.png",
+          "nationalAnthem": {
+            "title": "Forged from the Love of Liberty",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Forged_from_the_Love_of_Liberty_%28instrumental%29.ogg"
+          }
+        },
+        {
+          "name": "Tunisia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coat_of_arms_of_Tunisia.svg/649px-Coat_of_arms_of_Tunisia.svg.png",
+          "nationalAnthem": {
+            "title": "Humat al-Hima",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg"
+          }
+        },
+        {
+          "name": "Turkey",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Emblem_of_Turkey.svg/1024px-Emblem_of_Turkey.svg.png",
+          "nationalAnthem": {
+            "title": "İstiklâl Marşı",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/5/50/IstiklalMarsi-2013.ogg"
+          }
+        },
+        {
+          "name": "Turkmenistan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Emblem_of_Turkmenistan.svg/1024px-Emblem_of_Turkmenistan.svg.png",
+          "nationalAnthem": {
+            "title": "Garaşsyz, Bitarap Türkmenistanyň Döwlet Gimni",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f0/National_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "Turks and Caicos Islands",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_the_Turks_and_Caicos_Islands.svg/902px-Coat_of_arms_of_the_Turks_and_Caicos_Islands.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Tuvalu",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Tuvalu.svg/971px-Coat_of_arms_of_Tuvalu.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "Uganda",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Coat_of_arms_of_Uganda.svg/955px-Coat_of_arms_of_Uganda.svg.png",
+          "nationalAnthem": {
+            "title": "Oh Uganda, Land of Beauty",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ugandan_national_anthem%2C_performed_by_the_U.S._Navy_Band.wav"
+          }
+        },
+        {
+          "name": "Ukraine",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg/734px-Lesser_Coat_of_Arms_of_Ukraine.svg.png",
+          "nationalAnthem": {
+            "title": "Shche ne vmerla Ukraina",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/6d/National_anthem_of_Ukraine%2C_instrumental.oga"
+          }
+        },
+        {
+          "name": "United Arab Emirates",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Emblem_of_the_United_Arab_Emirates.svg/802px-Emblem_of_the_United_Arab_Emirates.svg.png",
+          "nationalAnthem": {
+            "title": "Ishy Biladi",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%22Ishy_Bilady%22_performed_by_the_United_States_Navy_Band.oga"
+          }
+        },
+        {
+          "name": "United Kingdom",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Royal_Coat_of_Arms_of_the_United_Kingdom.svg/1058px-Royal_Coat_of_Arms_of_the_United_Kingdom.svg.png",
+          "nationalAnthem": {
+            "title": "God Save the Queen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+          }
+        },
+        {
+          "name": "United States",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1024px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+          "nationalAnthem": {
+            "title": "The Star-Spangled Banner",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/25/%22The_Star-Spangled_Banner%22_performed_by_the_United_States_Navy_Band.mp3"
+          }
+        },
+        {
+          "name": "Uruguay",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Coat_of_arms_of_Uruguay.svg/961px-Coat_of_arms_of_Uruguay.svg.png",
+          "nationalAnthem": {
+            "title": "Himno Nacional",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg"
+          }
+        },
+        {
+          "name": "Uzbekistan",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Uzbekistan.svg/972px-Emblem_of_Uzbekistan.svg.png",
+          "nationalAnthem": {
+            "title": "O`zbekiston Respublikasining Davlat Madhiyasi",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/a/af/Uzbekistan_anthem.ogg"
+          }
+        },
+        {
+          "name": "Vanuatu",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coat_of_arms_of_Vanuatu.svg/817px-Coat_of_arms_of_Vanuatu.svg.png",
+          "nationalAnthem": {
+            "title": "Yumi, Yumi, Yumi",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/7/7f/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg"
+          }
+        },
+        {
+          "name": "Venezuela",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Coat_of_arms_of_Venezuela.svg/853px-Coat_of_arms_of_Venezuela.svg.png",
+          "nationalAnthem": {
+            "title": "Gloria al Bravo Pueblo",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg"
+          }
+        },
+        {
+          "name": "Vietnam",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Emblem_of_Vietnam.svg/1010px-Emblem_of_Vietnam.svg.png",
+          "nationalAnthem": {
+            "title": "Tiến Quân Ca",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Wallis and Futuna",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Coat_of_arms_of_Wallis_and_Futuna.svg/784px-Coat_of_arms_of_Wallis_and_Futuna.svg.png",
+          "nationalAnthem": {
+            "title": "La Marseillaise",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+          }
+        },
+        {
+          "name": "Western Sahara",
+          "armorial": "",
+          "nationalAnthem": {
+            "title": "",
+            "audio": ""
+          }
+        },
+        {
+          "name": "Yemen",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Emblem_of_Yemen.svg/1024px-Emblem_of_Yemen.svg.png",
+          "nationalAnthem": {
+            "title": "National anthem of Yemen",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/1/13/United_States_Navy_Band_-_United_Republic.ogg"
+          }
+        },
+        {
+          "name": "Zambia",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coat_of_arms_of_Zambia.svg/886px-Coat_of_arms_of_Zambia.svg.png",
+          "nationalAnthem": {
+            "title": "Stand and Sing of Zambia, Proud and Free",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zambian_national_anthem.oga"
+          }
+        },
+        {
+          "name": "Zimbabwe",
+          "armorial": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Coat_of_arms_of_Zimbabwe.svg/1158px-Coat_of_arms_of_Zimbabwe.svg.png",
+          "nationalAnthem": {
+            "title": "Simudzai Mureza WeZimbabwe",
+            "audio": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zimbabwe_National_Anthem.ogg"
+          }
+        }
+      ]
+}
