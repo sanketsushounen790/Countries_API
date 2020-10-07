@@ -1,8 +1,14 @@
 {
-    "countriesAPI":
+    "countriesAPI": 
     [
         {
-          "name": "Afghanistan",
+          "name": {
+            "en": "Afghanistan",
+            "vn": "Áp-ga-ni-xtan",
+            "de": "Afghanistan",
+            "ja": "アフガニスタン",
+            "fr": "Afghanistan"
+          },
           "topLevelDomain": [
             ".af"
           ],
@@ -77,7 +83,8 @@
             "nl": "Afghanistan",
             "hr": "Afganistan",
             "fa": "افغانستان",
-            "vn": "Afghanistan"
+            "vn": "Afghanistan",
+            "en": "Afghanistan"
           },
           "flag": "https://restcountries.eu/data/afg.svg",
           "regionalBlocs": [
@@ -96,7 +103,13 @@
           }
         },
         {
-          "name": "Åland Islands",
+          "name": {
+            "en": "Åland Islands",
+            "vn": "(Quần đảo) O-lân",
+            "de": "Åland",
+            "ja": "オーランド諸島",
+            "fr": "Åland"
+          },
           "topLevelDomain": [
             ".ax"
           ],
@@ -154,7 +167,8 @@
             "nl": "Ålandeilanden",
             "hr": "Ålandski otoci",
             "fa": "جزایر الند",
-            "vn": "Åland"
+            "vn": "Åland",
+            "en": "Åland Islands"
           },
           "flag": "https://restcountries.eu/data/ala.svg",
           "regionalBlocs": [
@@ -173,7 +187,13 @@
           }
         },
         {
-          "name": "Albania",
+          "name": {
+            "en": "Albania",
+            "vn": "An-ba-ni",
+            "de": "Albanien",
+            "ja": "アルバニア",
+            "fr": "Albanie"
+          },
           "topLevelDomain": [
             ".al"
           ],
@@ -236,7 +256,8 @@
             "nl": "Albanië",
             "hr": "Albanija",
             "fa": "آلبانی",
-            "vn": "Albania"
+            "vn": "Albania",
+            "en": "Albania"
           },
           "flag": "https://restcountries.eu/data/alb.svg",
           "regionalBlocs": [
@@ -255,7 +276,13 @@
           }
         },
         {
-          "name": "Algeria",
+          "name": {
+            "en": "Algeria",
+            "vn": "An-giê-ri",
+            "de": "Algerien",
+            "ja": "アルジェリア",
+            "fr": "Algérie"
+          },
           "topLevelDomain": [
             ".dz"
           ],
@@ -320,7 +347,8 @@
             "nl": "Algerije",
             "hr": "Alžir",
             "fa": "الجزایر",
-            "vn": "Algérie"
+            "vn": "Algérie",
+            "en": "Algeria"
           },
           "flag": "https://restcountries.eu/data/dza.svg",
           "regionalBlocs": [
@@ -355,7 +383,13 @@
           }
         },
         {
-          "name": "American Samoa",
+          "name": {
+            "en": "American Samoa",
+            "vn": "Samoa thuộc Mỹ",
+            "de": "Amerikanisch-Samoa",
+            "ja": "アメリカ領サモア",
+            "fr": "Samoa américaines"
+          },
           "topLevelDomain": [
             ".as"
           ],
@@ -419,7 +453,8 @@
             "nl": "Amerikaans Samoa",
             "hr": "Američka Samoa",
             "fa": "ساموآی آمریکا",
-            "vn": "Samoa thuộc Mỹ"
+            "vn": "Samoa thuộc Mỹ",
+            "en": "American Samoa"
           },
           "flag": "https://restcountries.eu/data/asm.svg",
           "regionalBlocs": [],
@@ -431,7 +466,13 @@
           }
         },
         {
-          "name": "Andorra",
+          "name": {
+            "en": "Andorra",
+            "vn": "An-đo-ra",
+            "de": "Andorra",
+            "ja": "アンドラ",
+            "fr": "Andorre"
+          },
           "topLevelDomain": [
             ".ad"
           ],
@@ -491,7 +532,8 @@
             "nl": "Andorra",
             "hr": "Andora",
             "fa": "آندورا",
-            "vn": "Andorra"
+            "vn": "Andorra",
+            "en": "Andorra"
           },
           "flag": "https://restcountries.eu/data/and.svg",
           "regionalBlocs": [],
@@ -503,7 +545,13 @@
           }
         },
         {
-          "name": "Angola",
+          "name": {
+            "en": "Angola",
+            "vn": "Ăng-gô-la",
+            "de": "Angola",
+            "ja": "アンゴラ",
+            "fr": "Angola"
+          },
           "topLevelDomain": [
             ".ao"
           ],
@@ -565,7 +613,8 @@
             "nl": "Angola",
             "hr": "Angola",
             "fa": "آنگولا",
-            "vn": "Angola"
+            "vn": "Angola",
+            "en": "Angola"
           },
           "flag": "https://restcountries.eu/data/ago.svg",
           "regionalBlocs": [
@@ -590,7 +639,13 @@
           }
         },
         {
-          "name": "Anguilla",
+          "name": {
+            "en": "Anguilla",
+            "vn": "An-gui-la",
+            "de": "Anguilla",
+            "ja": "アンギラ",
+            "fr": "Anguilla"
+          },
           "topLevelDomain": [
             ".ai"
           ],
@@ -645,7 +700,8 @@
             "nl": "Anguilla",
             "hr": "Angvila",
             "fa": "آنگویلا",
-            "vn": "Anguilla"
+            "vn": "Anguilla",
+            "en": "Anguilla"
           },
           "flag": "https://restcountries.eu/data/aia.svg",
           "regionalBlocs": [],
@@ -657,7 +713,13 @@
           }
         },
         {
-          "name": "Antarctica",
+          "name": {
+            "en": "Antarctica",
+            "vn": "Châu Nam Cực",
+            "de": "Antarktika",
+            "ja": "南極大陸",
+            "fr": "Antarctique"
+          },
           "topLevelDomain": [
             ".aq"
           ],
@@ -728,7 +790,8 @@
             "nl": "Antarctica",
             "hr": "Antarktika",
             "fa": "جنوبگان",
-            "vn": "Châu Nam Cực"
+            "vn": "Châu Nam Cực",
+            "en": "Antarctica"
           },
           "flag": "https://restcountries.eu/data/ata.svg",
           "regionalBlocs": [],
@@ -740,7 +803,13 @@
           }
         },
         {
-          "name": "Antigua and Barbuda",
+          "name": {
+            "en": "Antigua and Barbuda",
+            "vn": "An-gi-gua và Ba-bu-đa",
+            "de": "Antigua und Barbuda",
+            "ja": "アンティグア・バーブーダ",
+            "fr": "Antigua-et-Barbuda"
+          },
           "topLevelDomain": [
             ".ag"
           ],
@@ -795,7 +864,8 @@
             "nl": "Antigua en Barbuda",
             "hr": "Antigva i Barbuda",
             "fa": "آنتیگوا و باربودا",
-            "vn": "Antigua và Barbuda"
+            "vn": "Antigua và Barbuda",
+            "en": "Antigua and Barbuda"
           },
           "flag": "https://restcountries.eu/data/atg.svg",
           "regionalBlocs": [
@@ -818,7 +888,13 @@
           }
         },
         {
-          "name": "Argentina",
+          "name": {
+            "en": "Argentina",
+            "vn": "Ác-hen-ti-na",
+            "de": "Argentinien",
+            "ja": "アルゼンチン",
+            "fr": "Argentine"
+          },
           "topLevelDomain": [
             ".ar"
           ],
@@ -887,7 +963,8 @@
             "nl": "Argentinië",
             "hr": "Argentina",
             "fa": "آرژانتین",
-            "vn": "Argentina"
+            "vn": "Argentina",
+            "en": "Argentina"
           },
           "flag": "https://restcountries.eu/data/arg.svg",
           "regionalBlocs": [
@@ -915,7 +992,13 @@
           }
         },
         {
-          "name": "Armenia",
+          "name": {
+            "en": "Armenia",
+            "vn": "Ác-mê-ni-a",
+            "de": "Armenien",
+            "ja": "アルメニア",
+            "fr": "Arménie"
+          },
           "topLevelDomain": [
             ".am"
           ],
@@ -984,7 +1067,8 @@
             "nl": "Armenië",
             "hr": "Armenija",
             "fa": "ارمنستان",
-            "vn": "Armenia"
+            "vn": "Armenia",
+            "en": "Armenia"
           },
           "flag": "https://restcountries.eu/data/arm.svg",
           "regionalBlocs": [
@@ -1005,7 +1089,13 @@
           }
         },
         {
-          "name": "Aruba",
+          "name": {
+            "en": "Aruba",
+            "vn": "Aruba",
+            "de": "Aruba",
+            "ja": "アルバ",
+            "fr": "Aruba"
+          },
           "topLevelDomain": [
             ".aw"
           ],
@@ -1066,7 +1156,8 @@
             "nl": "Aruba",
             "hr": "Aruba",
             "fa": "آروبا",
-            "vn": "Aruba"
+            "vn": "Aruba",
+            "en": "Aruba"
           },
           "flag": "https://restcountries.eu/data/abw.svg",
           "regionalBlocs": [],
@@ -1078,7 +1169,13 @@
           }
         },
         {
-          "name": "Australia",
+          "name": {
+            "en": "Australia",
+            "vn": "Úc",
+            "de": "Australien",
+            "ja": "オーストラリア",
+            "fr": "Australie"
+          },
           "topLevelDomain": [
             ".au"
           ],
@@ -1140,7 +1237,8 @@
             "nl": "Australië",
             "hr": "Australija",
             "fa": "استرالیا",
-            "vn": "Úc"
+            "vn": "Úc",
+            "en": "Australia"
           },
           "flag": "https://restcountries.eu/data/aus.svg",
           "regionalBlocs": [],
@@ -1152,7 +1250,13 @@
           }
         },
         {
-          "name": "Austria",
+          "name": {
+            "en": "Austria",
+            "vn": "Áo",
+            "de": "Österreich",
+            "ja": "オーストリア",
+            "fr": "Autriche"
+          },
           "topLevelDomain": [
             ".at"
           ],
@@ -1219,7 +1323,8 @@
             "nl": "Oostenrijk",
             "hr": "Austrija",
             "fa": "اتریش",
-            "vn": "Áo"
+            "vn": "Áo",
+            "en": "Austria"
           },
           "flag": "https://restcountries.eu/data/aut.svg",
           "regionalBlocs": [
@@ -1238,7 +1343,13 @@
           }
         },
         {
-          "name": "Azerbaijan",
+          "name": {
+            "en": "Azerbaijan",
+            "vn": "A-déc-bai-dan",
+            "de": "Aserbaidschan",
+            "ja": "アゼルバイジャン",
+            "fr": "Azerbaïdjan"
+          },
           "topLevelDomain": [
             ".az"
           ],
@@ -1301,7 +1412,8 @@
             "nl": "Azerbeidzjan",
             "hr": "Azerbajdžan",
             "fa": "آذربایجان",
-            "vn": "Azerbaijan"
+            "vn": "Azerbaijan",
+            "en": "Azerbaijan"
           },
           "flag": "https://restcountries.eu/data/aze.svg",
           "regionalBlocs": [],
@@ -1313,7 +1425,13 @@
           }
         },
         {
-          "name": "Bahamas",
+          "name": {
+            "en": "Bahamas",
+            "vn": "Ba-ha-mát",
+            "de": "Bahamas",
+            "ja": "バハマ",
+            "fr": "Bahamas"
+          },
           "topLevelDomain": [
             ".bs"
           ],
@@ -1369,7 +1487,8 @@
             "nl": "Bahama’s",
             "hr": "Bahami",
             "fa": "باهاما",
-            "vn": "Bahamas"
+            "vn": "Bahamas",
+            "en": "Bahamas"
           },
           "flag": "https://restcountries.eu/data/bhs.svg",
           "regionalBlocs": [
@@ -1392,7 +1511,13 @@
           }
         },
         {
-          "name": "Bahrain",
+          "name": {
+            "en": "Bahrain",
+            "vn": "Ba-ranh",
+            "de": "Bahrain",
+            "ja": "バーレーン",
+            "fr": "Bahreïn"
+          },
           "topLevelDomain": [
             ".bh"
           ],
@@ -1449,7 +1574,8 @@
             "nl": "Bahrein",
             "hr": "Bahrein",
             "fa": "بحرین",
-            "vn": "Bahrain"
+            "vn": "Bahrain",
+            "en": "Bahrain"
           },
           "flag": "https://restcountries.eu/data/bhr.svg",
           "regionalBlocs": [
@@ -1472,7 +1598,13 @@
           }
         },
         {
-          "name": "Bangladesh",
+          "name": {
+            "en": "Bangladesh",
+            "vn": "Băng-la-đét",
+            "de": "Bangladesch",
+            "ja": "バングラデシュ",
+            "fr": "Bangladesh"
+          },
           "topLevelDomain": [
             ".bd"
           ],
@@ -1532,7 +1664,8 @@
             "nl": "Bangladesh",
             "hr": "Bangladeš",
             "fa": "بنگلادش",
-            "vn": "Bangladesh"
+            "vn": "Bangladesh",
+            "en": "Bangladesh"
           },
           "flag": "https://restcountries.eu/data/bgd.svg",
           "regionalBlocs": [
@@ -1551,7 +1684,13 @@
           }
         },
         {
-          "name": "Barbados",
+          "name": {
+            "en": "Barbados",
+            "vn": "Bác-ba-đốt",
+            "de": "Barbados",
+            "ja": "バルバドス",
+            "fr": "Barbade"
+          },
           "topLevelDomain": [
             ".bb"
           ],
@@ -1606,7 +1745,8 @@
             "nl": "Barbados",
             "hr": "Barbados",
             "fa": "باربادوس",
-            "vn": "Barbados"
+            "vn": "Barbados",
+            "en": "Barbados"
           },
           "flag": "https://restcountries.eu/data/brb.svg",
           "regionalBlocs": [
@@ -1629,7 +1769,13 @@
           }
         },
         {
-          "name": "Belarus",
+          "name": {
+            "en": "Belarus",
+            "vn": "Bê-la-rút",
+            "de": "Weißrussland",
+            "ja": "ベラルーシ",
+            "fr": "Biélorussie"
+          },
           "topLevelDomain": [
             ".by"
           ],
@@ -1707,7 +1853,8 @@
             "nl": "Wit-Rusland",
             "hr": "Bjelorusija",
             "fa": "بلاروس",
-            "vn": "Belarus"
+            "vn": "Belarus",
+            "en": "Belarus"
           },
           "flag": "https://restcountries.eu/data/blr.svg",
           "regionalBlocs": [
@@ -1728,7 +1875,13 @@
           }
         },
         {
-          "name": "Belgium",
+          "name": {
+            "en": "Belgium",
+            "vn": "Bỉ",
+            "de": "Belgien",
+            "ja": "ベルギー",
+            "fr": "Belgique"
+          },
           "topLevelDomain": [
             ".be"
           ],
@@ -1808,7 +1961,8 @@
             "nl": "België",
             "hr": "Belgija",
             "fa": "بلژیک",
-            "vn": "Bỉ"
+            "vn": "Bỉ",
+            "en": "Belgium"
           },
           "flag": "https://restcountries.eu/data/bel.svg",
           "regionalBlocs": [
@@ -1827,7 +1981,13 @@
           }
         },
         {
-          "name": "Belize",
+          "name": {
+            "en": "Belize",
+            "vn": "Bê-li-xê",
+            "de": "Belize",
+            "ja": "ベリーズ",
+            "fr": "Belize"
+          },
           "topLevelDomain": [
             ".bz"
           ],
@@ -1891,7 +2051,8 @@
             "nl": "Belize",
             "hr": "Belize",
             "fa": "بلیز",
-            "vn": "Belize"
+            "vn": "Belize",
+            "en": "Belize"
           },
           "flag": "https://restcountries.eu/data/blz.svg",
           "regionalBlocs": [
@@ -1924,7 +2085,13 @@
           }
         },
         {
-          "name": "Benin",
+          "name": {
+            "en": "Benin",
+            "vn": "Bê-nanh",
+            "de": "Benin",
+            "ja": "ベナン",
+            "fr": "Bénin"
+          },
           "topLevelDomain": [
             ".bj"
           ],
@@ -1986,7 +2153,8 @@
             "nl": "Benin",
             "hr": "Benin",
             "fa": "بنین",
-            "vn": "Bénin"
+            "vn": "Bénin",
+            "en": "Benin"
           },
           "flag": "https://restcountries.eu/data/ben.svg",
           "regionalBlocs": [
@@ -2011,7 +2179,13 @@
           }
         },
         {
-          "name": "Bermuda",
+          "name": {
+            "en": "Bermuda",
+            "vn": "Béc-mu-đa",
+            "de": "Bermuda",
+            "ja": "バミューダ",
+            "fr": "Bermudes"
+          },
           "topLevelDomain": [
             ".bm"
           ],
@@ -2069,7 +2243,8 @@
             "nl": "Bermuda",
             "hr": "Bermudi",
             "fa": "برمودا",
-            "vn": "Bermuda"
+            "vn": "Bermuda",
+            "en": "Bermuda"
           },
           "flag": "https://restcountries.eu/data/bmu.svg",
           "regionalBlocs": [],
@@ -2081,7 +2256,13 @@
           }
         },
         {
-          "name": "Bhutan",
+          "name": {
+            "en": "Bhutan",
+            "vn": "Bu-tan",
+            "de": "Bhutan",
+            "ja": "ブータン",
+            "fr": "Bhoutan"
+          },
           "topLevelDomain": [
             ".bt"
           ],
@@ -2145,7 +2326,8 @@
             "nl": "Bhutan",
             "hr": "Butan",
             "fa": "بوتان",
-            "vn": "Bhutan"
+            "vn": "Bhutan",
+            "en": "Bhutan"
           },
           "flag": "https://restcountries.eu/data/btn.svg",
           "regionalBlocs": [
@@ -2164,7 +2346,13 @@
           }
         },
         {
-          "name": "Bolivia",
+          "name": {
+            "en": "Bolivia",
+            "vn": "Bô-li-vi-a",
+            "de": "Bolivien",
+            "ja": "ボリビア多民族国",
+            "fr": "Bolivie"
+          },
           "topLevelDomain": [
             ".bo"
           ],
@@ -2244,7 +2432,8 @@
             "nl": "Bolivia",
             "hr": "Bolivija",
             "fa": "بولیوی",
-            "vn": "Bolivia"
+            "vn": "Bolivia",
+            "en": "Bolivia"
           },
           "flag": "https://restcountries.eu/data/bol.svg",
           "regionalBlocs": [
@@ -2272,7 +2461,13 @@
           }
         },
         {
-          "name": "Caribbean Netherlands",
+          "name": {
+            "en": "Caribbean Netherlands",
+            "vn": "Caribe thuộc Hà Lan",
+            "de": "Bonaire, Sint Eustatius und Saba",
+            "ja": null,
+            "fr": "Bonaire, Saint-Eustache et Saba"
+          },
           "topLevelDomain": [
             ".an",
             ".nl"
@@ -2329,7 +2524,8 @@
             "nl": null,
             "hr": null,
             "fa": "بونیر",
-            "vn": "Caribe thuộc Hà Lan"
+            "vn": "Caribe thuộc Hà Lan",
+            "en": "Caribbean Netherlands"
           },
           "flag": "https://restcountries.eu/data/nld.svg",
           "regionalBlocs": [],
@@ -2341,7 +2537,13 @@
           }
         },
         {
-          "name": "Bosnia and Herzegovina",
+          "name": {
+            "en": "Bosnia and Herzegovina",
+            "vn": "Bo-xi-a Héc-dê-gô-vi-na",
+            "de": "Bosnien und Herzegowina",
+            "ja": "ボスニア・ヘルツェゴビナ",
+            "fr": "Bosnie-Herzégovine"
+          },
           "topLevelDomain": [
             ".ba"
           ],
@@ -2414,7 +2616,8 @@
             "nl": "Bosnië en Herzegovina",
             "hr": "Bosna i Hercegovina",
             "fa": "بوسنی و هرزگوین",
-            "vn": "Bosna và Hercegovina"
+            "vn": "Bosna và Hercegovina",
+            "en": "Bosnia and Herzegovina"
           },
           "flag": "https://restcountries.eu/data/bih.svg",
           "regionalBlocs": [
@@ -2433,7 +2636,13 @@
           }
         },
         {
-          "name": "Botswana",
+          "name": {
+            "en": "Botswana",
+            "vn": "Bốt-xoa-na",
+            "de": "Botswana",
+            "ja": "ボツワナ",
+            "fr": "Botswana"
+          },
           "topLevelDomain": [
             ".bw"
           ],
@@ -2501,7 +2710,8 @@
             "nl": "Botswana",
             "hr": "Bocvana",
             "fa": "بوتسوانا",
-            "vn": "Botswana"
+            "vn": "Botswana",
+            "en": "Botswana"
           },
           "flag": "https://restcountries.eu/data/bwa.svg",
           "regionalBlocs": [
@@ -2526,7 +2736,13 @@
           }
         },
         {
-          "name": "Bouvet Island",
+          "name": {
+            "en": "Bouvet Island",
+            "vn": "Đảo Bouvet",
+            "de": "Bouvetinsel",
+            "ja": "ブーベ島",
+            "fr": "Île Bouvet"
+          },
           "topLevelDomain": [
             ".bv"
           ],
@@ -2595,7 +2811,8 @@
             "nl": "Bouveteiland",
             "hr": "Otok Bouvet",
             "fa": "جزیره بووه",
-            "vn": "Đảo Bouvet"
+            "vn": "Đảo Bouvet",
+            "en": "Bouvet Island"
           },
           "flag": "https://restcountries.eu/data/bvt.svg",
           "regionalBlocs": [],
@@ -2607,7 +2824,13 @@
           }
         },
         {
-          "name": "Brazil",
+          "name": {
+            "en": "Brazil",
+            "vn": "Bra-xin",
+            "de": "Brasilien",
+            "ja": "ブラジル",
+            "fr": "Brésil"
+          },
           "topLevelDomain": [
             ".br"
           ],
@@ -2679,7 +2902,8 @@
             "nl": "Brazilië",
             "hr": "Brazil",
             "fa": "برزیل",
-            "vn": "Brazil"
+            "vn": "Brazil",
+            "en": "Brazil"
           },
           "flag": "https://restcountries.eu/data/bra.svg",
           "regionalBlocs": [
@@ -2707,7 +2931,13 @@
           }
         },
         {
-          "name": "British Indian Ocean Territory",
+          "name": {
+            "en": "British Indian Ocean Territory",
+            "vn": "Lãnh thổ Ấn Độ Dương thuộc Anh",
+            "de": "Britisches Territorium im Indischen Ozean",
+            "ja": "イギリス領インド洋地域",
+            "fr": "Territoire britannique de l'océan Indien"
+          },
           "topLevelDomain": [
             ".io"
           ],
@@ -2762,7 +2992,8 @@
             "nl": "Britse Gebieden in de Indische Oceaan",
             "hr": "Britanski Indijskooceanski teritorij",
             "fa": "قلمرو بریتانیا در اقیانوس هند",
-            "vn": "Lãnh thổ Ấn Độ Dương thuộc Anh"
+            "vn": "Lãnh thổ Ấn Độ Dương thuộc Anh",
+            "en": "British Indian Ocean Territory"
           },
           "flag": "https://restcountries.eu/data/iot.svg",
           "regionalBlocs": [
@@ -2787,7 +3018,13 @@
           }
         },
         {
-          "name": "United States Minor Outlying Islands",
+          "name": {
+            "en": "United States Minor Outlying Islands",
+            "vn": "Các tiểu đảo xa của Hoa Kỳ",
+            "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+            "ja": "合衆国領有小離島",
+            "fr": "Îles mineures éloignées des États-Unis"
+          },
           "topLevelDomain": [
             ".us"
           ],
@@ -2841,7 +3078,8 @@
             "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
             "hr": "Mali udaljeni otoci SAD-a",
             "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا",
-            "vn": "Các tiểu đảo xa của Hoa Kỳ"
+            "vn": "Các tiểu đảo xa của Hoa Kỳ",
+            "en": "United States Minor Outlying Islands"
           },
           "flag": "https://restcountries.eu/data/umi.svg",
           "regionalBlocs": [],
@@ -2853,7 +3091,13 @@
           }
         },
         {
-          "name": "Virgin Islands (British)",
+          "name": {
+            "en": "Virgin Islands (British)",
+            "vn": "Quần đảo Virgin thuộc Anh",
+            "de": "Britische Jungferninseln",
+            "ja": "イギリス領ヴァージン諸島",
+            "fr": "Îles Vierges britanniques"
+          },
           "topLevelDomain": [
             ".vg"
           ],
@@ -2913,7 +3157,8 @@
             "nl": "Britse Maagdeneilanden",
             "hr": "Britanski Djevičanski Otoci",
             "fa": "جزایر ویرجین بریتانیا",
-            "vn": "Quần đảo Virgin thuộc Anh"
+            "vn": "Quần đảo Virgin thuộc Anh",
+            "en": "Virgin Islands (British)"
           },
           "flag": "https://restcountries.eu/data/vgb.svg",
           "regionalBlocs": [],
@@ -2925,7 +3170,13 @@
           }
         },
         {
-          "name": "Virgin Islands (U.S.)",
+          "name": {
+            "en": "Virgin Islands (U.S.)",
+            "vn": "Quần đảo Virgin thuộc Mỹ",
+            "de": "Amerikanische Jungferninseln",
+            "ja": "アメリカ領ヴァージン諸島",
+            "fr": "Îles Vierges des États-Unis"
+          },
           "topLevelDomain": [
             ".vi"
           ],
@@ -2983,7 +3234,8 @@
             "nl": "Verenigde Staten Maagdeneilanden",
             "hr": null,
             "fa": "جزایر ویرجین آمریکا",
-            "vn": "Quần đảo Virgin thuộc Mỹ"
+            "vn": "Quần đảo Virgin thuộc Mỹ",
+            "en": "Virgin Islands (U.S.)"
           },
           "flag": "https://restcountries.eu/data/vir.svg",
           "regionalBlocs": [],
@@ -2995,7 +3247,13 @@
           }
         },
         {
-          "name": "Brunei",
+          "name": {
+            "en": "Brunei",
+            "vn": "Bru-nây",
+            "de": "Brunei",
+            "ja": "ブルネイ・ダルサラーム",
+            "fr": "Brunei"
+          },
           "topLevelDomain": [
             ".bn"
           ],
@@ -3059,7 +3317,8 @@
             "nl": "Brunei",
             "hr": "Brunej",
             "fa": "برونئی",
-            "vn": "Brunei"
+            "vn": "Brunei",
+            "en": "Brunei"
           },
           "flag": "https://restcountries.eu/data/brn.svg",
           "regionalBlocs": [
@@ -3078,7 +3337,13 @@
           }
         },
         {
-          "name": "Bulgaria",
+          "name": {
+            "en": "Bulgaria",
+            "vn": "Bun-ga-ri",
+            "de": "Bulgarien",
+            "ja": "ブルガリア",
+            "fr": "Bulgarie"
+          },
           "topLevelDomain": [
             ".bg"
           ],
@@ -3141,7 +3406,8 @@
             "nl": "Bulgarije",
             "hr": "Bugarska",
             "fa": "بلغارستان",
-            "vn": "Bulgaria"
+            "vn": "Bulgaria",
+            "en": "Bulgaria"
           },
           "flag": "https://restcountries.eu/data/bgr.svg",
           "regionalBlocs": [
@@ -3160,7 +3426,13 @@
           }
         },
         {
-          "name": "Burkina Faso",
+          "name": {
+            "en": "Burkina Faso",
+            "vn": "Buốc-ki-na Pha-xô",
+            "de": "Burkina Faso",
+            "ja": "ブルキナファソ",
+            "fr": "Burkina Faso"
+          },
           "topLevelDomain": [
             ".bf"
           ],
@@ -3228,7 +3500,8 @@
             "nl": "Burkina Faso",
             "hr": "Burkina Faso",
             "fa": "بورکینافاسو",
-            "vn": "Burkina Faso"
+            "vn": "Burkina Faso",
+            "en": "Burkina Faso"
           },
           "flag": "https://restcountries.eu/data/bfa.svg",
           "regionalBlocs": [
@@ -3253,7 +3526,13 @@
           }
         },
         {
-          "name": "Burundi",
+          "name": {
+            "en": "Burundi",
+            "vn": "Bu-run-đi",
+            "de": "Burundi",
+            "ja": "ブルンジ",
+            "fr": "Burundi"
+          },
           "topLevelDomain": [
             ".bi"
           ],
@@ -3321,7 +3600,8 @@
             "nl": "Burundi",
             "hr": "Burundi",
             "fa": "بوروندی",
-            "vn": "Burundi"
+            "vn": "Burundi",
+            "en": "Burundi"
           },
           "flag": "https://restcountries.eu/data/bdi.svg",
           "regionalBlocs": [
@@ -3346,7 +3626,13 @@
           }
         },
         {
-          "name": "Cambodia",
+          "name": {
+            "en": "Cambodia",
+            "vn": "Cam-pu-chia",
+            "de": "Kambodscha",
+            "ja": "カンボジア",
+            "fr": "Cambodge"
+          },
           "topLevelDomain": [
             ".kh"
           ],
@@ -3411,7 +3697,8 @@
             "nl": "Cambodja",
             "hr": "Kambodža",
             "fa": "کامبوج",
-            "vn": "Campuchia"
+            "vn": "Campuchia",
+            "en": "Cambodia"
           },
           "flag": "https://restcountries.eu/data/khm.svg",
           "regionalBlocs": [
@@ -3430,7 +3717,13 @@
           }
         },
         {
-          "name": "Cameroon",
+          "name": {
+            "en": "Cameroon",
+            "vn": "Ca-mơ-run",
+            "de": "Kamerun",
+            "ja": "カメルーン",
+            "fr": "Cameroun"
+          },
           "topLevelDomain": [
             ".cm"
           ],
@@ -3500,7 +3793,8 @@
             "nl": "Kameroen",
             "hr": "Kamerun",
             "fa": "کامرون",
-            "vn": "Cameroon"
+            "vn": "Cameroon",
+            "en": "Cameroon"
           },
           "flag": "https://restcountries.eu/data/cmr.svg",
           "regionalBlocs": [
@@ -3525,7 +3819,13 @@
           }
         },
         {
-          "name": "Canada",
+          "name": {
+            "en": "Canada",
+            "vn": "Ca-na-đa",
+            "de": "Kanada",
+            "ja": "カナダ",
+            "fr": "Canada"
+          },
           "topLevelDomain": [
             ".ca"
           ],
@@ -3593,7 +3893,8 @@
             "nl": "Canada",
             "hr": "Kanada",
             "fa": "کانادا",
-            "vn": "Canada"
+            "vn": "Canada",
+            "en": "Canada"
           },
           "flag": "https://restcountries.eu/data/can.svg",
           "regionalBlocs": [
@@ -3615,7 +3916,13 @@
           }
         },
         {
-          "name": "Cabo Verde",
+          "name": {
+            "en": "Cabo Verde",
+            "vn": "Cáp-ve",
+            "de": "Kap Verde",
+            "ja": "カーボベルデ",
+            "fr": "Cap Vert"
+          },
           "topLevelDomain": [
             ".cv"
           ],
@@ -3672,7 +3979,8 @@
             "nl": "Kaapverdië",
             "hr": "Zelenortska Republika",
             "fa": "کیپ ورد",
-            "vn": "Cabo Verde"
+            "vn": "Cabo Verde",
+            "en": "Cabo Verde"
           },
           "flag": "https://restcountries.eu/data/cpv.svg",
           "regionalBlocs": [
@@ -3697,7 +4005,13 @@
           }
         },
         {
-          "name": "Cayman Islands",
+          "name": {
+            "en": "Cayman Islands",
+            "vn": "Quần đảo Cayman",
+            "de": "Kaimaninseln",
+            "ja": "ケイマン諸島",
+            "fr": "Îles Caïmans"
+          },
           "topLevelDomain": [
             ".ky"
           ],
@@ -3752,7 +4066,8 @@
             "nl": "Caymaneilanden",
             "hr": "Kajmanski otoci",
             "fa": "جزایر کیمن",
-            "vn": "Quần đảo Cayman"
+            "vn": "Quần đảo Cayman",
+            "en": "Cayman Islands"
           },
           "flag": "https://restcountries.eu/data/cym.svg",
           "regionalBlocs": [],
@@ -3764,7 +4079,13 @@
           }
         },
         {
-          "name": "Central African Republic",
+          "name": {
+            "en": "Central African Republic",
+            "vn": "Cộng hòa Trung Phi",
+            "de": "Zentralafrikanische Republik",
+            "ja": "中央アフリカ共和国",
+            "fr": "République centrafricaine"
+          },
           "topLevelDomain": [
             ".cf"
           ],
@@ -3834,7 +4155,8 @@
             "nl": "Centraal-Afrikaanse Republiek",
             "hr": "Srednjoafrička Republika",
             "fa": "جمهوری آفریقای مرکزی",
-            "vn": "Cộng hòa Trung Phi"
+            "vn": "Cộng hòa Trung Phi",
+            "en": "Central African Republic"
           },
           "flag": "https://restcountries.eu/data/caf.svg",
           "regionalBlocs": [
@@ -3859,7 +4181,13 @@
           }
         },
         {
-          "name": "Chad",
+          "name": {
+            "en": "Chad",
+            "vn": "Sát",
+            "de": "Tschad",
+            "ja": "チャド",
+            "fr": "Tchad"
+          },
           "topLevelDomain": [
             ".td"
           ],
@@ -3930,7 +4258,8 @@
             "nl": "Tsjaad",
             "hr": "Čad",
             "fa": "چاد",
-            "vn": "Tchad"
+            "vn": "Tchad",
+            "en": "Chad"
           },
           "flag": "https://restcountries.eu/data/tcd.svg",
           "regionalBlocs": [
@@ -3955,7 +4284,13 @@
           }
         },
         {
-          "name": "Chile",
+          "name": {
+            "en": "Chile",
+            "vn": "Chi-lê",
+            "de": "Chile",
+            "ja": "チリ",
+            "fr": "Chili"
+          },
           "topLevelDomain": [
             ".cl"
           ],
@@ -4017,7 +4352,8 @@
             "nl": "Chili",
             "hr": "Čile",
             "fa": "شیلی",
-            "vn": "Chile"
+            "vn": "Chile",
+            "en": "Chile"
           },
           "flag": "https://restcountries.eu/data/chl.svg",
           "regionalBlocs": [
@@ -4053,7 +4389,13 @@
           }
         },
         {
-          "name": "China",
+          "name": {
+            "en": "China",
+            "vn": "Trung Quốc",
+            "de": "China",
+            "ja": "中国",
+            "fr": "Chine"
+          },
           "topLevelDomain": [
             ".cn"
           ],
@@ -4130,7 +4472,8 @@
             "nl": "China",
             "hr": "Kina",
             "fa": "چین",
-            "vn": "Trung Quốc"
+            "vn": "Trung Quốc",
+            "en": "China"
           },
           "flag": "https://restcountries.eu/data/chn.svg",
           "regionalBlocs": [],
@@ -4142,7 +4485,13 @@
           }
         },
         {
-          "name": "Christmas Island",
+          "name": {
+            "en": "Christmas Island",
+            "vn": "Đảo Giáng Sinh",
+            "de": "Weihnachtsinsel",
+            "ja": "クリスマス島",
+            "fr": "Île Christmas"
+          },
           "topLevelDomain": [
             ".cx"
           ],
@@ -4198,7 +4547,8 @@
             "nl": "Christmaseiland",
             "hr": "Božićni otok",
             "fa": "جزیره کریسمس",
-            "vn": "Đảo Giáng Sinh"
+            "vn": "Đảo Giáng Sinh",
+            "en": "Christmas Island"
           },
           "flag": "https://restcountries.eu/data/cxr.svg",
           "regionalBlocs": [],
@@ -4210,7 +4560,13 @@
           }
         },
         {
-          "name": "Cocos (Keeling) Islands",
+          "name": {
+            "en": "Cocos (Keeling) Islands",
+            "vn": "Quần đảo Cocos (Keeling)",
+            "de": "Kokosinseln",
+            "ja": "ココス（キーリング）諸島",
+            "fr": "Îles Cocos"
+          },
           "topLevelDomain": [
             ".cc"
           ],
@@ -4267,7 +4623,8 @@
             "nl": "Cocoseilanden",
             "hr": "Kokosovi Otoci",
             "fa": "جزایر کوکوس",
-            "vn": "Quần đảo Cocos (Keeling)"
+            "vn": "Quần đảo Cocos (Keeling)",
+            "en": "Cocos (Keeling) Islands"
           },
           "flag": "https://restcountries.eu/data/cck.svg",
           "regionalBlocs": [],
@@ -4279,7 +4636,13 @@
           }
         },
         {
-          "name": "Colombia",
+          "name": {
+            "en": "Colombia",
+            "vn": "Cô-lôm-bi-a",
+            "de": "Kolumbien",
+            "ja": "コロンビア",
+            "fr": "Colombie"
+          },
           "topLevelDomain": [
             ".co"
           ],
@@ -4342,7 +4705,8 @@
             "nl": "Colombia",
             "hr": "Kolumbija",
             "fa": "کلمبیا",
-            "vn": "Colombia"
+            "vn": "Colombia",
+            "en": "Colombia"
           },
           "flag": "https://restcountries.eu/data/col.svg",
           "regionalBlocs": [
@@ -4378,7 +4742,13 @@
           }
         },
         {
-          "name": "Comoros",
+          "name": {
+            "en": "Comoros",
+            "vn": "(Liên bang) Cô-mo",
+            "de": "Union der Komoren",
+            "ja": "コモロ",
+            "fr": "Comores"
+          },
           "topLevelDomain": [
             ".km"
           ],
@@ -4443,7 +4813,8 @@
             "nl": "Comoren",
             "hr": "Komori",
             "fa": "کومور",
-            "vn": "Comoros"
+            "vn": "Comoros",
+            "en": "Comoros"
           },
           "flag": "https://restcountries.eu/data/com.svg",
           "regionalBlocs": [
@@ -4478,7 +4849,13 @@
           }
         },
         {
-          "name": "Republic of the Congo",
+          "name": {
+            "en": "Republic of the Congo",
+            "vn": "Cộng hòa Congo",
+            "de": "Kongo",
+            "ja": "コンゴ共和国",
+            "fr": "Congo"
+          },
           "topLevelDomain": [
             ".cg"
           ],
@@ -4546,7 +4923,8 @@
             "nl": "Congo [Republiek]",
             "hr": "Kongo",
             "fa": "کنگو",
-            "vn": "Cộng hòa Congo"
+            "vn": "Cộng hòa Congo",
+            "en": "Republic of the Congo"
           },
           "flag": "https://restcountries.eu/data/cog.svg",
           "regionalBlocs": [
@@ -4571,7 +4949,13 @@
           }
         },
         {
-          "name": "Democratic Republic of the Congo",
+          "name": {
+            "en": "Democratic Republic of the Congo",
+            "vn": "Cộng hòa Dân chủ Congo",
+            "de": "Kongo (Dem. Rep.)",
+            "ja": "コンゴ民主共和国",
+            "fr": "Congo (Rép. dém.)"
+          },
           "topLevelDomain": [
             ".cd"
           ],
@@ -4664,7 +5048,8 @@
             "nl": "Congo [DRC]",
             "hr": "Kongo, Demokratska Republika",
             "fa": "جمهوری کنگو",
-            "vn": "Cộng hòa Dân chủ Congo"
+            "vn": "Cộng hòa Dân chủ Congo",
+            "en": "Democratic Republic of the Congo"
           },
           "flag": "https://restcountries.eu/data/cod.svg",
           "regionalBlocs": [
@@ -4689,7 +5074,13 @@
           }
         },
         {
-          "name": "Cook Islands",
+          "name": {
+            "en": "Cook Islands",
+            "vn": "Quần đảo Cúc",
+            "de": "Cookinseln",
+            "ja": "クック諸島",
+            "fr": "Îles Cook"
+          },
           "topLevelDomain": [
             ".ck"
           ],
@@ -4750,7 +5141,8 @@
             "nl": "Cookeilanden",
             "hr": "Cookovo Otočje",
             "fa": "جزایر کوک",
-            "vn": "Quần đảo Cúc"
+            "vn": "Quần đảo Cúc",
+            "en": "Cook Islands"
           },
           "flag": "https://restcountries.eu/data/cok.svg",
           "regionalBlocs": [],
@@ -4762,7 +5154,13 @@
           }
         },
         {
-          "name": "Costa Rica",
+          "name": {
+            "en": "Costa Rica",
+            "vn": "Cốt-xta-ri-ca",
+            "de": "Costa Rica",
+            "ja": "コスタリカ",
+            "fr": "Costa Rica"
+          },
           "topLevelDomain": [
             ".cr"
           ],
@@ -4822,7 +5220,8 @@
             "nl": "Costa Rica",
             "hr": "Kostarika",
             "fa": "کاستاریکا",
-            "vn": "Costa Rica"
+            "vn": "Costa Rica",
+            "en": "Costa Rica"
           },
           "flag": "https://restcountries.eu/data/cri.svg",
           "regionalBlocs": [
@@ -4845,7 +5244,13 @@
           }
         },
         {
-          "name": "Croatia",
+          "name": {
+            "en": "Croatia",
+            "vn": "Crô-a-ti-a",
+            "de": "Kroatien",
+            "ja": "クロアチア",
+            "fr": "Croatie"
+          },
           "topLevelDomain": [
             ".hr"
           ],
@@ -4909,7 +5314,8 @@
             "nl": "Kroatië",
             "hr": "Hrvatska",
             "fa": "کرواسی",
-            "vn": "Croatia"
+            "vn": "Croatia",
+            "en": "Croatia"
           },
           "flag": "https://restcountries.eu/data/hrv.svg",
           "regionalBlocs": [
@@ -4928,7 +5334,13 @@
           }
         },
         {
-          "name": "Cuba",
+          "name": {
+            "en": "Cuba",
+            "vn": "Cu-ba",
+            "de": "Kuba",
+            "ja": "キューバ",
+            "fr": "Cuba"
+          },
           "topLevelDomain": [
             ".cu"
           ],
@@ -4990,7 +5402,8 @@
             "nl": "Cuba",
             "hr": "Kuba",
             "fa": "کوبا",
-            "vn": "Cuba"
+            "vn": "Cuba",
+            "en": "Cuba"
           },
           "flag": "https://restcountries.eu/data/cub.svg",
           "regionalBlocs": [],
@@ -5002,7 +5415,13 @@
           }
         },
         {
-          "name": "Curaçao",
+          "name": {
+            "en": "Curaçao",
+            "vn": "Cu-ra-xao",
+            "de": "Curaçao",
+            "ja": null,
+            "fr": "Curaçao"
+          },
           "topLevelDomain": [
             ".cw"
           ],
@@ -5074,7 +5493,8 @@
             "nl": "Curaçao",
             "hr": null,
             "fa": "کوراسائو",
-            "vn": "Curaçao"
+            "vn": "Curaçao",
+            "en": "Curaçao"
           },
           "flag": "https://restcountries.eu/data/cuw.svg",
           "regionalBlocs": [],
@@ -5086,7 +5506,13 @@
           }
         },
         {
-          "name": "Cyprus",
+          "name": {
+            "en": "Cyprus",
+            "vn": "Cộng hòa Síp",
+            "de": "Zypern",
+            "ja": "キプロス",
+            "fr": "Chypre"
+          },
           "topLevelDomain": [
             ".cy"
           ],
@@ -5160,7 +5586,8 @@
             "nl": "Cyprus",
             "hr": "Cipar",
             "fa": "قبرس",
-            "vn": "Cộng hòa Síp"
+            "vn": "Cộng hòa Síp",
+            "en": "Cyprus"
           },
           "flag": "https://restcountries.eu/data/cyp.svg",
           "regionalBlocs": [
@@ -5179,7 +5606,13 @@
           }
         },
         {
-          "name": "Czech Republic",
+          "name": {
+            "en": "Czech Republic",
+            "vn": "Cộng hòa Séc",
+            "de": "Tschechische Republik",
+            "ja": "チェコ",
+            "fr": "République tchèque"
+          },
           "topLevelDomain": [
             ".cz"
           ],
@@ -5247,7 +5680,8 @@
             "nl": "Tsjechië",
             "hr": "Češka",
             "fa": "جمهوری چک",
-            "vn": "Cộng hòa Séc"
+            "vn": "Cộng hòa Séc",
+            "en": "Czech Republic"
           },
           "flag": "https://restcountries.eu/data/cze.svg",
           "regionalBlocs": [
@@ -5266,7 +5700,13 @@
           }
         },
         {
-          "name": "Denmark",
+          "name": {
+            "en": "Denmark",
+            "vn": "Đan Mạch",
+            "de": "Dänemark",
+            "ja": "デンマーク",
+            "fr": "Danemark"
+          },
           "topLevelDomain": [
             ".dk"
           ],
@@ -5330,7 +5770,8 @@
             "nl": "Denemarken",
             "hr": "Danska",
             "fa": "دانمارک",
-            "vn": "Đan Mạch"
+            "vn": "Đan Mạch",
+            "en": "Denmark"
           },
           "flag": "https://restcountries.eu/data/dnk.svg",
           "regionalBlocs": [
@@ -5349,7 +5790,13 @@
           }
         },
         {
-          "name": "Djibouti",
+          "name": {
+            "en": "Djibouti",
+            "vn": "Cộng hòa Gi-bu-ti",
+            "de": "Dschibuti",
+            "ja": "ジブチ",
+            "fr": "Djibouti"
+          },
           "topLevelDomain": [
             ".dj"
           ],
@@ -5420,7 +5867,8 @@
             "nl": "Djibouti",
             "hr": "Džibuti",
             "fa": "جیبوتی",
-            "vn": "Djibouti"
+            "vn": "Djibouti",
+            "en": "Djibouti"
           },
           "flag": "https://restcountries.eu/data/dji.svg",
           "regionalBlocs": [
@@ -5455,7 +5903,13 @@
           }
         },
         {
-          "name": "Dominica",
+          "name": {
+            "en": "Dominica",
+            "vn": "Dominica",
+            "de": "Dominica",
+            "ja": "ドミニカ国",
+            "fr": "Dominique"
+          },
           "topLevelDomain": [
             ".dm"
           ],
@@ -5513,7 +5967,8 @@
             "nl": "Dominica",
             "hr": "Dominika",
             "fa": "دومینیکا",
-            "vn": "Dominica"
+            "vn": "Dominica",
+            "en": "Dominica"
           },
           "flag": "https://restcountries.eu/data/dma.svg",
           "regionalBlocs": [],
@@ -5525,7 +5980,13 @@
           }
         },
         {
-          "name": "Dominican Republic",
+          "name": {
+            "en": "Dominican Republic",
+            "vn": "Cộng hòa Dominica",
+            "de": "Dominikanische Republik",
+            "ja": "ドミニカ共和国",
+            "fr": "République dominicaine"
+          },
           "topLevelDomain": [
             ".do"
           ],
@@ -5584,7 +6045,8 @@
             "nl": "Dominicaanse Republiek",
             "hr": "Dominikanska Republika",
             "fa": "جمهوری دومینیکن",
-            "vn": "Cộng hòa Dominica"
+            "vn": "Cộng hòa Dominica",
+            "en": "Dominican Republic"
           },
           "flag": "https://restcountries.eu/data/dom.svg",
           "regionalBlocs": [
@@ -5617,7 +6079,13 @@
           }
         },
         {
-          "name": "Ecuador",
+          "name": {
+            "en": "Ecuador",
+            "vn": "Ê-cu-a-đo",
+            "de": "Ecuador",
+            "ja": "エクアドル",
+            "fr": "Équateur"
+          },
           "topLevelDomain": [
             ".ec"
           ],
@@ -5678,7 +6146,8 @@
             "nl": "Ecuador",
             "hr": "Ekvador",
             "fa": "اکوادور",
-            "vn": "Ecuador"
+            "vn": "Ecuador",
+            "en": "Ecuador"
           },
           "flag": "https://restcountries.eu/data/ecu.svg",
           "regionalBlocs": [
@@ -5706,7 +6175,13 @@
           }
         },
         {
-          "name": "Egypt",
+          "name": {
+            "en": "Egypt",
+            "vn": "Ai Cập",
+            "de": "Ägypten",
+            "ja": "エジプト",
+            "fr": "Égypte"
+          },
           "topLevelDomain": [
             ".eg"
           ],
@@ -5766,7 +6241,8 @@
             "nl": "Egypte",
             "hr": "Egipat",
             "fa": "مصر",
-            "vn": "Ai Cập"
+            "vn": "Ai Cập",
+            "en": "Egypt"
           },
           "flag": "https://restcountries.eu/data/egy.svg",
           "regionalBlocs": [
@@ -5801,7 +6277,13 @@
           }
         },
         {
-          "name": "El Salvador",
+          "name": {
+            "en": "El Salvador",
+            "vn": "En Xan-va-đo",
+            "de": "El Salvador",
+            "ja": "エルサルバドル",
+            "fr": "Salvador"
+          },
           "topLevelDomain": [
             ".sv"
           ],
@@ -5861,7 +6343,8 @@
             "nl": "El Salvador",
             "hr": "Salvador",
             "fa": "السالوادور",
-            "vn": "El Salvador"
+            "vn": "El Salvador",
+            "en": "El Salvador"
           },
           "flag": "https://restcountries.eu/data/slv.svg",
           "regionalBlocs": [
@@ -5884,7 +6367,13 @@
           }
         },
         {
-          "name": "Equatorial Guinea",
+          "name": {
+            "en": "Equatorial Guinea",
+            "vn": "Guinea Xích Đạo",
+            "de": "Äquatorial-Guinea",
+            "ja": "赤道ギニア",
+            "fr": "Guinée-Équatoriale"
+          },
           "topLevelDomain": [
             ".gq"
           ],
@@ -5952,7 +6441,8 @@
             "nl": "Equatoriaal-Guinea",
             "hr": "Ekvatorijalna Gvineja",
             "fa": "گینه استوایی",
-            "vn": "Guinea Xích Đạo"
+            "vn": "Guinea Xích Đạo",
+            "en": "Equatorial Guinea"
           },
           "flag": "https://restcountries.eu/data/gnq.svg",
           "regionalBlocs": [
@@ -5977,7 +6467,13 @@
           }
         },
         {
-          "name": "Eritrea",
+          "name": {
+            "en": "Eritrea",
+            "vn": "Ê-ri-tơ-rê-a",
+            "de": "Eritrea",
+            "ja": "エリトリア",
+            "fr": "Érythrée"
+          },
           "topLevelDomain": [
             ".er"
           ],
@@ -6054,7 +6550,8 @@
             "nl": "Eritrea",
             "hr": "Eritreja",
             "fa": "اریتره",
-            "vn": "Eritrea"
+            "vn": "Eritrea",
+            "en": "Eritrea"
           },
           "flag": "https://restcountries.eu/data/eri.svg",
           "regionalBlocs": [
@@ -6079,7 +6576,13 @@
           }
         },
         {
-          "name": "Estonia",
+          "name": {
+            "en": "Estonia",
+            "vn": "E-xtô-ni-a",
+            "de": "Estland",
+            "ja": "エストニア",
+            "fr": "Estonie"
+          },
           "topLevelDomain": [
             ".ee"
           ],
@@ -6140,7 +6643,8 @@
             "nl": "Estland",
             "hr": "Estonija",
             "fa": "استونی",
-            "vn": "Estonia"
+            "vn": "Estonia",
+            "en": "Estonia"
           },
           "flag": "https://restcountries.eu/data/est.svg",
           "regionalBlocs": [
@@ -6159,7 +6663,13 @@
           }
         },
         {
-          "name": "Ethiopia",
+          "name": {
+            "en": "Ethiopia",
+            "vn": "Ê-ti-ô-pi-a",
+            "de": "Äthiopien",
+            "ja": "エチオピア",
+            "fr": "Éthiopie"
+          },
           "topLevelDomain": [
             ".et"
           ],
@@ -6224,7 +6734,8 @@
             "nl": "Ethiopië",
             "hr": "Etiopija",
             "fa": "اتیوپی",
-            "vn": "Ethiopia"
+            "vn": "Ethiopia",
+            "en": "Ethiopia"
           },
           "flag": "https://restcountries.eu/data/eth.svg",
           "regionalBlocs": [
@@ -6249,7 +6760,13 @@
           }
         },
         {
-          "name": "Falkland Islands (Malvinas)",
+          "name": {
+            "en": "Falkland Islands (Malvinas)",
+            "vn": "Quần đảo Falkland",
+            "de": "Falklandinseln",
+            "ja": "フォークランド（マルビナス）諸島",
+            "fr": "Îles Malouines"
+          },
           "topLevelDomain": [
             ".fk"
           ],
@@ -6305,7 +6822,8 @@
             "nl": "Falklandeilanden [Islas Malvinas]",
             "hr": "Falklandski Otoci",
             "fa": "جزایر فالکلند",
-            "vn": "Quần đảo Falkland"
+            "vn": "Quần đảo Falkland",
+            "en": "Falkland Islands (Malvinas)"
           },
           "flag": "https://restcountries.eu/data/flk.svg",
           "regionalBlocs": [
@@ -6333,7 +6851,13 @@
           }
         },
         {
-          "name": "Faroe Islands",
+          "name": {
+            "en": "Faroe Islands",
+            "vn": "Quần đảo Faroe",
+            "de": "Färöer-Inseln",
+            "ja": "フェロー諸島",
+            "fr": "Îles Féroé"
+          },
           "topLevelDomain": [
             ".fo"
           ],
@@ -6395,7 +6919,8 @@
             "nl": "Faeröer",
             "hr": "Farski Otoci",
             "fa": "جزایر فارو",
-            "vn": "Quần đảo Faroe"
+            "vn": "Quần đảo Faroe",
+            "en": "Faroe Islands"
           },
           "flag": "https://restcountries.eu/data/fro.svg",
           "regionalBlocs": [
@@ -6414,7 +6939,13 @@
           }
         },
         {
-          "name": "Fiji",
+          "name": {
+            "en": "Fiji",
+            "vn": "Phi-gi",
+            "de": "Fidschi",
+            "ja": "フィジー",
+            "fr": "Fidji"
+          },
           "topLevelDomain": [
             ".fj"
           ],
@@ -6491,7 +7022,8 @@
             "nl": "Fiji",
             "hr": "Fiđi",
             "fa": "فیجی",
-            "vn": "Fiji"
+            "vn": "Fiji",
+            "en": "Fiji"
           },
           "flag": "https://restcountries.eu/data/fji.svg",
           "regionalBlocs": [],
@@ -6503,7 +7035,13 @@
           }
         },
         {
-          "name": "Finland",
+          "name": {
+            "en": "Finland",
+            "vn": "Phần Lan",
+            "de": "Finnland",
+            "ja": "フィンランド",
+            "fr": "Finlande"
+          },
           "topLevelDomain": [
             ".fi"
           ],
@@ -6572,7 +7110,8 @@
             "nl": "Finland",
             "hr": "Finska",
             "fa": "فنلاند",
-            "vn": "Phần Lan"
+            "vn": "Phần Lan",
+            "en": "Finland"
           },
           "flag": "https://restcountries.eu/data/fin.svg",
           "regionalBlocs": [
@@ -6591,7 +7130,13 @@
           }
         },
         {
-          "name": "France",
+          "name": {
+            "en": "France",
+            "vn": "Pháp",
+            "de": "Frankreich",
+            "ja": "フランス",
+            "fr": "France"
+          },
           "topLevelDomain": [
             ".fr"
           ],
@@ -6668,7 +7213,8 @@
             "nl": "Frankrijk",
             "hr": "Francuska",
             "fa": "فرانسه",
-            "vn": "Pháp"
+            "vn": "Pháp",
+            "en": "France"
           },
           "flag": "https://restcountries.eu/data/fra.svg",
           "regionalBlocs": [
@@ -6687,7 +7233,13 @@
           }
         },
         {
-          "name": "French Guiana",
+          "name": {
+            "en": "French Guiana",
+            "vn": "Guyane thuộc Pháp",
+            "de": "Französisch Guyana",
+            "ja": "フランス領ギアナ",
+            "fr": "Guayane"
+          },
           "topLevelDomain": [
             ".gf"
           ],
@@ -6747,7 +7299,8 @@
             "nl": "Frans-Guyana",
             "hr": "Francuska Gvajana",
             "fa": "گویان فرانسه",
-            "vn": "Guyane thuộc Pháp"
+            "vn": "Guyane thuộc Pháp",
+            "en": "French Guiana"
           },
           "flag": "https://restcountries.eu/data/guf.svg",
           "regionalBlocs": [
@@ -6781,7 +7334,13 @@
           }
         },
         {
-          "name": "French Polynesia",
+          "name": {
+            "en": "French Polynesia",
+            "vn": "Polynésie thuộc Pháp",
+            "de": "Französisch-Polynesien",
+            "ja": "フランス領ポリネシア",
+            "fr": "Polynésie française"
+          },
           "topLevelDomain": [
             ".pf"
           ],
@@ -6841,7 +7400,8 @@
             "nl": "Frans-Polynesië",
             "hr": "Francuska Polinezija",
             "fa": "پلی‌نزی فرانسه",
-            "vn": "Polynésie thuộc Pháp"
+            "vn": "Polynésie thuộc Pháp",
+            "en": "French Polynesia"
           },
           "flag": "https://restcountries.eu/data/pyf.svg",
           "regionalBlocs": [],
@@ -6853,7 +7413,13 @@
           }
         },
         {
-          "name": "French Southern Territories",
+          "name": {
+            "en": "French Southern and Antarctic Lands",
+            "vn": "Vùng đất phía Nam và châu Nam Cực thuộc Pháp",
+            "de": "Französische Süd- und Antarktisgebiete",
+            "ja": "フランス領南方・南極地域",
+            "fr": "Terres australes et antarctiques françaises"
+          },
           "topLevelDomain": [
             ".tf"
           ],
@@ -6908,7 +7474,8 @@
             "nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
             "hr": "Francuski južni i antarktički teritoriji",
             "fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه",
-            "vn": "Vùng đất phía Nam và châu Nam Cực thuộc Pháp"
+            "vn": "Vùng đất phía Nam và châu Nam Cực thuộc Pháp",
+            "en": "French Southern and Antarctic Lands"
           },
           "flag": "https://restcountries.eu/data/atf.svg",
           "regionalBlocs": [
@@ -6933,7 +7500,13 @@
           }
         },
         {
-          "name": "Gabon",
+          "name": {
+            "en": "Gabon",
+            "vn": "Ga-bông",
+            "de": "Gabun",
+            "ja": "ガボン",
+            "fr": "Gabon"
+          },
           "topLevelDomain": [
             ".ga"
           ],
@@ -6994,7 +7567,8 @@
             "nl": "Gabon",
             "hr": "Gabon",
             "fa": "گابن",
-            "vn": "Gabon"
+            "vn": "Gabon",
+            "en": "Gabon"
           },
           "flag": "https://restcountries.eu/data/gab.svg",
           "regionalBlocs": [
@@ -7019,7 +7593,13 @@
           }
         },
         {
-          "name": "Gambia",
+          "name": {
+            "en": "Gambia",
+            "vn": "Găm-bi-a",
+            "de": "Gambia",
+            "ja": "ガンビア",
+            "fr": "Gambie"
+          },
           "topLevelDomain": [
             ".gm"
           ],
@@ -7077,7 +7657,8 @@
             "nl": "Gambia",
             "hr": "Gambija",
             "fa": "گامبیا",
-            "vn": "Gambia"
+            "vn": "Gambia",
+            "en": "Gambia"
           },
           "flag": "https://restcountries.eu/data/gmb.svg",
           "regionalBlocs": [
@@ -7102,7 +7683,13 @@
           }
         },
         {
-          "name": "Georgia",
+          "name": {
+            "en": "Georgia",
+            "vn": "Giê-oóc-gi-a",
+            "de": "Georgien",
+            "ja": "グルジア",
+            "fr": "Géorgie"
+          },
           "topLevelDomain": [
             ".ge"
           ],
@@ -7163,7 +7750,8 @@
             "nl": "Georgië",
             "hr": "Gruzija",
             "fa": "گرجستان",
-            "vn": "Georgia"
+            "vn": "Georgia",
+            "en": "Georgia"
           },
           "flag": "https://restcountries.eu/data/geo.svg",
           "regionalBlocs": [],
@@ -7175,7 +7763,13 @@
           }
         },
         {
-          "name": "Germany",
+          "name": {
+            "en": "Germany",
+            "vn": "Đức",
+            "de": "Deutschland",
+            "ja": "ドイツ",
+            "fr": "Allemagne"
+          },
           "topLevelDomain": [
             ".de"
           ],
@@ -7242,7 +7836,8 @@
             "nl": "Duitsland",
             "hr": "Njemačka",
             "fa": "آلمان",
-            "vn": "Đức"
+            "vn": "Đức",
+            "en": "Germany"
           },
           "flag": "https://restcountries.eu/data/deu.svg",
           "regionalBlocs": [
@@ -7261,7 +7856,13 @@
           }
         },
         {
-          "name": "Ghana",
+          "name": {
+            "en": "Ghana",
+            "vn": "Gha-na",
+            "de": "Ghana",
+            "ja": "ガーナ",
+            "fr": "Ghana"
+          },
           "topLevelDomain": [
             ".gh"
           ],
@@ -7320,7 +7921,8 @@
             "nl": "Ghana",
             "hr": "Gana",
             "fa": "غنا",
-            "vn": "Ghana"
+            "vn": "Ghana",
+            "en": "Ghana"
           },
           "flag": "https://restcountries.eu/data/gha.svg",
           "regionalBlocs": [
@@ -7345,7 +7947,13 @@
           }
         },
         {
-          "name": "Gibraltar",
+          "name": {
+            "en": "Gibraltar",
+            "vn": "Ghi-bờ-ra-ta",
+            "de": "Gibraltar",
+            "ja": "ジブラルタル",
+            "fr": "Gibraltar"
+          },
           "topLevelDomain": [
             ".gi"
           ],
@@ -7402,7 +8010,8 @@
             "nl": "Gibraltar",
             "hr": "Gibraltar",
             "fa": "جبل‌طارق",
-            "vn": "Gibraltar"
+            "vn": "Gibraltar",
+            "en": "Gibraltar"
           },
           "flag": "https://restcountries.eu/data/gib.svg",
           "regionalBlocs": [
@@ -7421,7 +8030,13 @@
           }
         },
         {
-          "name": "Greece",
+          "name": {
+            "en": "Greece",
+            "vn": "Hy Lạp",
+            "de": "Griechenland",
+            "ja": "ギリシャ",
+            "fr": "Grèce"
+          },
           "topLevelDomain": [
             ".gr"
           ],
@@ -7484,7 +8099,8 @@
             "nl": "Griekenland",
             "hr": "Grčka",
             "fa": "یونان",
-            "vn": "Hy Lạp"
+            "vn": "Hy Lạp",
+            "en": "Greece"
           },
           "flag": "https://restcountries.eu/data/grc.svg",
           "regionalBlocs": [
@@ -7503,7 +8119,13 @@
           }
         },
         {
-          "name": "Greenland",
+          "name": {
+            "en": "Greenland",
+            "vn": "Grin-len",
+            "de": "Grönland",
+            "ja": "グリーンランド",
+            "fr": "Groenland"
+          },
           "topLevelDomain": [
             ".gl"
           ],
@@ -7562,7 +8184,8 @@
             "nl": "Groenland",
             "hr": "Grenland",
             "fa": "گرینلند",
-            "vn": "Greenland"
+            "vn": "Greenland",
+            "en": "Greenland"
           },
           "flag": "https://restcountries.eu/data/grl.svg",
           "regionalBlocs": [],
@@ -7574,7 +8197,13 @@
           }
         },
         {
-          "name": "Grenada",
+          "name": {
+            "en": "Grenada",
+            "vn": "Grê-na-đa",
+            "de": "Grenada",
+            "ja": "グレナダ",
+            "fr": "Grenade"
+          },
           "topLevelDomain": [
             ".gd"
           ],
@@ -7629,7 +8258,8 @@
             "nl": "Grenada",
             "hr": "Grenada",
             "fa": "گرنادا",
-            "vn": "Grenada"
+            "vn": "Grenada",
+            "en": "Grenada"
           },
           "flag": "https://restcountries.eu/data/grd.svg",
           "regionalBlocs": [
@@ -7652,7 +8282,13 @@
           }
         },
         {
-          "name": "Guadeloupe",
+          "name": {
+            "en": "Guadeloupe",
+            "vn": "Goa-đê-lốp",
+            "de": "Guadeloupe",
+            "ja": "グアドループ",
+            "fr": "Guadeloupe"
+          },
           "topLevelDomain": [
             ".gp"
           ],
@@ -7708,7 +8344,8 @@
             "nl": "Guadeloupe",
             "hr": "Gvadalupa",
             "fa": "جزیره گوادلوپ",
-            "vn": "Guadeloupe"
+            "vn": "Guadeloupe",
+            "en": "Guadeloupe"
           },
           "flag": "https://restcountries.eu/data/glp.svg",
           "regionalBlocs": [],
@@ -7720,7 +8357,13 @@
           }
         },
         {
-          "name": "Guam",
+          "name": {
+            "en": "Guam",
+            "vn": "Guam",
+            "de": "Guam",
+            "ja": "グアム",
+            "fr": "Guam"
+          },
           "topLevelDomain": [
             ".gu"
           ],
@@ -7788,7 +8431,8 @@
             "nl": "Guam",
             "hr": "Guam",
             "fa": "گوام",
-            "vn": "Guam"
+            "vn": "Guam",
+            "en": "Guam"
           },
           "flag": "https://restcountries.eu/data/gum.svg",
           "regionalBlocs": [],
@@ -7800,7 +8444,13 @@
           }
         },
         {
-          "name": "Guatemala",
+          "name": {
+            "en": "Guatemala",
+            "vn": "Goa-tê-ma-la",
+            "de": "Guatemala",
+            "ja": "グアテマラ",
+            "fr": "Guatemala"
+          },
           "topLevelDomain": [
             ".gt"
           ],
@@ -7860,7 +8510,8 @@
             "nl": "Guatemala",
             "hr": "Gvatemala",
             "fa": "گواتمالا",
-            "vn": "Guatemala"
+            "vn": "Guatemala",
+            "en": "Guatemala"
           },
           "flag": "https://restcountries.eu/data/gtm.svg",
           "regionalBlocs": [
@@ -7883,7 +8534,13 @@
           }
         },
         {
-          "name": "Guernsey",
+          "name": {
+            "en": "Guernsey",
+            "vn": "Gơn-xây",
+            "de": "Guernsey",
+            "ja": "ガーンジー",
+            "fr": "Guernesey"
+          },
           "topLevelDomain": [
             ".gg"
           ],
@@ -7951,7 +8608,8 @@
             "nl": "Guernsey",
             "hr": "Guernsey",
             "fa": "گرنزی",
-            "vn": "Guernsey"
+            "vn": "Guernsey",
+            "en": "Guernsey"
           },
           "flag": "https://restcountries.eu/data/ggy.svg",
           "regionalBlocs": [],
@@ -7963,7 +8621,13 @@
           }
         },
         {
-          "name": "Guinea",
+          "name": {
+            "en": "Guinea",
+            "vn": "Cộng hòa Ghi-nê",
+            "de": "Guinea",
+            "ja": "ギニア",
+            "fr": "Guinée"
+          },
           "topLevelDomain": [
             ".gn"
           ],
@@ -8033,7 +8697,8 @@
             "nl": "Guinee",
             "hr": "Gvineja",
             "fa": "گینه",
-            "vn": "Guinée"
+            "vn": "Guinée",
+            "en": "Guinea"
           },
           "flag": "https://restcountries.eu/data/gin.svg",
           "regionalBlocs": [
@@ -8058,7 +8723,13 @@
           }
         },
         {
-          "name": "Guinea-Bissau",
+          "name": {
+            "en": "Guinea-Bissau",
+            "vn": "Ghi-nê Bít-xao",
+            "de": "Guinea-Bissau",
+            "ja": "ギニアビサウ",
+            "fr": "Guinée-Bissau"
+          },
           "topLevelDomain": [
             ".gw"
           ],
@@ -8118,7 +8789,8 @@
             "nl": "Guinee-Bissau",
             "hr": "Gvineja Bisau",
             "fa": "گینه بیسائو",
-            "vn": "Guiné-Bissau"
+            "vn": "Guiné-Bissau",
+            "en": "Guinea-Bissau"
           },
           "flag": "https://restcountries.eu/data/gnb.svg",
           "regionalBlocs": [
@@ -8143,7 +8815,13 @@
           }
         },
         {
-          "name": "Guyana",
+          "name": {
+            "en": "Guyana",
+            "vn": "Guy-a-na",
+            "de": "Guyana",
+            "ja": "ガイアナ",
+            "fr": "Guyane"
+          },
           "topLevelDomain": [
             ".gy"
           ],
@@ -8203,7 +8881,8 @@
             "nl": "Guyana",
             "hr": "Gvajana",
             "fa": "گویان",
-            "vn": "Guyana"
+            "vn": "Guyana",
+            "en": "Guyana"
           },
           "flag": "https://restcountries.eu/data/guy.svg",
           "regionalBlocs": [
@@ -8241,7 +8920,13 @@
           }
         },
         {
-          "name": "Haiti",
+          "name": {
+            "en": "Haiti",
+            "vn": "Ha-i-ti",
+            "de": "Haiti",
+            "ja": "ハイチ",
+            "fr": "Haïti"
+          },
           "topLevelDomain": [
             ".ht"
           ],
@@ -8307,7 +8992,8 @@
             "nl": "Haïti",
             "hr": "Haiti",
             "fa": "هائیتی",
-            "vn": "Haiti"
+            "vn": "Haiti",
+            "en": "Haiti"
           },
           "flag": "https://restcountries.eu/data/hti.svg",
           "regionalBlocs": [
@@ -8330,7 +9016,13 @@
           }
         },
         {
-          "name": "Heard Island and McDonald Islands",
+          "name": {
+            "en": "Heard Island and McDonald Islands",
+            "vn": "Đảo Heard và quần đảo McDonald",
+            "de": "Heard und die McDonaldinseln",
+            "ja": "ハード島とマクドナルド諸島",
+            "fr": "Îles Heard-et-MacDonald"
+          },
           "topLevelDomain": [
             ".hm",
             ".aq"
@@ -8386,7 +9078,8 @@
             "nl": "Heard- en McDonaldeilanden",
             "hr": "Otok Heard i otočje McDonald",
             "fa": "جزیره هرد و جزایر مک‌دونالد",
-            "vn": "Đảo Heard và quần đảo McDonald"
+            "vn": "Đảo Heard và quần đảo McDonald",
+            "en": "Heard Island and McDonald Islands"
           },
           "flag": "https://restcountries.eu/data/hmd.svg",
           "regionalBlocs": [],
@@ -8398,7 +9091,13 @@
           }
         },
         {
-          "name": "Vatican City",
+          "name": {
+            "en": "Vatican City",
+            "vn": "Thành Vatican",
+            "de": "Heiliger Stuhl",
+            "ja": "聖座",
+            "fr": "voir Saint"
+          },
           "topLevelDomain": [
             ".va"
           ],
@@ -8475,7 +9174,8 @@
             "nl": "Heilige Stoel",
             "hr": "Sveta Stolica",
             "fa": "سریر مقدس",
-            "vn": "Thành Vatican"
+            "vn": "Thành Vatican",
+            "en": "Vatican City"
           },
           "flag": "https://restcountries.eu/data/vat.svg",
           "regionalBlocs": [],
@@ -8487,7 +9187,13 @@
           }
         },
         {
-          "name": "Honduras",
+          "name": {
+            "en": "Honduras",
+            "vn": "Hon-đu-rát",
+            "de": "Honduras",
+            "ja": "ホンジュラス",
+            "fr": "Honduras"
+          },
           "topLevelDomain": [
             ".hn"
           ],
@@ -8548,7 +9254,8 @@
             "nl": "Honduras",
             "hr": "Honduras",
             "fa": "هندوراس",
-            "vn": "Honduras"
+            "vn": "Honduras",
+            "en": "Honduras"
           },
           "flag": "https://restcountries.eu/data/hnd.svg",
           "regionalBlocs": [
@@ -8571,7 +9278,13 @@
           }
         },
         {
-          "name": "Hong Kong",
+          "name": {
+            "en": "Hong Kong",
+            "vn": "Hồng Kông",
+            "de": "Hong Kong",
+            "ja": "香港",
+            "fr": "Hong Kong"
+          },
           "topLevelDomain": [
             ".hk"
           ],
@@ -8635,7 +9348,8 @@
             "nl": "Hongkong",
             "hr": "Hong Kong",
             "fa": "هنگ‌کنگ",
-            "vn": "Hồng Kông"
+            "vn": "Hồng Kông",
+            "en": "Hong Kong"
           },
           "flag": "https://restcountries.eu/data/hkg.svg",
           "regionalBlocs": [],
@@ -8647,7 +9361,13 @@
           }
         },
         {
-          "name": "Hungary",
+          "name": {
+            "en": "Hungary",
+            "vn": "Hung-ga-ri",
+            "de": "Ungarn",
+            "ja": "ハンガリー",
+            "fr": "Hongrie"
+          },
           "topLevelDomain": [
             ".hu"
           ],
@@ -8710,7 +9430,8 @@
             "nl": "Hongarije",
             "hr": "Mađarska",
             "fa": "مجارستان",
-            "vn": "Hungary"
+            "vn": "Hungary",
+            "en": "Hungary"
           },
           "flag": "https://restcountries.eu/data/hun.svg",
           "regionalBlocs": [
@@ -8729,7 +9450,13 @@
           }
         },
         {
-          "name": "Iceland",
+          "name": {
+            "en": "Iceland",
+            "vn": "Ai-xơ-len",
+            "de": "Island",
+            "ja": "アイスランド",
+            "fr": "Islande"
+          },
           "topLevelDomain": [
             ".is"
           ],
@@ -8787,7 +9514,8 @@
             "nl": "IJsland",
             "hr": "Island",
             "fa": "ایسلند",
-            "vn": "Iceland"
+            "vn": "Iceland",
+            "en": "Iceland"
           },
           "flag": "https://restcountries.eu/data/isl.svg",
           "regionalBlocs": [
@@ -8806,7 +9534,13 @@
           }
         },
         {
-          "name": "India",
+          "name": {
+            "en": "India",
+            "vn": "Ấn Độ",
+            "de": "Indien",
+            "ja": "インド",
+            "fr": "Inde"
+          },
           "topLevelDomain": [
             ".in"
           ],
@@ -8879,7 +9613,8 @@
             "nl": "India",
             "hr": "Indija",
             "fa": "هند",
-            "vn": "Ấn Độ"
+            "vn": "Ấn Độ",
+            "en": "India"
           },
           "flag": "https://restcountries.eu/data/ind.svg",
           "regionalBlocs": [
@@ -8898,7 +9633,13 @@
           }
         },
         {
-          "name": "Indonesia",
+          "name": {
+            "en": "Indonesia",
+            "vn": "In-đô-nê-xi-a",
+            "de": "Indonesien",
+            "ja": "インドネシア",
+            "fr": "Indonésie"
+          },
           "topLevelDomain": [
             ".id"
           ],
@@ -8961,7 +9702,8 @@
             "nl": "Indonesië",
             "hr": "Indonezija",
             "fa": "اندونزی",
-            "vn": "Indonesia"
+            "vn": "Indonesia",
+            "en": "Indonesia"
           },
           "flag": "https://restcountries.eu/data/idn.svg",
           "regionalBlocs": [
@@ -8980,7 +9722,13 @@
           }
         },
         {
-          "name": "Ivory Coast",
+          "name": {
+            "en": "Ivory Coast",
+            "vn": "Bờ Biển Ngà",
+            "de": "Elfenbeinküste",
+            "ja": "コートジボワール",
+            "fr": "Côte d'Ivoire"
+          },
           "topLevelDomain": [
             ".ci"
           ],
@@ -9044,7 +9792,8 @@
             "nl": "Ivoorkust",
             "hr": "Obala Bjelokosti",
             "fa": "ساحل عاج",
-            "vn": "Bờ Biển Ngà"
+            "vn": "Bờ Biển Ngà",
+            "en": "Ivory Coast"
           },
           "flag": "https://restcountries.eu/data/civ.svg",
           "regionalBlocs": [
@@ -9069,7 +9818,13 @@
           }
         },
         {
-          "name": "Iran",
+          "name": {
+            "en": "Iran",
+            "vn": "I-ran",
+            "de": "Iran",
+            "ja": "イラン・イスラム共和国",
+            "fr": "Iran"
+          },
           "topLevelDomain": [
             ".ir"
           ],
@@ -9134,7 +9889,8 @@
             "nl": "Iran",
             "hr": "Iran",
             "fa": "ایران",
-            "vn": "Iran"
+            "vn": "Iran",
+            "en": "Iran"
           },
           "flag": "https://restcountries.eu/data/irn.svg",
           "regionalBlocs": [],
@@ -9146,7 +9902,13 @@
           }
         },
         {
-          "name": "Iraq",
+          "name": {
+            "en": "Iraq",
+            "vn": "I-rắc",
+            "de": "Irak",
+            "ja": "イラク",
+            "fr": "Irak"
+          },
           "topLevelDomain": [
             ".iq"
           ],
@@ -9216,7 +9978,8 @@
             "nl": "Irak",
             "hr": "Irak",
             "fa": "عراق",
-            "vn": "Iraq"
+            "vn": "Iraq",
+            "en": "Iraq"
           },
           "flag": "https://restcountries.eu/data/irq.svg",
           "regionalBlocs": [
@@ -9239,7 +10002,13 @@
           }
         },
         {
-          "name": "Ireland",
+          "name": {
+            "en": "Ireland",
+            "vn": "Cộng hòa Ai-len",
+            "de": "Irland",
+            "ja": "アイルランド",
+            "fr": "Irlande"
+          },
           "topLevelDomain": [
             ".ie"
           ],
@@ -9305,7 +10074,8 @@
             "nl": "Ierland",
             "hr": "Irska",
             "fa": "ایرلند",
-            "vn": "Cộng hòa Ireland"
+            "vn": "Cộng hòa Ireland",
+            "en": "Ireland"
           },
           "flag": "https://restcountries.eu/data/irl.svg",
           "regionalBlocs": [
@@ -9324,7 +10094,13 @@
           }
         },
         {
-          "name": "Isle of Man",
+          "name": {
+            "en": "Isle of Man",
+            "vn": "Đảo Man",
+            "de": "Insel Man",
+            "ja": "マン島",
+            "fr": "Île de Man"
+          },
           "topLevelDomain": [
             ".im"
           ],
@@ -9393,7 +10169,8 @@
             "nl": "Isle of Man",
             "hr": "Otok Man",
             "fa": "جزیره من",
-            "vn": "Đảo Man"
+            "vn": "Đảo Man",
+            "en": "Isle of Man"
           },
           "flag": "https://restcountries.eu/data/imn.svg",
           "regionalBlocs": [
@@ -9412,7 +10189,13 @@
           }
         },
         {
-          "name": "Israel",
+          "name": {
+            "en": "Israel",
+            "vn": "Ít-ra-en",
+            "de": "Israel",
+            "ja": "イスラエル",
+            "fr": "Israël"
+          },
           "topLevelDomain": [
             ".il"
           ],
@@ -9480,7 +10263,8 @@
             "nl": "Israël",
             "hr": "Izrael",
             "fa": "اسرائیل",
-            "vn": "Israel"
+            "vn": "Israel",
+            "en": "Israel"
           },
           "flag": "https://restcountries.eu/data/isr.svg",
           "regionalBlocs": [],
@@ -9492,7 +10276,13 @@
           }
         },
         {
-          "name": "Italy",
+          "name": {
+            "en": "Italy",
+            "vn": "Ý",
+            "de": "Italien",
+            "ja": "イタリア",
+            "fr": "Italie"
+          },
           "topLevelDomain": [
             ".it"
           ],
@@ -9556,7 +10346,8 @@
             "nl": "Italië",
             "hr": "Italija",
             "fa": "ایتالیا",
-            "vn": "Ý"
+            "vn": "Ý",
+            "en": "Italy"
           },
           "flag": "https://restcountries.eu/data/ita.svg",
           "regionalBlocs": [
@@ -9575,7 +10366,13 @@
           }
         },
         {
-          "name": "Jamaica",
+          "name": {
+            "en": "Jamaica",
+            "vn": "Gia-mai-ca",
+            "de": "Jamaika",
+            "ja": "ジャマイカ",
+            "fr": "Jamaïque"
+          },
           "topLevelDomain": [
             ".jm"
           ],
@@ -9630,7 +10427,8 @@
             "nl": "Jamaica",
             "hr": "Jamajka",
             "fa": "جامائیکا",
-            "vn": "Jamaica"
+            "vn": "Jamaica",
+            "en": "Jamaica"
           },
           "flag": "https://restcountries.eu/data/jam.svg",
           "regionalBlocs": [
@@ -9653,7 +10451,13 @@
           }
         },
         {
-          "name": "Japan",
+          "name": {
+            "en": "Japan",
+            "vn": "Nhật Bản",
+            "de": "Japan",
+            "ja": "日本",
+            "fr": "Japon"
+          },
           "topLevelDomain": [
             ".jp"
           ],
@@ -9710,7 +10514,8 @@
             "nl": "Japan",
             "hr": "Japan",
             "fa": "ژاپن",
-            "vn": "Nhật Bản"
+            "vn": "Nhật Bản",
+            "en": "Japan"
           },
           "flag": "https://restcountries.eu/data/jpn.svg",
           "regionalBlocs": [],
@@ -9722,7 +10527,13 @@
           }
         },
         {
-          "name": "Jersey",
+          "name": {
+            "en": "Jersey",
+            "vn": "Trơ-xây",
+            "de": "Jersey",
+            "ja": "ジャージー",
+            "fr": "Jersey"
+          },
           "topLevelDomain": [
             ".je"
           ],
@@ -9791,7 +10602,8 @@
             "nl": "Jersey",
             "hr": "Jersey",
             "fa": "جرزی",
-            "vn": "Jersey"
+            "vn": "Jersey",
+            "en": "Jersey"
           },
           "flag": "https://restcountries.eu/data/jey.svg",
           "regionalBlocs": [],
@@ -9803,7 +10615,13 @@
           }
         },
         {
-          "name": "Jordan",
+          "name": {
+            "en": "Jordan",
+            "vn": "Gioóc-đa-ni",
+            "de": "Jordanien",
+            "ja": "ヨルダン",
+            "fr": "Jordanie"
+          },
           "topLevelDomain": [
             ".jo"
           ],
@@ -9865,7 +10683,8 @@
             "nl": "Jordanië",
             "hr": "Jordan",
             "fa": "اردن",
-            "vn": "Jordan"
+            "vn": "Jordan",
+            "en": "Jordan"
           },
           "flag": "https://restcountries.eu/data/jor.svg",
           "regionalBlocs": [
@@ -9888,7 +10707,13 @@
           }
         },
         {
-          "name": "Kazakhstan",
+          "name": {
+            "en": "Kazakhstan",
+            "vn": "Ca-dắc-xtan",
+            "de": "Kasachstan",
+            "ja": "カザフスタン",
+            "fr": "Kazakhstan"
+          },
           "topLevelDomain": [
             ".kz",
             ".қаз"
@@ -9965,7 +10790,8 @@
             "nl": "Kazachstan",
             "hr": "Kazahstan",
             "fa": "قزاقستان",
-            "vn": "Kazakhstan"
+            "vn": "Kazakhstan",
+            "en": "Kazakhstan"
           },
           "flag": "https://restcountries.eu/data/kaz.svg",
           "regionalBlocs": [
@@ -9986,7 +10812,13 @@
           }
         },
         {
-          "name": "Kenya",
+          "name": {
+            "en": "Kenya",
+            "vn": "Kê-ni-a",
+            "de": "Kenia",
+            "ja": "ケニア",
+            "fr": "Kenya"
+          },
           "topLevelDomain": [
             ".ke"
           ],
@@ -10055,7 +10887,8 @@
             "nl": "Kenia",
             "hr": "Kenija",
             "fa": "کنیا",
-            "vn": "Kenya"
+            "vn": "Kenya",
+            "en": "Kenya"
           },
           "flag": "https://restcountries.eu/data/ken.svg",
           "regionalBlocs": [
@@ -10080,7 +10913,13 @@
           }
         },
         {
-          "name": "Kiribati",
+          "name": {
+            "en": "Kiribati",
+            "vn": "Ki-ri-ba-ti",
+            "de": "Kiribati",
+            "ja": "キリバス",
+            "fr": "Kiribati"
+          },
           "topLevelDomain": [
             ".ki"
           ],
@@ -10144,7 +10983,8 @@
             "nl": "Kiribati",
             "hr": "Kiribati",
             "fa": "کیریباتی",
-            "vn": "Kiribati"
+            "vn": "Kiribati",
+            "en": "Kiribati"
           },
           "flag": "https://restcountries.eu/data/kir.svg",
           "regionalBlocs": [],
@@ -10156,7 +10996,13 @@
           }
         },
         {
-          "name": "Kuwait",
+          "name": {
+            "en": "Kuwait",
+            "vn": "Cô-oét",
+            "de": "Kuwait",
+            "ja": "クウェート",
+            "fr": "Koweït"
+          },
           "topLevelDomain": [
             ".kw"
           ],
@@ -10216,7 +11062,8 @@
             "nl": "Koeweit",
             "hr": "Kuvajt",
             "fa": "کویت",
-            "vn": "Kuwait"
+            "vn": "Kuwait",
+            "en": "Kuwait"
           },
           "flag": "https://restcountries.eu/data/kwt.svg",
           "regionalBlocs": [
@@ -10239,7 +11086,13 @@
           }
         },
         {
-          "name": "Kyrgyzstan",
+          "name": {
+            "en": "Kyrgyzstan",
+            "vn": "Cư-rơ-gư-dơ-xtan",
+            "de": "Kirgisistan",
+            "ja": "キルギス",
+            "fr": "Kirghizistan"
+          },
           "topLevelDomain": [
             ".kg"
           ],
@@ -10309,7 +11162,8 @@
             "nl": "Kirgizië",
             "hr": "Kirgistan",
             "fa": "قرقیزستان",
-            "vn": "Kyrgyzstan"
+            "vn": "Kyrgyzstan",
+            "en": "Kyrgyzstan"
           },
           "flag": "https://restcountries.eu/data/kgz.svg",
           "regionalBlocs": [
@@ -10330,7 +11184,13 @@
           }
         },
         {
-          "name": "Laos",
+          "name": {
+            "en": "Laos",
+            "vn": "Lào",
+            "de": "Laos",
+            "ja": "ラオス人民民主共和国",
+            "fr": "Laos"
+          },
           "topLevelDomain": [
             ".la"
           ],
@@ -10395,7 +11255,8 @@
             "nl": "Laos",
             "hr": "Laos",
             "fa": "لائوس",
-            "vn": "Lào"
+            "vn": "Lào",
+            "en": "Laos"
           },
           "flag": "https://restcountries.eu/data/lao.svg",
           "regionalBlocs": [
@@ -10414,7 +11275,13 @@
           }
         },
         {
-          "name": "Latvia",
+          "name": {
+            "en": "Latvia",
+            "vn": "Lát-vi-a",
+            "de": "Lettland",
+            "ja": "ラトビア",
+            "fr": "Lettonie"
+          },
           "topLevelDomain": [
             ".lv"
           ],
@@ -10476,7 +11343,8 @@
             "nl": "Letland",
             "hr": "Latvija",
             "fa": "لتونی",
-            "vn": "Latvia"
+            "vn": "Latvia",
+            "en": "Latvia"
           },
           "flag": "https://restcountries.eu/data/lva.svg",
           "regionalBlocs": [
@@ -10495,7 +11363,13 @@
           }
         },
         {
-          "name": "Lebanon",
+          "name": {
+            "en": "Lebanon",
+            "vn": "Li Băng",
+            "de": "Libanon",
+            "ja": "レバノン",
+            "fr": "Liban"
+          },
           "topLevelDomain": [
             ".lb"
           ],
@@ -10561,7 +11435,8 @@
             "nl": "Libanon",
             "hr": "Libanon",
             "fa": "لبنان",
-            "vn": "Liban"
+            "vn": "Liban",
+            "en": "Lebanon"
           },
           "flag": "https://restcountries.eu/data/lbn.svg",
           "regionalBlocs": [
@@ -10584,7 +11459,13 @@
           }
         },
         {
-          "name": "Lesotho",
+          "name": {
+            "en": "Lesotho",
+            "vn": "Lê-xô-thô",
+            "de": "Lesotho",
+            "ja": "レソト",
+            "fr": "Lesotho"
+          },
           "topLevelDomain": [
             ".ls"
           ],
@@ -10654,7 +11535,8 @@
             "nl": "Lesotho",
             "hr": "Lesoto",
             "fa": "لسوتو",
-            "vn": "Lesotho"
+            "vn": "Lesotho",
+            "en": "Lesotho"
           },
           "flag": "https://restcountries.eu/data/lso.svg",
           "regionalBlocs": [
@@ -10679,7 +11561,13 @@
           }
         },
         {
-          "name": "Liberia",
+          "name": {
+            "en": "Liberia",
+            "vn": "Li-bê-ri-a",
+            "de": "Liberia",
+            "ja": "リベリア",
+            "fr": "Liberia"
+          },
           "topLevelDomain": [
             ".lr"
           ],
@@ -10739,7 +11627,8 @@
             "nl": "Liberia",
             "hr": "Liberija",
             "fa": "لیبریا",
-            "vn": "Liberia"
+            "vn": "Liberia",
+            "en": "Liberia"
           },
           "flag": "https://restcountries.eu/data/lbr.svg",
           "regionalBlocs": [
@@ -10764,7 +11653,13 @@
           }
         },
         {
-          "name": "Libya",
+          "name": {
+            "en": "Libya",
+            "vn": "Li-bi",
+            "de": "Libyen",
+            "ja": "リビア",
+            "fr": "Libye"
+          },
           "topLevelDomain": [
             ".ly"
           ],
@@ -10828,7 +11723,8 @@
             "nl": "Libië",
             "hr": "Libija",
             "fa": "لیبی",
-            "vn": "Libya"
+            "vn": "Libya",
+            "en": "Libya"
           },
           "flag": "https://restcountries.eu/data/lby.svg",
           "regionalBlocs": [
@@ -10863,7 +11759,13 @@
           }
         },
         {
-          "name": "Liechtenstein",
+          "name": {
+            "en": "Liechtenstein",
+            "vn": "Lít-ten-xơ-tên",
+            "de": "Liechtenstein",
+            "ja": "リヒテンシュタイン",
+            "fr": "Liechtenstein"
+          },
           "topLevelDomain": [
             ".li"
           ],
@@ -10923,7 +11825,8 @@
             "nl": "Liechtenstein",
             "hr": "Lihtenštajn",
             "fa": "لیختن‌اشتاین",
-            "vn": "Liechtenstein"
+            "vn": "Liechtenstein",
+            "en": "Liechtenstein"
           },
           "flag": "https://restcountries.eu/data/lie.svg",
           "regionalBlocs": [
@@ -10942,7 +11845,13 @@
           }
         },
         {
-          "name": "Lithuania",
+          "name": {
+            "en": "Lithuania",
+            "vn": "Lít-va",
+            "de": "Litauen",
+            "ja": "リトアニア",
+            "fr": "Lituanie"
+          },
           "topLevelDomain": [
             ".lt"
           ],
@@ -11004,7 +11913,8 @@
             "nl": "Litouwen",
             "hr": "Litva",
             "fa": "لیتوانی",
-            "vn": "Lithuania"
+            "vn": "Lithuania",
+            "en": "Lithuania"
           },
           "flag": "https://restcountries.eu/data/ltu.svg",
           "regionalBlocs": [
@@ -11023,7 +11933,13 @@
           }
         },
         {
-          "name": "Luxembourg",
+          "name": {
+            "en": "Luxembourg",
+            "vn": "Lúc-xăm-bua",
+            "de": "Luxemburg",
+            "ja": "ルクセンブルク",
+            "fr": "Luxembourg"
+          },
           "topLevelDomain": [
             ".lu"
           ],
@@ -11098,7 +12014,8 @@
             "nl": "Luxemburg",
             "hr": "Luksemburg",
             "fa": "لوکزامبورگ",
-            "vn": "Luxembourg"
+            "vn": "Luxembourg",
+            "en": "Luxembourg"
           },
           "flag": "https://restcountries.eu/data/lux.svg",
           "regionalBlocs": [
@@ -11117,7 +12034,13 @@
           }
         },
         {
-          "name": "Macau",
+          "name": {
+            "en": "Macau",
+            "vn": "Ma Cao",
+            "de": "Macao",
+            "ja": "マカオ",
+            "fr": "Macao"
+          },
           "topLevelDomain": [
             ".mo"
           ],
@@ -11184,7 +12107,8 @@
             "nl": "Macao",
             "hr": "Makao",
             "fa": "مکائو",
-            "vn": "Ma Cao"
+            "vn": "Ma Cao",
+            "en": "Macau"
           },
           "flag": "https://restcountries.eu/data/mac.svg",
           "regionalBlocs": [],
@@ -11196,7 +12120,13 @@
           }
         },
         {
-          "name": "North Macedonia",
+          "name": {
+            "en": "North Macedonia",
+            "vn": "Bắc Macedonia",
+            "de": "Mazedonien",
+            "ja": "マケドニア旧ユーゴスラビア共和国",
+            "fr": "Macédoine"
+          },
           "topLevelDomain": [
             ".mk"
           ],
@@ -11259,7 +12189,8 @@
             "nl": "Macedonië",
             "hr": "Makedonija",
             "fa": "",
-            "vn": "Bắc Macedonia"
+            "vn": "Bắc Macedonia",
+            "en": "North Macedonia"
           },
           "flag": "https://restcountries.eu/data/mkd.svg",
           "regionalBlocs": [
@@ -11278,7 +12209,13 @@
           }
         },
         {
-          "name": "Madagascar",
+          "name": {
+            "en": "Madagascar",
+            "vn": "Ma-đa-gát-xca",
+            "de": "Madagaskar",
+            "ja": "マダガスカル",
+            "fr": "Madagascar"
+          },
           "topLevelDomain": [
             ".mg"
           ],
@@ -11342,7 +12279,8 @@
             "nl": "Madagaskar",
             "hr": "Madagaskar",
             "fa": "ماداگاسکار",
-            "vn": "Madagascar"
+            "vn": "Madagascar",
+            "en": "Madagascar"
           },
           "flag": "https://restcountries.eu/data/mdg.svg",
           "regionalBlocs": [
@@ -11367,7 +12305,13 @@
           }
         },
         {
-          "name": "Malawi",
+          "name": {
+            "en": "Malawi",
+            "vn": "Ma-la-uy",
+            "de": "Malawi",
+            "ja": "マラウイ",
+            "fr": "Malawi"
+          },
           "topLevelDomain": [
             ".mw"
           ],
@@ -11433,7 +12377,8 @@
             "nl": "Malawi",
             "hr": "Malavi",
             "fa": "مالاوی",
-            "vn": "Malawi"
+            "vn": "Malawi",
+            "en": "Malawi"
           },
           "flag": "https://restcountries.eu/data/mwi.svg",
           "regionalBlocs": [
@@ -11458,7 +12403,13 @@
           }
         },
         {
-          "name": "Malaysia",
+          "name": {
+            "en": "Malaysia",
+            "vn": "Ma-lai-xi-a",
+            "de": "Malaysia",
+            "ja": "マレーシア",
+            "fr": "Malaisie"
+          },
           "topLevelDomain": [
             ".my"
           ],
@@ -11517,7 +12468,8 @@
             "nl": "Maleisië",
             "hr": "Malezija",
             "fa": "مالزی",
-            "vn": "Malaysia"
+            "vn": "Malaysia",
+            "en": "Malaysia"
           },
           "flag": "https://restcountries.eu/data/mys.svg",
           "regionalBlocs": [
@@ -11536,7 +12488,13 @@
           }
         },
         {
-          "name": "Maldives",
+          "name": {
+            "en": "Maldives",
+            "vn": "Man-đi-vơ",
+            "de": "Malediven",
+            "ja": "モルディブ",
+            "fr": "Maldives"
+          },
           "topLevelDomain": [
             ".mv"
           ],
@@ -11594,7 +12552,8 @@
             "nl": "Maldiven",
             "hr": "Maldivi",
             "fa": "مالدیو",
-            "vn": "Maldives"
+            "vn": "Maldives",
+            "en": "Maldives"
           },
           "flag": "https://restcountries.eu/data/mdv.svg",
           "regionalBlocs": [
@@ -11613,7 +12572,13 @@
           }
         },
         {
-          "name": "Mali",
+          "name": {
+            "en": "Mali",
+            "vn": "Ma-li",
+            "de": "Mali",
+            "ja": "マリ",
+            "fr": "Mali"
+          },
           "topLevelDomain": [
             ".ml"
           ],
@@ -11678,7 +12643,8 @@
             "nl": "Mali",
             "hr": "Mali",
             "fa": "مالی",
-            "vn": "Mali"
+            "vn": "Mali",
+            "en": "Mali"
           },
           "flag": "https://restcountries.eu/data/mli.svg",
           "regionalBlocs": [
@@ -11703,7 +12669,13 @@
           }
         },
         {
-          "name": "Malta",
+          "name": {
+            "en": "Malta",
+            "vn": "Man-ta",
+            "de": "Malta",
+            "ja": "マルタ",
+            "fr": "Malte"
+          },
           "topLevelDomain": [
             ".mt"
           ],
@@ -11766,7 +12738,8 @@
             "nl": "Malta",
             "hr": "Malta",
             "fa": "مالت",
-            "vn": "Malta"
+            "vn": "Malta",
+            "en": "Malta"
           },
           "flag": "https://restcountries.eu/data/mlt.svg",
           "regionalBlocs": [
@@ -11785,7 +12758,13 @@
           }
         },
         {
-          "name": "Marshall Islands",
+          "name": {
+            "en": "Marshall Islands",
+            "vn": "Quần đảo Marshall",
+            "de": "Marshallinseln",
+            "ja": "マーシャル諸島",
+            "fr": "Îles Marshall"
+          },
           "topLevelDomain": [
             ".mh"
           ],
@@ -11848,7 +12827,8 @@
             "nl": "Marshalleilanden",
             "hr": "Maršalovi Otoci",
             "fa": "جزایر مارشال",
-            "vn": "Quần đảo Marshall"
+            "vn": "Quần đảo Marshall",
+            "en": "Marshall Islands"
           },
           "flag": "https://restcountries.eu/data/mhl.svg",
           "regionalBlocs": [],
@@ -11860,7 +12840,13 @@
           }
         },
         {
-          "name": "Martinique",
+          "name": {
+            "en": "Martinique",
+            "vn": "Mắc-ti-ních",
+            "de": "Martinique",
+            "ja": "マルティニーク",
+            "fr": "Martinique"
+          },
           "topLevelDomain": [
             ".mq"
           ],
@@ -11915,7 +12901,8 @@
             "nl": "Martinique",
             "hr": "Martinique",
             "fa": "مونتسرات",
-            "vn": "Martinique"
+            "vn": "Martinique",
+            "en": "Martinique"
           },
           "flag": "https://restcountries.eu/data/mtq.svg",
           "regionalBlocs": [],
@@ -11927,7 +12914,13 @@
           }
         },
         {
-          "name": "Mauritania",
+          "name": {
+            "en": "Mauritania",
+            "vn": "Mô-ri-ta-ni",
+            "de": "Mauretanien",
+            "ja": "モーリタニア",
+            "fr": "Mauritanie"
+          },
           "topLevelDomain": [
             ".mr"
           ],
@@ -11989,7 +12982,8 @@
             "nl": "Mauritanië",
             "hr": "Mauritanija",
             "fa": "موریتانی",
-            "vn": "Mauritania"
+            "vn": "Mauritania",
+            "en": "Mauritania"
           },
           "flag": "https://restcountries.eu/data/mrt.svg",
           "regionalBlocs": [
@@ -12024,7 +13018,13 @@
           }
         },
         {
-          "name": "Mauritius",
+          "name": {
+            "en": "Mauritius",
+            "vn": "Mô-ri-xơ",
+            "de": "Mauritius",
+            "ja": "モーリシャス",
+            "fr": "Île Maurice"
+          },
           "topLevelDomain": [
             ".mu"
           ],
@@ -12081,7 +13081,8 @@
             "nl": "Mauritius",
             "hr": "Mauricijus",
             "fa": "موریس",
-            "vn": "Mauritius"
+            "vn": "Mauritius",
+            "en": "Mauritius"
           },
           "flag": "https://restcountries.eu/data/mus.svg",
           "regionalBlocs": [
@@ -12106,7 +13107,13 @@
           }
         },
         {
-          "name": "Mayotte",
+          "name": {
+            "en": "Mayotte",
+            "vn": "Ma-dót-tơ",
+            "de": "Mayotte",
+            "ja": "マヨット",
+            "fr": "Mayotte"
+          },
           "topLevelDomain": [
             ".yt"
           ],
@@ -12163,7 +13170,8 @@
             "nl": "Mayotte",
             "hr": "Mayotte",
             "fa": "مایوت",
-            "vn": "Mayotte"
+            "vn": "Mayotte",
+            "en": "Mayotte"
           },
           "flag": "https://restcountries.eu/data/myt.svg",
           "regionalBlocs": [
@@ -12188,7 +13196,13 @@
           }
         },
         {
-          "name": "Mexico",
+          "name": {
+            "en": "Mexico",
+            "vn": "Mê-hi-cô",
+            "de": "Mexiko",
+            "ja": "メキシコ",
+            "fr": "Mexique"
+          },
           "topLevelDomain": [
             ".mx"
           ],
@@ -12252,7 +13266,8 @@
             "nl": "Mexico",
             "hr": "Meksiko",
             "fa": "مکزیک",
-            "vn": "México"
+            "vn": "México",
+            "en": "Mexico"
           },
           "flag": "https://restcountries.eu/data/mex.svg",
           "regionalBlocs": [
@@ -12282,7 +13297,13 @@
           }
         },
         {
-          "name": "Federated States of Micronesia",
+          "name": {
+            "en": "Federated States of Micronesia",
+            "vn": "Liên bang Micronesia",
+            "de": "Mikronesien",
+            "ja": "ミクロネシア連邦",
+            "fr": "Micronésie"
+          },
           "topLevelDomain": [
             ".fm"
           ],
@@ -12344,7 +13365,8 @@
             "nl": "Micronesië",
             "hr": "Mikronezija",
             "fa": "ایالات فدرال میکرونزی",
-            "vn": "Liên bang Micronesia"
+            "vn": "Liên bang Micronesia",
+            "en": "Federated States of Micronesia"
           },
           "flag": "https://restcountries.eu/data/fsm.svg",
           "regionalBlocs": [],
@@ -12356,7 +13378,13 @@
           }
         },
         {
-          "name": "Moldova",
+          "name": {
+            "en": "Moldova",
+            "vn": "Môn-đô-va",
+            "de": "Moldawie",
+            "ja": "モルドバ共和国",
+            "fr": "Moldavie"
+          },
           "topLevelDomain": [
             ".md"
           ],
@@ -12416,7 +13444,8 @@
             "nl": "Moldavië",
             "hr": "Moldova",
             "fa": "مولداوی",
-            "vn": "Moldova"
+            "vn": "Moldova",
+            "en": "Moldova"
           },
           "flag": "https://restcountries.eu/data/mda.svg",
           "regionalBlocs": [
@@ -12435,7 +13464,13 @@
           }
         },
         {
-          "name": "Monaco",
+          "name": {
+            "en": "Monaco",
+            "vn": "Mô-na-cô",
+            "de": "Monaco",
+            "ja": "モナコ",
+            "fr": "Monaco"
+          },
           "topLevelDomain": [
             ".mc"
           ],
@@ -12494,7 +13529,8 @@
             "nl": "Monaco",
             "hr": "Monako",
             "fa": "موناکو",
-            "vn": "Monaco"
+            "vn": "Monaco",
+            "en": "Monaco"
           },
           "flag": "https://restcountries.eu/data/mco.svg",
           "regionalBlocs": [],
@@ -12506,7 +13542,13 @@
           }
         },
         {
-          "name": "Mongolia",
+          "name": {
+            "en": "Mongolia",
+            "vn": "Mông Cổ",
+            "de": "Mongolei",
+            "ja": "モンゴル",
+            "fr": "Mongolie"
+          },
           "topLevelDomain": [
             ".mn"
           ],
@@ -12565,7 +13607,8 @@
             "nl": "Mongolië",
             "hr": "Mongolija",
             "fa": "مغولستان",
-            "vn": "Mông Cổ"
+            "vn": "Mông Cổ",
+            "en": "Mongolia"
           },
           "flag": "https://restcountries.eu/data/mng.svg",
           "regionalBlocs": [],
@@ -12577,7 +13620,13 @@
           }
         },
         {
-          "name": "Montenegro",
+          "name": {
+            "en": "Montenegro",
+            "vn": "Môn-tê-nê-grô",
+            "de": "Montenegro",
+            "ja": "モンテネグロ",
+            "fr": "Monténégro"
+          },
           "topLevelDomain": [
             ".me"
           ],
@@ -12657,7 +13706,8 @@
             "nl": "Montenegro",
             "hr": "Crna Gora",
             "fa": "مونته‌نگرو",
-            "vn": "Montenegro"
+            "vn": "Montenegro",
+            "en": "Montenegro"
           },
           "flag": "https://restcountries.eu/data/mne.svg",
           "regionalBlocs": [
@@ -12676,7 +13726,13 @@
           }
         },
         {
-          "name": "Montserrat",
+          "name": {
+            "en": "Montserrat",
+            "vn": "Môn-sê-rát",
+            "de": "Montserrat",
+            "ja": "モントセラト",
+            "fr": "Montserrat"
+          },
           "topLevelDomain": [
             ".ms"
           ],
@@ -12731,7 +13787,8 @@
             "nl": "Montserrat",
             "hr": "Montserrat",
             "fa": "مایوت",
-            "vn": "Montserrat"
+            "vn": "Montserrat",
+            "en": "Montserrat"
           },
           "flag": "https://restcountries.eu/data/msr.svg",
           "regionalBlocs": [
@@ -12754,7 +13811,13 @@
           }
         },
         {
-          "name": "Morocco",
+          "name": {
+            "en": "Morocco",
+            "vn": "Ma-rốc",
+            "de": "Marokko",
+            "ja": "モロッコ",
+            "fr": "Maroc"
+          },
           "topLevelDomain": [
             ".ma"
           ],
@@ -12815,7 +13878,8 @@
             "nl": "Marokko",
             "hr": "Maroko",
             "fa": "مراکش",
-            "vn": "Maroc"
+            "vn": "Maroc",
+            "en": "Morocco"
           },
           "flag": "https://restcountries.eu/data/mar.svg",
           "regionalBlocs": [
@@ -12850,7 +13914,13 @@
           }
         },
         {
-          "name": "Mozambique",
+          "name": {
+            "en": "Mozambique",
+            "vn": "Mô-dăm-bích",
+            "de": "Mosambik",
+            "ja": "モザンビーク",
+            "fr": "Mozambique"
+          },
           "topLevelDomain": [
             ".mz"
           ],
@@ -12914,7 +13984,8 @@
             "nl": "Mozambique",
             "hr": "Mozambik",
             "fa": "موزامبیک",
-            "vn": "Mozambique"
+            "vn": "Mozambique",
+            "en": "Mozambique"
           },
           "flag": "https://restcountries.eu/data/moz.svg",
           "regionalBlocs": [
@@ -12939,7 +14010,13 @@
           }
         },
         {
-          "name": "Myanmar",
+          "name": {
+            "en": "Myanmar",
+            "vn": "Mi-an-ma (Miến Điện)",
+            "de": "Myanmar",
+            "ja": "ミャンマー",
+            "fr": "Myanmar"
+          },
           "topLevelDomain": [
             ".mm"
           ],
@@ -13003,7 +14080,8 @@
             "nl": "Myanmar",
             "hr": "Mijanmar",
             "fa": "میانمار",
-            "vn": "Myanmar"
+            "vn": "Myanmar",
+            "en": "Myanmar"
           },
           "flag": "https://restcountries.eu/data/mmr.svg",
           "regionalBlocs": [
@@ -13022,7 +14100,13 @@
           }
         },
         {
-          "name": "Namibia",
+          "name": {
+            "en": "Namibia",
+            "vn": "Nam-mi-bi-a",
+            "de": "Namibia",
+            "ja": "ナミビア",
+            "fr": "Namibie"
+          },
           "topLevelDomain": [
             ".na"
           ],
@@ -13095,7 +14179,8 @@
             "nl": "Namibië",
             "hr": "Namibija",
             "fa": "نامیبیا",
-            "vn": "Namibia"
+            "vn": "Namibia",
+            "en": "Namibia"
           },
           "flag": "https://restcountries.eu/data/nam.svg",
           "regionalBlocs": [
@@ -13120,7 +14205,13 @@
           }
         },
         {
-          "name": "Nauru",
+          "name": {
+            "en": "Nauru",
+            "vn": "Na-u-ru",
+            "de": "Nauru",
+            "ja": "ナウル",
+            "fr": "Nauru"
+          },
           "topLevelDomain": [
             ".nr"
           ],
@@ -13190,7 +14281,8 @@
             "nl": "Nauru",
             "hr": "Nauru",
             "fa": "نائورو",
-            "vn": "Nauru"
+            "vn": "Nauru",
+            "en": "Nauru"
           },
           "flag": "https://restcountries.eu/data/nru.svg",
           "regionalBlocs": [],
@@ -13202,7 +14294,13 @@
           }
         },
         {
-          "name": "Nepal",
+          "name": {
+            "en": "Nepal",
+            "vn": "Nê-pan",
+            "de": "Népal",
+            "ja": "ネパール",
+            "fr": "Népal"
+          },
           "topLevelDomain": [
             ".np"
           ],
@@ -13262,7 +14360,8 @@
             "nl": "Nepal",
             "hr": "Nepal",
             "fa": "نپال",
-            "vn": "Nepal"
+            "vn": "Nepal",
+            "en": "Nepal"
           },
           "flag": "https://restcountries.eu/data/npl.svg",
           "regionalBlocs": [
@@ -13281,7 +14380,13 @@
           }
         },
         {
-          "name": "Netherlands",
+          "name": {
+            "en": "Netherlands",
+            "vn": "Hà Lan",
+            "de": "Niederlande",
+            "ja": "オランダ",
+            "fr": "Pays-Bas"
+          },
           "topLevelDomain": [
             ".nl"
           ],
@@ -13342,7 +14447,8 @@
             "nl": "Nederland",
             "hr": "Nizozemska",
             "fa": "پادشاهی هلند",
-            "vn": "Hà Lan"
+            "vn": "Hà Lan",
+            "en": "Netherlands"
           },
           "flag": "https://restcountries.eu/data/nld.svg",
           "regionalBlocs": [
@@ -13361,7 +14467,13 @@
           }
         },
         {
-          "name": "New Caledonia",
+          "name": {
+            "en": "New Caledonia",
+            "vn": "Tân Ca-lê-đô-ni-a",
+            "de": "Neukaledonien",
+            "ja": "ニューカレドニア",
+            "fr": "Nouvelle-Calédonie"
+          },
           "topLevelDomain": [
             ".nc"
           ],
@@ -13416,7 +14528,8 @@
             "nl": "Nieuw-Caledonië",
             "hr": "Nova Kaledonija",
             "fa": "کالدونیای جدید",
-            "vn": "Nouvelle-Calédonie"
+            "vn": "Nouvelle-Calédonie",
+            "en": "New Caledonia"
           },
           "flag": "https://restcountries.eu/data/ncl.svg",
           "regionalBlocs": [],
@@ -13428,7 +14541,13 @@
           }
         },
         {
-          "name": "New Zealand",
+          "name": {
+            "en": "New Zealand",
+            "vn": "Niu Di-lân",
+            "de": "Neuseeland",
+            "ja": "ニュージーランド",
+            "fr": "Nouvelle-Zélande"
+          },
           "topLevelDomain": [
             ".nz"
           ],
@@ -13494,7 +14613,8 @@
             "nl": "Nieuw-Zeeland",
             "hr": "Novi Zeland",
             "fa": "نیوزیلند",
-            "vn": "New Zealand"
+            "vn": "New Zealand",
+            "en": "New Zealand"
           },
           "flag": "https://restcountries.eu/data/nzl.svg",
           "regionalBlocs": [],
@@ -13506,7 +14626,13 @@
           }
         },
         {
-          "name": "Nicaragua",
+          "name": {
+            "en": "Nicaragua",
+            "vn": "Ni-ca-ra-goa",
+            "de": "Nicaragua",
+            "ja": "ニカラグア",
+            "fr": "Nicaragua"
+          },
           "topLevelDomain": [
             ".ni"
           ],
@@ -13566,7 +14692,8 @@
             "nl": "Nicaragua",
             "hr": "Nikaragva",
             "fa": "نیکاراگوئه",
-            "vn": "Nicaragua"
+            "vn": "Nicaragua",
+            "en": "Nicaragua"
           },
           "flag": "https://restcountries.eu/data/nic.svg",
           "regionalBlocs": [
@@ -13589,7 +14716,13 @@
           }
         },
         {
-          "name": "Niger",
+          "name": {
+            "en": "Niger",
+            "vn": "Ni-giê",
+            "de": "Niger",
+            "ja": "ニジェール",
+            "fr": "Niger"
+          },
           "topLevelDomain": [
             ".ne"
           ],
@@ -13655,7 +14788,8 @@
             "nl": "Niger",
             "hr": "Niger",
             "fa": "نیجر",
-            "vn": "Niger"
+            "vn": "Niger",
+            "en": "Niger"
           },
           "flag": "https://restcountries.eu/data/ner.svg",
           "regionalBlocs": [
@@ -13680,7 +14814,13 @@
           }
         },
         {
-          "name": "Nigeria",
+          "name": {
+            "en": "Nigeria",
+            "vn": "Ni-giê-ri-a",
+            "de": "Nigeria",
+            "ja": "ナイジェリア",
+            "fr": "Nigéria"
+          },
           "topLevelDomain": [
             ".ng"
           ],
@@ -13743,7 +14883,8 @@
             "nl": "Nigeria",
             "hr": "Nigerija",
             "fa": "نیجریه",
-            "vn": "Nigeria"
+            "vn": "Nigeria",
+            "en": "Nigeria"
           },
           "flag": "https://restcountries.eu/data/nga.svg",
           "regionalBlocs": [
@@ -13768,7 +14909,13 @@
           }
         },
         {
-          "name": "Niue",
+          "name": {
+            "en": "Niue",
+            "vn": "Ni-u-ê",
+            "de": "Niue",
+            "ja": "ニウエ",
+            "fr": "Niue"
+          },
           "topLevelDomain": [
             ".nu"
           ],
@@ -13828,7 +14975,8 @@
             "nl": "Niue",
             "hr": "Niue",
             "fa": "نیووی",
-            "vn": "Niue"
+            "vn": "Niue",
+            "en": "Niue"
           },
           "flag": "https://restcountries.eu/data/niu.svg",
           "regionalBlocs": [],
@@ -13840,7 +14988,13 @@
           }
         },
         {
-          "name": "Norfolk Island",
+          "name": {
+            "en": "Norfolk Island",
+            "vn": "Đảo Norfolk",
+            "de": "Norfolkinsel",
+            "ja": "ノーフォーク島",
+            "fr": "Île de Norfolk"
+          },
           "topLevelDomain": [
             ".nf"
           ],
@@ -13897,7 +15051,8 @@
             "nl": "Norfolkeiland",
             "hr": "Otok Norfolk",
             "fa": "جزیره نورفک",
-            "vn": "Đảo Norfolk"
+            "vn": "Đảo Norfolk",
+            "en": "Norfolk Island"
           },
           "flag": "https://restcountries.eu/data/nfk.svg",
           "regionalBlocs": [],
@@ -13909,7 +15064,13 @@
           }
         },
         {
-          "name": "North Korea",
+          "name": {
+            "en": "North Korea",
+            "vn": "Triều Tiên (Bắc Hàn)",
+            "de": "Nordkorea",
+            "ja": "朝鮮民主主義人民共和国",
+            "fr": "Corée du Nord"
+          },
           "topLevelDomain": [
             ".kp"
           ],
@@ -13971,7 +15132,8 @@
             "nl": "Noord-Korea",
             "hr": "Sjeverna Koreja",
             "fa": "کره جنوبی",
-            "vn": "Cộng hòa Dân chủ Nhân dân Triều Tiên"
+            "vn": "Cộng hòa Dân chủ Nhân dân Triều Tiên",
+            "en": "North Korea"
           },
           "flag": "https://restcountries.eu/data/prk.svg",
           "regionalBlocs": [],
@@ -13983,7 +15145,13 @@
           }
         },
         {
-          "name": "Northern Mariana Islands",
+          "name": {
+            "en": "Northern Mariana Islands",
+            "vn": "Quần đảo Bắc Mariana",
+            "de": "Nördliche Marianen",
+            "ja": "北マリアナ諸島",
+            "fr": "Îles Mariannes du Nord"
+          },
           "topLevelDomain": [
             ".mp"
           ],
@@ -14046,7 +15214,8 @@
             "nl": "Noordelijke Marianeneilanden",
             "hr": "Sjevernomarijanski otoci",
             "fa": "جزایر ماریانای شمالی",
-            "vn": "Quần đảo Bắc Mariana"
+            "vn": "Quần đảo Bắc Mariana",
+            "en": "Northern Mariana Islands"
           },
           "flag": "https://restcountries.eu/data/mnp.svg",
           "regionalBlocs": [],
@@ -14058,7 +15227,13 @@
           }
         },
         {
-          "name": "Norway",
+          "name": {
+            "en": "Norway",
+            "vn": "Na Uy",
+            "de": "Norwegen",
+            "ja": "ノルウェー",
+            "fr": "Norvège"
+          },
           "topLevelDomain": [
             ".no"
           ],
@@ -14134,7 +15309,8 @@
             "nl": "Noorwegen",
             "hr": "Norveška",
             "fa": "نروژ",
-            "vn": "Na Uy"
+            "vn": "Na Uy",
+            "en": "Norway"
           },
           "flag": "https://restcountries.eu/data/nor.svg",
           "regionalBlocs": [
@@ -14153,7 +15329,13 @@
           }
         },
         {
-          "name": "Oman",
+          "name": {
+            "en": "Oman",
+            "vn": "Ô-man",
+            "de": "Oman",
+            "ja": "オマーン",
+            "fr": "Oman"
+          },
           "topLevelDomain": [
             ".om"
           ],
@@ -14214,7 +15396,8 @@
             "nl": "Oman",
             "hr": "Oman",
             "fa": "عمان",
-            "vn": "Oman"
+            "vn": "Oman",
+            "en": "Oman"
           },
           "flag": "https://restcountries.eu/data/omn.svg",
           "regionalBlocs": [
@@ -14237,7 +15420,13 @@
           }
         },
         {
-          "name": "Pakistan",
+          "name": {
+            "en": "Pakistan",
+            "vn": "Pa-ki-xtan",
+            "de": "Pakistan",
+            "ja": "パキスタン",
+            "fr": "Pakistan"
+          },
           "topLevelDomain": [
             ".pk"
           ],
@@ -14306,7 +15495,8 @@
             "nl": "Pakistan",
             "hr": "Pakistan",
             "fa": "پاکستان",
-            "vn": "Pakistan"
+            "vn": "Pakistan",
+            "en": "Pakistan"
           },
           "flag": "https://restcountries.eu/data/pak.svg",
           "regionalBlocs": [
@@ -14325,7 +15515,13 @@
           }
         },
         {
-          "name": "Palau",
+          "name": {
+            "en": "Palau",
+            "vn": "Pa-lau",
+            "de": "Palau",
+            "ja": "パラオ",
+            "fr": "Palaos"
+          },
           "topLevelDomain": [
             ".pw"
           ],
@@ -14387,7 +15583,8 @@
             "nl": "Palau",
             "hr": "Palau",
             "fa": "پالائو",
-            "vn": "Palau"
+            "vn": "Palau",
+            "en": "Palau"
           },
           "flag": "https://restcountries.eu/data/plw.svg",
           "regionalBlocs": [],
@@ -14399,7 +15596,13 @@
           }
         },
         {
-          "name": "State of Palestine",
+          "name": {
+            "en": "State of Palestine",
+            "vn": "Pa-le-xtin",
+            "de": "Palästina",
+            "ja": "パレスチナ",
+            "fr": "Palestine"
+          },
           "topLevelDomain": [
             ".ps"
           ],
@@ -14460,7 +15663,8 @@
             "nl": "Palestijnse gebieden",
             "hr": "Palestina",
             "fa": "فلسطین",
-            "vn": "Nhà nước Palestine"
+            "vn": "Nhà nước Palestine",
+            "en": "State of Palestine"
           },
           "flag": "https://restcountries.eu/data/pse.svg",
           "regionalBlocs": [
@@ -14483,7 +15687,13 @@
           }
         },
         {
-          "name": "Panama",
+          "name": {
+            "en": "Panama",
+            "vn": "Pa-na-ma",
+            "de": "Panama",
+            "ja": "パナマ",
+            "fr": "Panama"
+          },
           "topLevelDomain": [
             ".pa"
           ],
@@ -14548,7 +15758,8 @@
             "nl": "Panama",
             "hr": "Panama",
             "fa": "پاناما",
-            "vn": "Panama"
+            "vn": "Panama",
+            "en": "Panama"
           },
           "flag": "https://restcountries.eu/data/pan.svg",
           "regionalBlocs": [
@@ -14571,7 +15782,13 @@
           }
         },
         {
-          "name": "Papua New Guinea",
+          "name": {
+            "en": "Papua New Guinea",
+            "vn": "Pa-pu-a Niu Ghi-nê",
+            "de": "Papua-Neuguinea",
+            "ja": "パプアニューギニア",
+            "fr": "Papouasie-Nouvelle-Guinée"
+          },
           "topLevelDomain": [
             ".pg"
           ],
@@ -14630,7 +15847,8 @@
             "nl": "Papoea-Nieuw-Guinea",
             "hr": "Papua Nova Gvineja",
             "fa": "پاپوآ گینه نو",
-            "vn": "Papua New Guinea"
+            "vn": "Papua New Guinea",
+            "en": "Papua New Guinea"
           },
           "flag": "https://restcountries.eu/data/png.svg",
           "regionalBlocs": [],
@@ -14642,7 +15860,13 @@
           }
         },
         {
-          "name": "Paraguay",
+          "name": {
+            "en": "Paraguay",
+            "vn": "Pa-ra-goay",
+            "de": "Paraguay",
+            "ja": "パラグアイ",
+            "fr": "Paraguay"
+          },
           "topLevelDomain": [
             ".py"
           ],
@@ -14710,7 +15934,8 @@
             "nl": "Paraguay",
             "hr": "Paragvaj",
             "fa": "پاراگوئه",
-            "vn": "Paraguay"
+            "vn": "Paraguay",
+            "en": "Paraguay"
           },
           "flag": "https://restcountries.eu/data/pry.svg",
           "regionalBlocs": [
@@ -14738,7 +15963,13 @@
           }
         },
         {
-          "name": "Peru",
+          "name": {
+            "en": "Peru",
+            "vn": "Pê-ru",
+            "de": "Peru",
+            "ja": "ペルー",
+            "fr": "Pérou"
+          },
           "topLevelDomain": [
             ".pe"
           ],
@@ -14801,7 +16032,8 @@
             "nl": "Peru",
             "hr": "Peru",
             "fa": "پرو",
-            "vn": "Peru"
+            "vn": "Peru",
+            "en": "Peru"
           },
           "flag": "https://restcountries.eu/data/per.svg",
           "regionalBlocs": [
@@ -14837,7 +16069,13 @@
           }
         },
         {
-          "name": "Philippines",
+          "name": {
+            "en": "Philippines",
+            "vn": "Phi-líp-pin",
+            "de": "Philippinen",
+            "ja": "フィリピン",
+            "fr": "Philippines"
+          },
           "topLevelDomain": [
             ".ph"
           ],
@@ -14894,7 +16132,8 @@
             "nl": "Filipijnen",
             "hr": "Filipini",
             "fa": "جزایر الندفیلیپین",
-            "vn": "Philippines"
+            "vn": "Philippines",
+            "en": "Philippines"
           },
           "flag": "https://restcountries.eu/data/phl.svg",
           "regionalBlocs": [
@@ -14913,7 +16152,13 @@
           }
         },
         {
-          "name": "Pitcairn Islands",
+          "name": {
+            "en": "Pitcairn Islands",
+            "vn": "Quần đảo Pít-cơn",
+            "de": "Pitcairn",
+            "ja": "ピトケアン",
+            "fr": "Îles Pitcairn"
+          },
           "topLevelDomain": [
             ".pn"
           ],
@@ -14974,7 +16219,8 @@
             "nl": "Pitcairneilanden",
             "hr": "Pitcairnovo otočje",
             "fa": "پیتکرن",
-            "vn": "Quần đảo Pitcairn"
+            "vn": "Quần đảo Pitcairn",
+            "en": "Pitcairn Islands"
           },
           "flag": "https://restcountries.eu/data/pcn.svg",
           "regionalBlocs": [],
@@ -14986,7 +16232,13 @@
           }
         },
         {
-          "name": "Poland",
+          "name": {
+            "en": "Poland",
+            "vn": "Ba Lan",
+            "de": "Polen",
+            "ja": "ポーランド",
+            "fr": "Pologne"
+          },
           "topLevelDomain": [
             ".pl"
           ],
@@ -15051,7 +16303,8 @@
             "nl": "Polen",
             "hr": "Poljska",
             "fa": "لهستان",
-            "vn": "Ba Lan"
+            "vn": "Ba Lan",
+            "en": "Poland"
           },
           "flag": "https://restcountries.eu/data/pol.svg",
           "regionalBlocs": [
@@ -15070,7 +16323,13 @@
           }
         },
         {
-          "name": "Portugal",
+          "name": {
+            "en": "Portugal",
+            "vn": "Bồ Đào Nha",
+            "de": "Portugal",
+            "ja": "ポルトガル",
+            "fr": "Portugal"
+          },
           "topLevelDomain": [
             ".pt"
           ],
@@ -15131,7 +16390,8 @@
             "nl": "Portugal",
             "hr": "Portugal",
             "fa": "پرتغال",
-            "vn": "Bồ Đào Nha"
+            "vn": "Bồ Đào Nha",
+            "en": "Portugal"
           },
           "flag": "https://restcountries.eu/data/prt.svg",
           "regionalBlocs": [
@@ -15150,7 +16410,13 @@
           }
         },
         {
-          "name": "Puerto Rico",
+          "name": {
+            "en": "Puerto Rico (Despacito)",
+            "vn": "Puerto Rico (Despacito)",
+            "de": "Puerto Rico",
+            "ja": "プエルトリコ",
+            "fr": "Porto Rico"
+          },
           "topLevelDomain": [
             ".pr"
           ],
@@ -15214,7 +16480,8 @@
             "nl": "Puerto Rico",
             "hr": "Portoriko",
             "fa": "پورتو ریکو",
-            "vn": "Puerto Rico"
+            "vn": "Puerto Rico",
+            "en": "Puerto Rico"
           },
           "flag": "https://restcountries.eu/data/pri.svg",
           "regionalBlocs": [],
@@ -15226,7 +16493,13 @@
           }
         },
         {
-          "name": "Qatar",
+          "name": {
+            "en": "Qatar",
+            "vn": "Ca-ta",
+            "de": "Katar",
+            "ja": "カタール",
+            "fr": "Qatar"
+          },
           "topLevelDomain": [
             ".qa"
           ],
@@ -15285,7 +16558,8 @@
             "nl": "Qatar",
             "hr": "Katar",
             "fa": "قطر",
-            "vn": "Qatar"
+            "vn": "Qatar",
+            "en": "Qatar"
           },
           "flag": "https://restcountries.eu/data/qat.svg",
           "regionalBlocs": [
@@ -15308,7 +16582,13 @@
           }
         },
         {
-          "name": "Kosovo",
+          "name": {
+            "en": "Kosovo",
+            "vn": "Kô-sô-vô",
+            "de": null,
+            "ja": null,
+            "fr": null
+          },
           "topLevelDomain": [
             ""
           ],
@@ -15375,7 +16655,8 @@
             "nl": null,
             "hr": "Kosovo",
             "fa": "کوزوو",
-            "vn": "Kosovo"
+            "vn": "Kosovo",
+            "en": "Kosovo"
           },
           "flag": "https://restcountries.eu/data/kos.svg",
           "regionalBlocs": [
@@ -15394,7 +16675,13 @@
           }
         },
         {
-          "name": "Réunion",
+          "name": {
+            "en": "Réunion",
+            "vn": "Rê-u-niên",
+            "de": "Réunion",
+            "ja": "レユニオン",
+            "fr": "Réunion"
+          },
           "topLevelDomain": [
             ".re"
           ],
@@ -15450,7 +16737,8 @@
             "nl": "Réunion",
             "hr": "Réunion",
             "fa": "رئونیون",
-            "vn": "Réunion"
+            "vn": "Réunion",
+            "en": "Réunion"
           },
           "flag": "https://restcountries.eu/data/reu.svg",
           "regionalBlocs": [
@@ -15475,7 +16763,13 @@
           }
         },
         {
-          "name": "Romania",
+          "name": {
+            "en": "Romania",
+            "vn": "Ru-ma-ni",
+            "de": "Rumänien",
+            "ja": "ルーマニア",
+            "fr": "Roumanie"
+          },
           "topLevelDomain": [
             ".ro"
           ],
@@ -15539,7 +16833,8 @@
             "nl": "Roemenië",
             "hr": "Rumunjska",
             "fa": "رومانی",
-            "vn": "Romania"
+            "vn": "Romania",
+            "en": "Romania"
           },
           "flag": "https://restcountries.eu/data/rou.svg",
           "regionalBlocs": [
@@ -15558,7 +16853,13 @@
           }
         },
         {
-          "name": "Russia",
+          "name": {
+            "en": "Russia",
+            "vn": "Liên bang Nga",
+            "de": "Russland",
+            "ja": "ロシア連邦",
+            "fr": "Russie"
+          },
           "topLevelDomain": [
             ".ru"
           ],
@@ -15640,7 +16941,8 @@
             "nl": "Rusland",
             "hr": "Rusija",
             "fa": "روسیه",
-            "vn": "Nga"
+            "vn": "Nga",
+            "en": "Russia"
           },
           "flag": "https://restcountries.eu/data/rus.svg",
           "regionalBlocs": [
@@ -15661,7 +16963,13 @@
           }
         },
         {
-          "name": "Rwanda",
+          "name": {
+            "en": "Rwanda",
+            "vn": "Ru-an-đa",
+            "de": "Ruanda",
+            "ja": "ルワンダ",
+            "fr": "Rwanda"
+          },
           "topLevelDomain": [
             ".rw"
           ],
@@ -15736,7 +17044,8 @@
             "nl": "Rwanda",
             "hr": "Ruanda",
             "fa": "رواندا",
-            "vn": "Rwanda"
+            "vn": "Rwanda",
+            "en": "Rwanda"
           },
           "flag": "https://restcountries.eu/data/rwa.svg",
           "regionalBlocs": [
@@ -15761,7 +17070,13 @@
           }
         },
         {
-          "name": "Saint Barthélemy",
+          "name": {
+            "en": "Saint Barthélemy",
+            "vn": "Xanh Ba-thê-lê-my",
+            "de": "Saint-Barthélemy",
+            "ja": "サン・バルテルミー",
+            "fr": "Saint-Barthélemy"
+          },
           "topLevelDomain": [
             ".bl"
           ],
@@ -15819,7 +17134,8 @@
             "nl": "Saint Barthélemy",
             "hr": "Saint Barthélemy",
             "fa": "سن-بارتلمی",
-            "vn": "Saint-Barthélemy"
+            "vn": "Saint-Barthélemy",
+            "en": "Saint Barthélemy"
           },
           "flag": "https://restcountries.eu/data/blm.svg",
           "regionalBlocs": [],
@@ -15831,7 +17147,13 @@
           }
         },
         {
-          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "name": {
+            "en": "Saint Helena, Ascension and Tristan da Cunha",
+            "vn": "Xanh Hê-lê-na, Át-sen-xần và Trít-tần đa Cun-ha",
+            "de": "Sankt Helena",
+            "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+            "fr": "Sainte-Hélène"
+          },
           "topLevelDomain": [
             ".sh"
           ],
@@ -15886,7 +17208,8 @@
             "nl": "Sint-Helena",
             "hr": "Sveta Helena",
             "fa": "سنت هلنا، اسنشن و تریستان دا کونا",
-            "vn": "Saint Helena, Ascension và Tristan da Cunha"
+            "vn": "Saint Helena, Ascension và Tristan da Cunha",
+            "en": "Saint Helena, Ascension and Tristan da Cunha"
           },
           "flag": "https://restcountries.eu/data/shn.svg",
           "regionalBlocs": [
@@ -15911,7 +17234,13 @@
           }
         },
         {
-          "name": "Saint Kitts and Nevis",
+          "name": {
+            "en": "Saint Kitts and Nevis",
+            "vn": "Xanh Kít và Nê-vi",
+            "de": "St. Kitts und Nevis",
+            "ja": "セントクリストファー・ネイビス",
+            "fr": "Saint-Christophe-et-Niévès"
+          },
           "topLevelDomain": [
             ".kn"
           ],
@@ -15967,7 +17296,8 @@
             "nl": "Saint Kitts en Nevis",
             "hr": "Sveti Kristof i Nevis",
             "fa": "سنت کیتس و نویس",
-            "vn": "Saint Kitts và Nevis"
+            "vn": "Saint Kitts và Nevis",
+            "en": "Saint Kitts and Nevis"
           },
           "flag": "https://restcountries.eu/data/kna.svg",
           "regionalBlocs": [
@@ -15990,7 +17320,13 @@
           }
         },
         {
-          "name": "Saint Lucia",
+          "name": {
+            "en": "Saint Lucia",
+            "vn": "Xanh Lu-xi-a",
+            "de": "Saint Lucia",
+            "ja": "セントルシア",
+            "fr": "Saint-Lucie"
+          },
           "topLevelDomain": [
             ".lc"
           ],
@@ -16045,7 +17381,8 @@
             "nl": "Saint Lucia",
             "hr": "Sveta Lucija",
             "fa": "سنت لوسیا",
-            "vn": "Saint Lucia"
+            "vn": "Saint Lucia",
+            "en": "Saint Lucia"
           },
           "flag": "https://restcountries.eu/data/lca.svg",
           "regionalBlocs": [
@@ -16068,7 +17405,13 @@
           }
         },
         {
-          "name": "Collectivity of Saint Martin",
+          "name": {
+            "en": "Collectivity of Saint Martin (France)",
+            "vn": "Xanh Mát-tin thuộc Pháp",
+            "de": "Saint Martin",
+            "ja": "サン・マルタン（フランス領）",
+            "fr": "Saint-Martin"
+          },
           "topLevelDomain": [
             ".mf",
             ".fr",
@@ -16142,7 +17485,8 @@
             "nl": "Saint-Martin",
             "hr": "Sveti Martin",
             "fa": "سینت مارتن",
-            "vn": "Saint-Martin"
+            "vn": "Saint-Martin",
+            "en": "Collectivity of Saint Martin"
           },
           "flag": "https://restcountries.eu/data/maf.svg",
           "regionalBlocs": [],
@@ -16154,7 +17498,13 @@
           }
         },
         {
-          "name": "Saint Pierre and Miquelon",
+          "name": {
+            "en": "Saint Pierre and Miquelon",
+            "vn": "Xanh Pi-e và Mi-kê-lân",
+            "de": "Saint-Pierre und Miquelon",
+            "ja": "サンピエール島・ミクロン島",
+            "fr": "Saint-Pierre-et-Miquelon"
+          },
           "topLevelDomain": [
             ".pm"
           ],
@@ -16210,7 +17560,8 @@
             "nl": "Saint Pierre en Miquelon",
             "hr": "Sveti Petar i Mikelon",
             "fa": "سن پیر و میکلن",
-            "vn": "Saint-Pierre và Miquelon"
+            "vn": "Saint-Pierre và Miquelon",
+            "en": "Saint Pierre and Miquelon"
           },
           "flag": "https://restcountries.eu/data/spm.svg",
           "regionalBlocs": [],
@@ -16222,7 +17573,13 @@
           }
         },
         {
-          "name": "Saint Vincent and the Grenadines",
+          "name": {
+            "en": "Saint Vincent and the Grenadines",
+            "vn": "Xanh Vin-xen và Grê-na-din",
+            "de": "Saint Vincent und die Grenadinen",
+            "ja": "セントビンセントおよびグレナディーン諸島",
+            "fr": "Saint-Vincent-et-les-Grenadines"
+          },
           "topLevelDomain": [
             ".vc"
           ],
@@ -16277,7 +17634,8 @@
             "nl": "Saint Vincent en de Grenadines",
             "hr": "Sveti Vincent i Grenadini",
             "fa": "سنت وینسنت و گرنادین‌ها",
-            "vn": "Saint Vincent và Grenadines"
+            "vn": "Saint Vincent và Grenadines",
+            "en": "Saint Vincent and the Grenadines"
           },
           "flag": "https://restcountries.eu/data/vct.svg",
           "regionalBlocs": [
@@ -16300,7 +17658,13 @@
           }
         },
         {
-          "name": "Samoa",
+          "name": {
+            "en": "Samoa",
+            "vn": "Sa-moa",
+            "de": "Samoa",
+            "ja": "サモア",
+            "fr": "Samoa"
+          },
           "topLevelDomain": [
             ".ws"
           ],
@@ -16363,7 +17727,8 @@
             "nl": "Samoa",
             "hr": "Samoa",
             "fa": "ساموآ",
-            "vn": "Samoa"
+            "vn": "Samoa",
+            "en": "Samoa"
           },
           "flag": "https://restcountries.eu/data/wsm.svg",
           "regionalBlocs": [],
@@ -16375,7 +17740,13 @@
           }
         },
         {
-          "name": "San Marino",
+          "name": {
+            "en": "San Marino",
+            "vn": "San Ma-ri-nô",
+            "de": "San Marino",
+            "ja": "サンマリノ",
+            "fr": "Saint-Marin"
+          },
           "topLevelDomain": [
             ".sm"
           ],
@@ -16434,7 +17805,8 @@
             "nl": "San Marino",
             "hr": "San Marino",
             "fa": "سان مارینو",
-            "vn": "San Marino"
+            "vn": "San Marino",
+            "en": "San Marino"
           },
           "flag": "https://restcountries.eu/data/smr.svg",
           "regionalBlocs": [],
@@ -16446,7 +17818,13 @@
           }
         },
         {
-          "name": "Sao Tome and Principe",
+          "name": {
+            "en": "Sao Tome and Principe",
+            "vn": "Sao Tô-mê và Prin-xi-pê",
+            "de": "São Tomé und Príncipe",
+            "ja": "サントメ・プリンシペ",
+            "fr": "Sao Tomé-et-Principe"
+          },
           "topLevelDomain": [
             ".st"
           ],
@@ -16503,7 +17881,8 @@
             "nl": "Sao Tomé en Principe",
             "hr": "Sveti Toma i Princip",
             "fa": "کواترو دو فرویرو",
-            "vn": "São Tomé và Príncipe"
+            "vn": "São Tomé và Príncipe",
+            "en": "Sao Tome and Principe"
           },
           "flag": "https://restcountries.eu/data/stp.svg",
           "regionalBlocs": [
@@ -16528,7 +17907,13 @@
           }
         },
         {
-          "name": "Saudi Arabia",
+          "name": {
+            "en": "Saudi Arabia",
+            "vn": "Ả Rập Xê Út",
+            "de": "Saudi-Arabien",
+            "ja": "サウジアラビア",
+            "fr": "Arabie Saoudite"
+          },
           "topLevelDomain": [
             ".sa"
           ],
@@ -16593,7 +17978,8 @@
             "nl": "Saoedi-Arabië",
             "hr": "Saudijska Arabija",
             "fa": "عربستان سعودی",
-            "vn": "Ả Rập Xê Út"
+            "vn": "Ả Rập Xê Út",
+            "en": "Saudi Arabia"
           },
           "flag": "https://restcountries.eu/data/sau.svg",
           "regionalBlocs": [
@@ -16616,7 +18002,13 @@
           }
         },
         {
-          "name": "Senegal",
+          "name": {
+            "en": "Senegal",
+            "vn": "Sê-nê-gan",
+            "de": "Senegal",
+            "ja": "セネガル",
+            "fr": "Sénégal"
+          },
           "topLevelDomain": [
             ".sn"
           ],
@@ -16679,7 +18071,8 @@
             "nl": "Senegal",
             "hr": "Senegal",
             "fa": "سنگال",
-            "vn": "Senegal"
+            "vn": "Senegal",
+            "en": "Senegal"
           },
           "flag": "https://restcountries.eu/data/sen.svg",
           "regionalBlocs": [
@@ -16704,7 +18097,13 @@
           }
         },
         {
-          "name": "Serbia",
+          "name": {
+            "en": "Serbia",
+            "vn": "Séc-bi",
+            "de": "Serbien",
+            "ja": "セルビア",
+            "fr": "Serbie"
+          },
           "topLevelDomain": [
             ".rs"
           ],
@@ -16772,7 +18171,8 @@
             "nl": "Servië",
             "hr": "Srbija",
             "fa": "صربستان",
-            "vn": "Serbia"
+            "vn": "Serbia",
+            "en": "Serbia"
           },
           "flag": "https://restcountries.eu/data/srb.svg",
           "regionalBlocs": [
@@ -16791,7 +18191,13 @@
           }
         },
         {
-          "name": "Seychelles",
+          "name": {
+            "en": "Seychelles",
+            "vn": "Xây-sen",
+            "de": "Seychellen",
+            "ja": "セーシェル",
+            "fr": "Seychelles"
+          },
           "topLevelDomain": [
             ".sc"
           ],
@@ -16855,7 +18261,8 @@
             "nl": "Seychellen",
             "hr": "Sejšeli",
             "fa": "سیشل",
-            "vn": "Seychelles"
+            "vn": "Seychelles",
+            "en": "Seychelles"
           },
           "flag": "https://restcountries.eu/data/syc.svg",
           "regionalBlocs": [
@@ -16880,7 +18287,13 @@
           }
         },
         {
-          "name": "Sierra Leone",
+          "name": {
+            "en": "Sierra Leone",
+            "vn": "Si-ê-ra Lê-ôn",
+            "de": "Sierra Leone",
+            "ja": "シエラレオネ",
+            "fr": "Sierra Leone"
+          },
           "topLevelDomain": [
             ".sl"
           ],
@@ -16939,7 +18352,8 @@
             "nl": "Sierra Leone",
             "hr": "Sijera Leone",
             "fa": "سیرالئون",
-            "vn": "Sierra Leone"
+            "vn": "Sierra Leone",
+            "en": "Sierra Leone"
           },
           "flag": "https://restcountries.eu/data/sle.svg",
           "regionalBlocs": [
@@ -16964,7 +18378,13 @@
           }
         },
         {
-          "name": "Singapore",
+          "name": {
+            "en": "Singapore",
+            "vn": "Xinh-ga-po",
+            "de": "Singapur",
+            "ja": "シンガポール",
+            "fr": "Singapour"
+          },
           "topLevelDomain": [
             ".sg"
           ],
@@ -17045,7 +18465,8 @@
             "nl": "Singapore",
             "hr": "Singapur",
             "fa": "سنگاپور",
-            "vn": "Singapore"
+            "vn": "Singapore",
+            "en": "Singapore"
           },
           "flag": "https://restcountries.eu/data/sgp.svg",
           "regionalBlocs": [
@@ -17064,7 +18485,13 @@
           }
         },
         {
-          "name": "Sint Maarten",
+          "name": {
+            "en": "Sint Maarten (Netherlands)",
+            "vn": "Xanh Mát-tin thuộc Hà Lan",
+            "de": "Sint Maarten (niederl. Teil)",
+            "ja": null,
+            "fr": "Saint Martin (partie néerlandaise)"
+          },
           "topLevelDomain": [
             ".sx"
           ],
@@ -17127,7 +18554,8 @@
             "nl": "Sint Maarten",
             "hr": null,
             "fa": "سینت مارتن",
-            "vn": "Sint Maarten"
+            "vn": "Sint Maarten",
+            "en": "Sint Maarten"
           },
           "flag": "https://restcountries.eu/data/sxm.svg",
           "regionalBlocs": [],
@@ -17139,7 +18567,13 @@
           }
         },
         {
-          "name": "Slovakia",
+          "name": {
+            "en": "Slovakia",
+            "vn": "Xlô-va-ki-a",
+            "de": "Slowakei",
+            "ja": "スロバキア",
+            "fr": "Slovaquie"
+          },
           "topLevelDomain": [
             ".sk"
           ],
@@ -17202,7 +18636,8 @@
             "nl": "Slowakije",
             "hr": "Slovačka",
             "fa": "اسلواکی",
-            "vn": "Slovakia"
+            "vn": "Slovakia",
+            "en": "Slovakia"
           },
           "flag": "https://restcountries.eu/data/svk.svg",
           "regionalBlocs": [
@@ -17221,7 +18656,13 @@
           }
         },
         {
-          "name": "Slovenia",
+          "name": {
+            "en": "Slovenia",
+            "vn": "Xlô-ven-ni-a",
+            "de": "Slowenien",
+            "ja": "スロベニア",
+            "fr": "Slovénie"
+          },
           "topLevelDomain": [
             ".si"
           ],
@@ -17283,7 +18724,8 @@
             "nl": "Slovenië",
             "hr": "Slovenija",
             "fa": "اسلوونی",
-            "vn": "Slovenia"
+            "vn": "Slovenia",
+            "en": "Slovenia"
           },
           "flag": "https://restcountries.eu/data/svn.svg",
           "regionalBlocs": [
@@ -17302,7 +18744,13 @@
           }
         },
         {
-          "name": "Solomon Islands",
+          "name": {
+            "en": "Solomon Islands",
+            "vn": "Quần đảo Solomon",
+            "de": "Salomonen",
+            "ja": "ソロモン諸島",
+            "fr": "Îles Salomon"
+          },
           "topLevelDomain": [
             ".sb"
           ],
@@ -17357,7 +18805,8 @@
             "nl": "Salomonseilanden",
             "hr": "Solomonski Otoci",
             "fa": "جزایر سلیمان",
-            "vn": "Quần đảo Solomon"
+            "vn": "Quần đảo Solomon",
+            "en": "Solomon Islands"
           },
           "flag": "https://restcountries.eu/data/slb.svg",
           "regionalBlocs": [],
@@ -17369,7 +18818,13 @@
           }
         },
         {
-          "name": "Somalia",
+          "name": {
+            "en": "Somalia",
+            "vn": "Xô-ma-li",
+            "de": "Somalia",
+            "ja": "ソマリア",
+            "fr": "Somalie"
+          },
           "topLevelDomain": [
             ".so"
           ],
@@ -17438,7 +18893,8 @@
             "nl": "Somalië",
             "hr": "Somalija",
             "fa": "سومالی",
-            "vn": "Somalia"
+            "vn": "Somalia",
+            "en": "Somalia"
           },
           "flag": "https://restcountries.eu/data/som.svg",
           "regionalBlocs": [
@@ -17473,7 +18929,13 @@
           }
         },
         {
-          "name": "South Africa",
+          "name": {
+            "en": "South Africa",
+            "vn": "Cộng hòa Nam Phi",
+            "de": "Republik Südafrika",
+            "ja": "南アフリカ",
+            "fr": "Afrique du Sud"
+          },
           "topLevelDomain": [
             ".za"
           ],
@@ -17592,7 +19054,8 @@
             "nl": "Zuid-Afrika",
             "hr": "Južnoafrička Republika",
             "fa": "آفریقای جنوبی",
-            "vn": "Cộng hòa Nam Phi"
+            "vn": "Cộng hòa Nam Phi",
+            "en": "South Africa"
           },
           "flag": "https://restcountries.eu/data/zaf.svg",
           "regionalBlocs": [
@@ -17617,7 +19080,13 @@
           }
         },
         {
-          "name": "South Georgia and the South Sandwich Islands",
+          "name": {
+            "en": "South Georgia and the South Sandwich Islands",
+            "vn": "Nam Georgia và Quần đảo Nam Sandwich",
+            "de": "Südgeorgien und die Südlichen Sandwichinseln",
+            "ja": "サウスジョージア・サウスサンドウィッチ諸島",
+            "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud"
+          },
           "topLevelDomain": [
             ".gs"
           ],
@@ -17678,7 +19147,8 @@
             "nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
             "hr": "Južna Georgija i otočje Južni Sandwich",
             "fa": "جزایر جورجیای جنوبی و ساندویچ جنوبی",
-            "vn": "Nam Georgia và Quần đảo Nam Sandwich"
+            "vn": "Nam Georgia và Quần đảo Nam Sandwich",
+            "en": "South Georgia and the South Sandwich Islands"
           },
           "flag": "https://restcountries.eu/data/sgs.svg",
           "regionalBlocs": [
@@ -17706,7 +19176,13 @@
           }
         },
         {
-          "name": "South Korea",
+          "name": {
+            "en": "South Korea",
+            "vn": "Hàn Quốc (Nam Hàn)",
+            "de": "Südkorea",
+            "ja": "大韓民国",
+            "fr": "Corée du Sud"
+          },
           "topLevelDomain": [
             ".kr"
           ],
@@ -17764,7 +19240,8 @@
             "nl": "Zuid-Korea",
             "hr": "Južna Koreja",
             "fa": "کره شمالی",
-            "vn": "Hàn Quốc"
+            "vn": "Hàn Quốc",
+            "en": "South Korea"
           },
           "flag": "https://restcountries.eu/data/kor.svg",
           "regionalBlocs": [],
@@ -17776,7 +19253,13 @@
           }
         },
         {
-          "name": "South Sudan",
+          "name": {
+            "en": "South Sudan",
+            "vn": "Nam Sudan",
+            "de": "Südsudan",
+            "ja": "南スーダン",
+            "fr": "Soudan du Sud"
+          },
           "topLevelDomain": [
             ".ss"
           ],
@@ -17838,7 +19321,8 @@
             "nl": "Zuid-Soedan",
             "hr": "Južni Sudan",
             "fa": "سودان جنوبی",
-            "vn": "Nam Sudan"
+            "vn": "Nam Sudan",
+            "en": "South Sudan"
           },
           "flag": "https://restcountries.eu/data/ssd.svg",
           "regionalBlocs": [
@@ -17863,7 +19347,13 @@
           }
         },
         {
-          "name": "Spain",
+          "name": {
+            "en": "Spain",
+            "vn": "Tây Ban Nha",
+            "de": "Spanien",
+            "ja": "スペイン",
+            "fr": "Espagne"
+          },
           "topLevelDomain": [
             ".es"
           ],
@@ -17927,7 +19417,8 @@
             "nl": "Spanje",
             "hr": "Španjolska",
             "fa": "اسپانیا",
-            "vn": "Tây Ban Nha"
+            "vn": "Tây Ban Nha",
+            "en": "Spain"
           },
           "flag": "https://restcountries.eu/data/esp.svg",
           "regionalBlocs": [
@@ -17946,7 +19437,13 @@
           }
         },
         {
-          "name": "Sri Lanka",
+          "name": {
+            "en": "Sri Lanka",
+            "vn": "Xri Lan-ca",
+            "de": "Sri Lanka",
+            "ja": "スリランカ",
+            "fr": "Sri Lanka"
+          },
           "topLevelDomain": [
             ".lk"
           ],
@@ -18011,7 +19508,8 @@
             "nl": "Sri Lanka",
             "hr": "Šri Lanka",
             "fa": "سری‌لانکا",
-            "vn": "Sri Lanka"
+            "vn": "Sri Lanka",
+            "en": "Sri Lanka"
           },
           "flag": "https://restcountries.eu/data/lka.svg",
           "regionalBlocs": [
@@ -18030,7 +19528,13 @@
           }
         },
         {
-          "name": "Sudan",
+          "name": {
+            "en": "Sudan",
+            "vn": "Xu-đăng",
+            "de": "Sudan",
+            "ja": "スーダン",
+            "fr": "Soudan"
+          },
           "topLevelDomain": [
             ".sd"
           ],
@@ -18101,7 +19605,8 @@
             "nl": "Soedan",
             "hr": "Sudan",
             "fa": "سودان",
-            "vn": "Sudan"
+            "vn": "Sudan",
+            "en": "Sudan"
           },
           "flag": "https://restcountries.eu/data/sdn.svg",
           "regionalBlocs": [
@@ -18136,7 +19641,13 @@
           }
         },
         {
-          "name": "Suriname",
+          "name": {
+            "en": "Suriname",
+            "vn": "Xu-ri-nam",
+            "de": "Suriname",
+            "ja": "スリナム",
+            "fr": "Surinam"
+          },
           "topLevelDomain": [
             ".sr"
           ],
@@ -18200,7 +19711,8 @@
             "nl": "Suriname",
             "hr": "Surinam",
             "fa": "سورینام",
-            "vn": "Suriname"
+            "vn": "Suriname",
+            "en": "Suriname"
           },
           "flag": "https://restcountries.eu/data/sur.svg",
           "regionalBlocs": [
@@ -18238,7 +19750,13 @@
           }
         },
         {
-          "name": "Svalbard and Jan Mayen",
+          "name": {
+            "en": "Svalbard and Jan Mayen",
+            "vn": "Xờ-van-bát và Gian Ma-den",
+            "de": "Svalbard und Jan Mayen",
+            "ja": "スヴァールバル諸島およびヤンマイエン島",
+            "fr": "Svalbard et Jan Mayen"
+          },
           "topLevelDomain": [
             ".sj"
           ],
@@ -18294,7 +19812,8 @@
             "nl": "Svalbard en Jan Mayen",
             "hr": "Svalbard i Jan Mayen",
             "fa": "سوالبارد و یان ماین",
-            "vn": "Svalbard và Jan Mayen"
+            "vn": "Svalbard và Jan Mayen",
+            "en": "Svalbard and Jan Mayen"
           },
           "flag": "https://restcountries.eu/data/sjm.svg",
           "regionalBlocs": [],
@@ -18306,7 +19825,13 @@
           }
         },
         {
-          "name": "Swaziland",
+          "name": {
+            "en": "Swaziland",
+            "vn": "Xoa-di-len",
+            "de": "Swasiland",
+            "ja": "スワジランド",
+            "fr": "Swaziland"
+          },
           "topLevelDomain": [
             ".sz"
           ],
@@ -18375,7 +19900,8 @@
             "nl": "Swaziland",
             "hr": "Svazi",
             "fa": "سوازیلند",
-            "vn": "Swaziland"
+            "vn": "Swaziland",
+            "en": "Swaziland"
           },
           "flag": "https://restcountries.eu/data/swz.svg",
           "regionalBlocs": [
@@ -18400,7 +19926,13 @@
           }
         },
         {
-          "name": "Sweden",
+          "name": {
+            "en": "Sweden",
+            "vn": "Thụy Điển",
+            "de": "Schweden",
+            "ja": "スウェーデン",
+            "fr": "Suède"
+          },
           "topLevelDomain": [
             ".se"
           ],
@@ -18460,7 +19992,8 @@
             "nl": "Zweden",
             "hr": "Švedska",
             "fa": "سوئد",
-            "vn": "Thụy Điển"
+            "vn": "Thụy Điển",
+            "en": "Sweden"
           },
           "flag": "https://restcountries.eu/data/swe.svg",
           "regionalBlocs": [
@@ -18479,7 +20012,13 @@
           }
         },
         {
-          "name": "Switzerland",
+          "name": {
+            "en": "Switzerland",
+            "vn": "Thụy Sĩ",
+            "de": "Schweiz",
+            "ja": "スイス",
+            "fr": "Suisse"
+          },
           "topLevelDomain": [
             ".ch"
           ],
@@ -18557,7 +20096,8 @@
             "nl": "Zwitserland",
             "hr": "Švicarska",
             "fa": "سوئیس",
-            "vn": "Thụy Sĩ"
+            "vn": "Thụy Sĩ",
+            "en": "Switzerland"
           },
           "flag": "https://restcountries.eu/data/che.svg",
           "regionalBlocs": [
@@ -18576,7 +20116,13 @@
           }
         },
         {
-          "name": "Syria",
+          "name": {
+            "en": "Syria",
+            "vn": "Xy-ri",
+            "de": "Syrien",
+            "ja": "シリア・アラブ共和国",
+            "fr": "Syrie"
+          },
           "topLevelDomain": [
             ".sy"
           ],
@@ -18639,7 +20185,8 @@
             "nl": "Syrië",
             "hr": "Sirija",
             "fa": "سوریه",
-            "vn": "Syria"
+            "vn": "Syria",
+            "en": "Syria"
           },
           "flag": "https://restcountries.eu/data/syr.svg",
           "regionalBlocs": [
@@ -18662,7 +20209,13 @@
           }
         },
         {
-          "name": "Taiwan",
+          "name": {
+            "en": "Taiwan",
+            "vn": "Đài Loan",
+            "de": "Taiwan",
+            "ja": "台湾（中華民国）",
+            "fr": "Taïwan"
+          },
           "topLevelDomain": [
             ".tw"
           ],
@@ -18721,7 +20274,8 @@
             "nl": "Taiwan",
             "hr": "Tajvan",
             "fa": "تایوان",
-            "vn": "Đài Loan"
+            "vn": "Đài Loan",
+            "en": "Taiwan"
           },
           "flag": "https://restcountries.eu/data/twn.svg",
           "regionalBlocs": [],
@@ -18733,7 +20287,13 @@
           }
         },
         {
-          "name": "Tajikistan",
+          "name": {
+            "en": "Tajikistan",
+            "vn": "Ta-gi-ki-xtan",
+            "de": "Tadschikistan",
+            "ja": "タジキスタン",
+            "fr": "Tadjikistan"
+          },
           "topLevelDomain": [
             ".tj"
           ],
@@ -18803,7 +20363,8 @@
             "nl": "Tadzjikistan",
             "hr": "Tađikistan",
             "fa": "تاجیکستان",
-            "vn": "Tajikistan"
+            "vn": "Tajikistan",
+            "en": "Tajikistan"
           },
           "flag": "https://restcountries.eu/data/tjk.svg",
           "regionalBlocs": [],
@@ -18815,7 +20376,13 @@
           }
         },
         {
-          "name": "Tanzania",
+          "name": {
+            "en": "Tanzania",
+            "vn": "Tan-da-ni-a",
+            "de": "Tansania",
+            "ja": "タンザニア",
+            "fr": "Tanzanie"
+          },
           "topLevelDomain": [
             ".tz"
           ],
@@ -18887,7 +20454,8 @@
             "nl": "Tanzania",
             "hr": "Tanzanija",
             "fa": "تانزانیا",
-            "vn": "Tanzania"
+            "vn": "Tanzania",
+            "en": "Tanzania"
           },
           "flag": "https://restcountries.eu/data/tza.svg",
           "regionalBlocs": [
@@ -18912,7 +20480,13 @@
           }
         },
         {
-          "name": "Thailand",
+          "name": {
+            "en": "Thailand",
+            "vn": "Thái Lan",
+            "de": "Thailand",
+            "ja": "タイ",
+            "fr": "Thaïlande"
+          },
           "topLevelDomain": [
             ".th"
           ],
@@ -18977,7 +20551,8 @@
             "nl": "Thailand",
             "hr": "Tajland",
             "fa": "تایلند",
-            "vn": "Thái Lan"
+            "vn": "Thái Lan",
+            "en": "Thailand"
           },
           "flag": "https://restcountries.eu/data/tha.svg",
           "regionalBlocs": [
@@ -18996,7 +20571,13 @@
           }
         },
         {
-          "name": "East Timor",
+          "name": {
+            "en": "East Timor",
+            "vn": "Đông Ti-mo",
+            "de": "Timor-Leste",
+            "ja": "東ティモール",
+            "fr": "Timor oriental"
+          },
           "topLevelDomain": [
             ".tl"
           ],
@@ -19062,7 +20643,8 @@
             "nl": "Oost-Timor",
             "hr": "Istočni Timor",
             "fa": "تیمور شرقی",
-            "vn": "Đông Timor"
+            "vn": "Đông Timor",
+            "en": "East Timor"
           },
           "flag": "https://restcountries.eu/data/tls.svg",
           "regionalBlocs": [],
@@ -19074,7 +20656,13 @@
           }
         },
         {
-          "name": "Togo",
+          "name": {
+            "en": "Togo",
+            "vn": "Tô-gô",
+            "de": "Togo",
+            "ja": "トーゴ",
+            "fr": "Togo"
+          },
           "topLevelDomain": [
             ".tg"
           ],
@@ -19136,7 +20724,8 @@
             "nl": "Togo",
             "hr": "Togo",
             "fa": "توگو",
-            "vn": "Togo"
+            "vn": "Togo",
+            "en": "Togo"
           },
           "flag": "https://restcountries.eu/data/tgo.svg",
           "regionalBlocs": [
@@ -19161,7 +20750,13 @@
           }
         },
         {
-          "name": "Tokelau",
+          "name": {
+            "en": "Tokelau",
+            "vn": "Tô-kê-lâu",
+            "de": "Tokelau",
+            "ja": "トケラウ",
+            "fr": "Tokelau"
+          },
           "topLevelDomain": [
             ".tk"
           ],
@@ -19216,7 +20811,8 @@
             "nl": "Tokelau",
             "hr": "Tokelau",
             "fa": "توکلائو",
-            "vn": "Tokelau"
+            "vn": "Tokelau",
+            "en": "Tokelau"
           },
           "flag": "https://restcountries.eu/data/tkl.svg",
           "regionalBlocs": [],
@@ -19228,7 +20824,13 @@
           }
         },
         {
-          "name": "Tonga",
+          "name": {
+            "en": "Tonga",
+            "vn": "Tôn-ga",
+            "de": "Tonga",
+            "ja": "トンガ",
+            "fr": "Tonga"
+          },
           "topLevelDomain": [
             ".to"
           ],
@@ -19289,7 +20891,8 @@
             "nl": "Tonga",
             "hr": "Tonga",
             "fa": "تونگا",
-            "vn": "Tonga"
+            "vn": "Tonga",
+            "en": "Tonga"
           },
           "flag": "https://restcountries.eu/data/ton.svg",
           "regionalBlocs": [],
@@ -19301,7 +20904,13 @@
           }
         },
         {
-          "name": "Trinidad and Tobago",
+          "name": {
+            "en": "Trinidad and Tobago",
+            "vn": "Tri-ni-đát và Tô-ba-gô",
+            "de": "Trinidad und Tobago",
+            "ja": "トリニダード・トバゴ",
+            "fr": "Trinité et Tobago"
+          },
           "topLevelDomain": [
             ".tt"
           ],
@@ -19357,7 +20966,8 @@
             "nl": "Trinidad en Tobago",
             "hr": "Trinidad i Tobago",
             "fa": "ترینیداد و توباگو",
-            "vn": "Trinidad và Tobago"
+            "vn": "Trinidad và Tobago",
+            "en": "Trinidad and Tobago"
           },
           "flag": "https://restcountries.eu/data/tto.svg",
           "regionalBlocs": [
@@ -19380,7 +20990,13 @@
           }
         },
         {
-          "name": "Tunisia",
+          "name": {
+            "en": "Tunisia",
+            "vn": "Tuy-ni-di",
+            "de": "Tunesien",
+            "ja": "チュニジア",
+            "fr": "Tunisie"
+          },
           "topLevelDomain": [
             ".tn"
           ],
@@ -19440,7 +21056,8 @@
             "nl": "Tunesië",
             "hr": "Tunis",
             "fa": "تونس",
-            "vn": "Tunisia"
+            "vn": "Tunisia",
+            "en": "Tunisia"
           },
           "flag": "https://restcountries.eu/data/tun.svg",
           "regionalBlocs": [
@@ -19475,7 +21092,13 @@
           }
         },
         {
-          "name": "Turkey",
+          "name": {
+            "en": "Turkey",
+            "vn": "Thổ Nhĩ Kỳ",
+            "de": "Türkei",
+            "ja": "トルコ",
+            "fr": "Turquie"
+          },
           "topLevelDomain": [
             ".tr"
           ],
@@ -19542,7 +21165,8 @@
             "nl": "Turkije",
             "hr": "Turska",
             "fa": "ترکیه",
-            "vn": "Thổ Nhĩ Kỳ"
+            "vn": "Thổ Nhĩ Kỳ",
+            "en": "Turkey"
           },
           "flag": "https://restcountries.eu/data/tur.svg",
           "regionalBlocs": [],
@@ -19554,7 +21178,13 @@
           }
         },
         {
-          "name": "Turkmenistan",
+          "name": {
+            "en": "Turkmenistan",
+            "vn": "Tuốc-mê-ni-xtan",
+            "de": "Turkmenistan",
+            "ja": "トルクメニスタン",
+            "fr": "Turkménistan"
+          },
           "topLevelDomain": [
             ".tm"
           ],
@@ -19620,7 +21250,8 @@
             "nl": "Turkmenistan",
             "hr": "Turkmenistan",
             "fa": "ترکمنستان",
-            "vn": "Turkmenistan"
+            "vn": "Turkmenistan",
+            "en": "Turkmenistan"
           },
           "flag": "https://restcountries.eu/data/tkm.svg",
           "regionalBlocs": [],
@@ -19632,7 +21263,13 @@
           }
         },
         {
-          "name": "Turks and Caicos Islands",
+          "name": {
+            "en": "Turks and Caicos Islands",
+            "vn": "Quần đảo Turks và Caicos",
+            "de": "Turks- und Caicosinseln",
+            "ja": "タークス・カイコス諸島",
+            "fr": "Îles Turques-et-Caïques"
+          },
           "topLevelDomain": [
             ".tc"
           ],
@@ -19687,7 +21324,8 @@
             "nl": "Turks- en Caicoseilanden",
             "hr": "Otoci Turks i Caicos",
             "fa": "جزایر تورکس و کایکوس",
-            "vn": "Quần đảo Turks và Caicos"
+            "vn": "Quần đảo Turks và Caicos",
+            "en": "Turks and Caicos Islands"
           },
           "flag": "https://restcountries.eu/data/tca.svg",
           "regionalBlocs": [],
@@ -19699,7 +21337,13 @@
           }
         },
         {
-          "name": "Tuvalu",
+          "name": {
+            "en": "Tuvalu",
+            "vn": "Tu-va-lu",
+            "de": "Tuvalu",
+            "ja": "ツバル",
+            "fr": "Tuvalu"
+          },
           "topLevelDomain": [
             ".tv"
           ],
@@ -19759,7 +21403,8 @@
             "nl": "Tuvalu",
             "hr": "Tuvalu",
             "fa": "تووالو",
-            "vn": "Tuvalu"
+            "vn": "Tuvalu",
+            "en": "Tuvalu"
           },
           "flag": "https://restcountries.eu/data/tuv.svg",
           "regionalBlocs": [],
@@ -19771,7 +21416,13 @@
           }
         },
         {
-          "name": "Uganda",
+          "name": {
+            "en": "Uganda",
+            "vn": "U-gan-đa",
+            "de": "Uganda",
+            "ja": "ウガンダ",
+            "fr": "Uganda"
+          },
           "topLevelDomain": [
             ".ug"
           ],
@@ -19840,7 +21491,8 @@
             "nl": "Oeganda",
             "hr": "Uganda",
             "fa": "اوگاندا",
-            "vn": "Uganda"
+            "vn": "Uganda",
+            "en": "Uganda"
           },
           "flag": "https://restcountries.eu/data/uga.svg",
           "regionalBlocs": [
@@ -19865,7 +21517,13 @@
           }
         },
         {
-          "name": "Ukraine",
+          "name": {
+            "en": "Ukraine",
+            "vn": "U-crai-na",
+            "de": "Ukraine",
+            "ja": "ウクライナ",
+            "fr": "Ukraine"
+          },
           "topLevelDomain": [
             ".ua"
           ],
@@ -19929,7 +21587,8 @@
             "nl": "Oekraïne",
             "hr": "Ukrajina",
             "fa": "وکراین",
-            "vn": "Ukraina"
+            "vn": "Ukraina",
+            "en": "Ukraine"
           },
           "flag": "https://restcountries.eu/data/ukr.svg",
           "regionalBlocs": [],
@@ -19941,7 +21600,13 @@
           }
         },
         {
-          "name": "United Arab Emirates",
+          "name": {
+            "en": "United Arab Emirates",
+            "vn": "Các Tiểu vương quốc Ả Rập Thống nhất",
+            "de": "Vereinigte Arabische Emirate",
+            "ja": "アラブ首長国連邦",
+            "fr": "Émirats arabes unis"
+          },
           "topLevelDomain": [
             ".ae"
           ],
@@ -20000,7 +21665,8 @@
             "nl": "Verenigde Arabische Emiraten",
             "hr": "Ujedinjeni Arapski Emirati",
             "fa": "امارات متحده عربی",
-            "vn": "Các Tiểu vương quốc Ả Rập Thống nhất"
+            "vn": "Các Tiểu vương quốc Ả Rập Thống nhất",
+            "en": "United Arab Emirates"
           },
           "flag": "https://restcountries.eu/data/are.svg",
           "regionalBlocs": [
@@ -20023,7 +21689,13 @@
           }
         },
         {
-          "name": "United Kingdom",
+          "name": {
+            "en": "United Kingdom",
+            "vn": "Vương quốc Liên hiệp Anh và Bắc Ireland",
+            "de": "Vereinigtes Königreich",
+            "ja": "イギリス",
+            "fr": "Royaume-Uni"
+          },
           "topLevelDomain": [
             ".uk"
           ],
@@ -20090,7 +21762,8 @@
             "nl": "Verenigd Koninkrijk",
             "hr": "Ujedinjeno Kraljevstvo",
             "fa": "بریتانیای کبیر و ایرلند شمالی",
-            "vn": "Vương quốc Liên hiệp Anh và Bắc Ireland"
+            "vn": "Vương quốc Liên hiệp Anh và Bắc Ireland",
+            "en": "United Kingdom"
           },
           "flag": "https://restcountries.eu/data/gbr.svg",
           "regionalBlocs": [
@@ -20109,7 +21782,13 @@
           }
         },
         {
-          "name": "United States",
+          "name": {
+            "en": "United States of America",
+            "vn": "Hợp chủng quốc Hoa Kỳ (Mỹ)",
+            "de": "Vereinigte Staaten von Amerika",
+            "ja": "アメリカ合衆国",
+            "fr": "États-Unis"
+          },
           "topLevelDomain": [
             ".us"
           ],
@@ -20179,7 +21858,8 @@
             "nl": "Verenigde Staten",
             "hr": "Sjedinjene Američke Države",
             "fa": "ایالات متحده آمریکا",
-            "vn": "Hoa Kỳ"
+            "vn": "Hoa Kỳ",
+            "en": "United States"
           },
           "flag": "https://restcountries.eu/data/usa.svg",
           "regionalBlocs": [
@@ -20201,7 +21881,13 @@
           }
         },
         {
-          "name": "Uruguay",
+          "name": {
+            "en": "Uruguay",
+            "vn": "U-ru-goay",
+            "de": "Uruguay",
+            "ja": "ウルグアイ",
+            "fr": "Uruguay"
+          },
           "topLevelDomain": [
             ".uy"
           ],
@@ -20261,7 +21947,8 @@
             "nl": "Uruguay",
             "hr": "Urugvaj",
             "fa": "اروگوئه",
-            "vn": "Uruguay"
+            "vn": "Uruguay",
+            "en": "Uruguay"
           },
           "flag": "https://restcountries.eu/data/ury.svg",
           "regionalBlocs": [
@@ -20289,7 +21976,13 @@
           }
         },
         {
-          "name": "Uzbekistan",
+          "name": {
+            "en": "Uzbekistan",
+            "vn": "U-dơ-bê-ki-xtan",
+            "de": "Usbekistan",
+            "ja": "ウズベキスタン",
+            "fr": "Ouzbékistan"
+          },
           "topLevelDomain": [
             ".uz"
           ],
@@ -20359,7 +22052,8 @@
             "nl": "Oezbekistan",
             "hr": "Uzbekistan",
             "fa": "ازبکستان",
-            "vn": "Uzbekistan"
+            "vn": "Uzbekistan",
+            "en": "Uzbekistan"
           },
           "flag": "https://restcountries.eu/data/uzb.svg",
           "regionalBlocs": [],
@@ -20371,7 +22065,13 @@
           }
         },
         {
-          "name": "Vanuatu",
+          "name": {
+            "en": "Vanuatu",
+            "vn": "Va-nu-a-tu",
+            "de": "Vanuatu",
+            "ja": "バヌアツ",
+            "fr": "Vanuatu"
+          },
           "topLevelDomain": [
             ".vu"
           ],
@@ -20441,7 +22141,8 @@
             "nl": "Vanuatu",
             "hr": "Vanuatu",
             "fa": "وانواتو",
-            "vn": "Vanuatu"
+            "vn": "Vanuatu",
+            "en": "Vanuatu"
           },
           "flag": "https://restcountries.eu/data/vut.svg",
           "regionalBlocs": [],
@@ -20453,7 +22154,13 @@
           }
         },
         {
-          "name": "Venezuela",
+          "name": {
+            "en": "Venezuela",
+            "vn": "Vê-nê-du-e-la",
+            "de": "Venezuela",
+            "ja": "ベネズエラ・ボリバル共和国",
+            "fr": "Venezuela"
+          },
           "topLevelDomain": [
             ".ve"
           ],
@@ -20514,7 +22221,8 @@
             "nl": "Venezuela",
             "hr": "Venezuela",
             "fa": "ونزوئلا",
-            "vn": "Venezuela"
+            "vn": "Venezuela",
+            "en": "Venezuela"
           },
           "flag": "https://restcountries.eu/data/ven.svg",
           "regionalBlocs": [
@@ -20542,7 +22250,13 @@
           }
         },
         {
-          "name": "Vietnam",
+          "name": {
+            "en": "Vietnam",
+            "vn": "Việt Nam",
+            "de": "Vietnam",
+            "ja": "ベトナム",
+            "fr": "Viêt Nam"
+          },
           "topLevelDomain": [
             ".vn"
           ],
@@ -20603,7 +22317,8 @@
             "nl": "Vietnam",
             "hr": "Vijetnam",
             "fa": "ویتنام",
-            "vn": "Việt Nam"
+            "vn": "Việt Nam",
+            "en": "Vietnam"
           },
           "flag": "https://restcountries.eu/data/vnm.svg",
           "regionalBlocs": [
@@ -20622,7 +22337,13 @@
           }
         },
         {
-          "name": "Wallis and Futuna",
+          "name": {
+            "en": "Wallis and Futuna",
+            "vn": "Lãnh thổ các đảo Ua-lít và Phu-tu-na",
+            "de": "Wallis und Futuna",
+            "ja": "ウォリス・フツナ",
+            "fr": "Wallis-et-Futuna"
+          },
           "topLevelDomain": [
             ".wf"
           ],
@@ -20679,7 +22400,8 @@
             "nl": "Wallis en Futuna",
             "hr": "Wallis i Fortuna",
             "fa": "والیس و فوتونا",
-            "vn": "Wallis và Futuna"
+            "vn": "Wallis và Futuna",
+            "en": "Wallis and Futuna"
           },
           "flag": "https://restcountries.eu/data/wlf.svg",
           "regionalBlocs": [],
@@ -20691,7 +22413,13 @@
           }
         },
         {
-          "name": "Western Sahara",
+          "name": {
+            "en": "Western Sahara",
+            "vn": "Tây Sa-ha-ra",
+            "de": "Westsahara",
+            "ja": "西サハラ",
+            "fr": "Sahara Occidental"
+          },
           "topLevelDomain": [
             ".eh"
           ],
@@ -20756,7 +22484,8 @@
             "nl": "Westelijke Sahara",
             "hr": "Zapadna Sahara",
             "fa": "جمهوری دموکراتیک عربی صحرا",
-            "vn": "Tây Sahara"
+            "vn": "Tây Sahara",
+            "en": "Western Sahara"
           },
           "flag": "https://restcountries.eu/data/esh.svg",
           "regionalBlocs": [
@@ -20781,7 +22510,13 @@
           }
         },
         {
-          "name": "Yemen",
+          "name": {
+            "en": "Yemen",
+            "vn": "Y-ê-men",
+            "de": "Jemen",
+            "ja": "イエメン",
+            "fr": "Yémen"
+          },
           "topLevelDomain": [
             ".ye"
           ],
@@ -20841,7 +22576,8 @@
             "nl": "Jemen",
             "hr": "Jemen",
             "fa": "یمن",
-            "vn": "Yemen"
+            "vn": "Yemen",
+            "en": "Yemen"
           },
           "flag": "https://restcountries.eu/data/yem.svg",
           "regionalBlocs": [
@@ -20864,7 +22600,13 @@
           }
         },
         {
-          "name": "Zambia",
+          "name": {
+            "en": "Zambia",
+            "vn": "Dăm-bi-a",
+            "de": "Sambia",
+            "ja": "ザンビア",
+            "fr": "Zambie"
+          },
           "topLevelDomain": [
             ".zm"
           ],
@@ -20929,7 +22671,8 @@
             "nl": "Zambia",
             "hr": "Zambija",
             "fa": "زامبیا",
-            "vn": "Zambia"
+            "vn": "Zambia",
+            "en": "Zambia"
           },
           "flag": "https://restcountries.eu/data/zmb.svg",
           "regionalBlocs": [
@@ -20954,7 +22697,13 @@
           }
         },
         {
-          "name": "Zimbabwe",
+          "name": {
+            "en": "Zimbabwe",
+            "vn": "Dim-ba-bu-ê",
+            "de": "Simbabwe",
+            "ja": "ジンバブエ",
+            "fr": "Zimbabwe"
+          },
           "topLevelDomain": [
             ".zw"
           ],
@@ -21067,7 +22816,8 @@
             "nl": "Zimbabwe",
             "hr": "Zimbabve",
             "fa": "زیمباوه",
-            "vn": "Zimbabwe"
+            "vn": "Zimbabwe",
+            "en": "Zimbabwe"
           },
           "flag": "https://restcountries.eu/data/zwe.svg",
           "regionalBlocs": [

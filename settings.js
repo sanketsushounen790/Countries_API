@@ -18,13 +18,17 @@ var data = loadJSON("db.json") */
 /* for ( var i=0;i<data["countriesAPI"].length;i++){
     for(var j=0;j<countriesList["countriesList"].length;j++){
         if(data["countriesAPI"][i]["name"]===countriesList["countriesList"][j]["name"]){
-            data["countriesAPI"][i]["nationalAnthem"] = countriesList["countriesList"][j]["nationalAnthem"]
+            data["countriesAPI"][i]["translation"] = countriesList["countriesList"][j]["nationalAnthem"]
         }
     }
-} */
+}  */
 
 /* countriesList["countriesList"].map(d => {
-    d["nationalAnthem"]["audio"] = ""
+    d["name"]["en"]= d["translations"]["en"]
+})  */
+
+/* data["countriesAPI"].map(d => {
+    d["name"]["fr"] = d["translations"]["fr"]
 }) */
 
 /* saveJSON("db.json", data) */
